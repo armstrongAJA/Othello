@@ -27,9 +27,10 @@ class Board:
 
     def is_empty(self, x, y):
         if 0 <= x < self.size and 0 <= y < self.size:
-            return self.board[y][x] == 0
+            return self.board[y][x] == spaceState.EMPTY
         else:
             raise ValueError("Coordinates out of bounds")
 
     def clear_board(self):
-        self.board = [[0 for _ in range(self.size)] for _ in range(self.size)]
+        self.board = [[spaceState.EMPTY for _ in range(self.size)] for _ in range(self.size)]
+    
