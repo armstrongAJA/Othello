@@ -5,6 +5,7 @@ from Player import Player
 from AI import AI
 from types import SimpleNamespace
 import threading
+import ui_helpers
 import logging
 import os
 import time
@@ -63,53 +64,9 @@ class GameUI:
                 f.write(f"{time.strftime('%Y-%m-%d %H:%M:%S')} UI INIT\n")
         except Exception:
             pass
-        # Bind global event capture to ensure clicks are captured to file
+        # Bind global event capture and release forwarding via helper
         try:
-            def _global_click(e):
-                try:
-                    with open(debug_path, 'a') as f:
-                        f.write(f"{time.strftime('%Y-%m-%d %H:%M:%S')} GLOBAL CLICK widget={str(e.widget)} x={getattr(e,'x_root',None)} y={getattr(e,'y_root',None)} type={getattr(e,'type',None)} focus={str(self.root.focus_get())}\n")
-                except Exception:
-                    pass
-                # attempt to draw a transient dot on the canvas if the click falls inside it
-                try:
-                    if hasattr(self, 'canvas') and self.canvas.winfo_ismapped():
-                        cx = e.x_root - self.canvas.winfo_rootx()
-                        cy = e.y_root - self.canvas.winfo_rooty()
-                        if 0 <= cx < self.canvas.winfo_width() and 0 <= cy < self.canvas.winfo_height():
-                            dot = self.canvas.create_oval(cx-3, cy-3, cx+3, cy+3, fill='red', outline='')
-                            self.root.after(200, lambda: self.canvas.delete(dot))
-                except Exception:
-                    pass
-
-            # use bind_all with '+' to add handler without replacing others
-            self.root.bind_all('<ButtonPress-1>', _global_click, add='+')
-            self.root.bind_all('<FocusIn>', lambda e: open(debug_path, 'a').write(f"{time.strftime('%Y-%m-%d %H:%M:%S')} FOCUS IN widget={str(e.widget)}\n"), add='+')
-            self.root.bind_all('<FocusOut>', lambda e: open(debug_path, 'a').write(f"{time.strftime('%Y-%m-%d %H:%M:%S')} FOCUS OUT widget={str(e.widget)}\n"), add='+')
-            # Forward global releases into the canvas when they occur inside it
-            def _global_release_forward(e):
-                try:
-                    if hasattr(self, 'canvas') and self.canvas.winfo_ismapped():
-                        wx = getattr(e, 'x_root', None)
-                        wy = getattr(e, 'y_root', None)
-                        if wx is None or wy is None:
-                            return
-                        cx = wx - self.canvas.winfo_rootx()
-                        cy = wy - self.canvas.winfo_rooty()
-                        if 0 <= cx < self.canvas.winfo_width() and 0 <= cy < self.canvas.winfo_height():
-                            try:
-                                event_logger.info('Forwarding global release to canvas at %s,%s', cx, cy)
-                            except Exception:
-                                pass
-                            fake = SimpleNamespace(x=int(cx), y=int(cy), widget=self.canvas, x_root=wx, y_root=wy)
-                            try:
-                                self._on_canvas_release(fake)
-                            except Exception:
-                                pass
-                except Exception:
-                    pass
-
-            self.root.bind_all('<ButtonRelease-1>', _global_release_forward, add='+')
+            ui_helpers.setup_global_bindings(self, debug_path)
         except Exception:
             pass
 
@@ -695,58 +652,10 @@ class GameUI:
 
         # If current player is AI, schedule a single AI move after a short delay
         if getattr(self.game.current_player, "mode", "human") == "AI" and not self.game.check_game_over():
-            def do_ai_move():
-                # Run AI computation in a background thread to avoid blocking the GUI
-                def worker():
-                    try:
-                        event_logger.info('AI computation started')
-                    except Exception:
-                        pass
-                    ai_move = None
-                    try:
-                        ai_move = self.game.current_player.choose_move(self.game.board)
-                    except Exception:
-                        try:
-                            # let AI instance decide its default depth if None passed
-                            ai_move = self.game.current_player.choose_move_minimax(self.game.board, None)
-                        except Exception:
-                            ai_move = None
-
-                    def apply_move():
-                        try:
-                            if ai_move:
-                                logger.debug('AI selected move %s', ai_move)
-                                result = self.game.play_turn(ai_move[0], ai_move[1])
-                                logger.debug('AI play_turn result %s', result)
-                                if result and result.get('flipped'):
-                                    # animate flips for AI move; when animation finishes it will call after_move again
-                                    self.animate_flips(result.get('flipped'), result.get('mover_color'))
-                                else:
-                                    # no flips (should be rare), redraw and schedule next AI move
-                                    self.draw_board()
-                                    self.update_status()
-                                    self.root.after(300, self.after_move)
-                            else:
-                                # no AI move available; just redraw
-                                self.draw_board()
-                                self.update_status()
-                        except Exception:
-                            logger.exception('Error applying AI move')
-                    try:
-                        # schedule application on main thread
-                        self.root.after(0, apply_move)
-                    except Exception:
-                        pass
-                    try:
-                        event_logger.info('AI computation finished')
-                    except Exception:
-                        pass
-
-                t = threading.Thread(target=worker, daemon=True)
-                t.start()
-
-            # small delay so animations and UI updates are visible
-            self.root.after(300, do_ai_move)
+            try:
+                ui_helpers.schedule_ai_move(self, delay_ms=300)
+            except Exception:
+                pass
 
         if self.game.check_game_over() and not getattr(self, '_game_over_displayed', False):
             self._game_over_displayed = True
@@ -810,16 +719,7 @@ class GameUI:
                 self.animating = False
                 # replay any queued clicks that happened during the animation
                 try:
-                    if getattr(self, '_pending_clicks', None):
-                        try:
-                            px, py = self._pending_clicks.pop(0)
-                            # synthesize an event object similar to the real one
-                            fake = SimpleNamespace(x=px, y=py, widget=self.canvas, x_root=None, y_root=None)
-                            event_logger.info('Replaying queued click at (%s,%s)', px, py)
-                            # schedule slightly later to allow UI settle
-                            self.root.after(50, lambda: self.on_click(fake))
-                        except Exception:
-                            pass
+                    ui_helpers.replay_queued_click(self)
                 except Exception:
                     pass
                 # continue with AI loop if needed
