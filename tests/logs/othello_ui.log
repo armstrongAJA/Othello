@@ -1,0 +1,3378 @@
+2026-02-14 15:12:37,118 INFO Main menu focused; focus_get=None grab=None
+2026-02-14 15:12:41,400 INFO Mode changed: black=Human white=AI
+2026-02-14 15:12:41,401 INFO Radio selected white_menu value=AI
+2026-02-14 15:12:43,467 INFO MainMenu: Start Game clicked; black_mode=Human white_mode=AI
+2026-02-14 15:12:43,724 INFO FOCUS_LABEL update focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:43,921 INFO Canvas focus on enter
+2026-02-14 15:12:43,928 INFO MOTION pixels=(144,203)
+2026-02-14 15:12:43,928 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,941 INFO MOTION pixels=(143,204)
+2026-02-14 15:12:43,941 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,943 INFO MOTION pixels=(142,206)
+2026-02-14 15:12:43,943 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,955 INFO MOTION pixels=(142,208)
+2026-02-14 15:12:43,955 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,964 INFO MOTION pixels=(141,211)
+2026-02-14 15:12:43,964 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,972 INFO MOTION pixels=(141,213)
+2026-02-14 15:12:43,972 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,983 INFO MOTION pixels=(141,216)
+2026-02-14 15:12:43,983 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,988 INFO MOTION pixels=(141,218)
+2026-02-14 15:12:43,988 INFO Motion auto-focused canvas
+2026-02-14 15:12:43,996 INFO MOTION pixels=(144,222)
+2026-02-14 15:12:43,996 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,005 INFO MOTION pixels=(148,225)
+2026-02-14 15:12:44,005 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,013 INFO MOTION pixels=(154,227)
+2026-02-14 15:12:44,013 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,021 INFO MOTION pixels=(163,229)
+2026-02-14 15:12:44,021 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,029 INFO MOTION pixels=(171,231)
+2026-02-14 15:12:44,029 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,038 INFO MOTION pixels=(181,231)
+2026-02-14 15:12:44,038 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,048 INFO MOTION pixels=(192,232)
+2026-02-14 15:12:44,048 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,054 INFO MOTION pixels=(198,232)
+2026-02-14 15:12:44,054 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,063 INFO MOTION pixels=(208,232)
+2026-02-14 15:12:44,063 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,071 INFO MOTION pixels=(217,232)
+2026-02-14 15:12:44,071 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,079 INFO MOTION pixels=(226,230)
+2026-02-14 15:12:44,079 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,087 INFO MOTION pixels=(234,228)
+2026-02-14 15:12:44,087 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,096 INFO MOTION pixels=(240,226)
+2026-02-14 15:12:44,096 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,104 INFO MOTION pixels=(247,223)
+2026-02-14 15:12:44,104 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,116 INFO MOTION pixels=(254,218)
+2026-02-14 15:12:44,116 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,124 INFO MOTION pixels=(257,215)
+2026-02-14 15:12:44,124 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,137 INFO MOTION pixels=(263,209)
+2026-02-14 15:12:44,137 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,145 INFO MOTION pixels=(264,205)
+2026-02-14 15:12:44,145 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,153 INFO MOTION pixels=(266,199)
+2026-02-14 15:12:44,153 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,166 INFO MOTION pixels=(267,195)
+2026-02-14 15:12:44,166 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,174 INFO MOTION pixels=(267,193)
+2026-02-14 15:12:44,174 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,182 INFO MOTION pixels=(267,189)
+2026-02-14 15:12:44,182 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,190 INFO MOTION pixels=(267,185)
+2026-02-14 15:12:44,190 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,198 INFO MOTION pixels=(266,182)
+2026-02-14 15:12:44,198 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,207 INFO MOTION pixels=(263,181)
+2026-02-14 15:12:44,207 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,215 INFO MOTION pixels=(258,179)
+2026-02-14 15:12:44,215 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,223 INFO MOTION pixels=(254,178)
+2026-02-14 15:12:44,223 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,231 INFO MOTION pixels=(249,177)
+2026-02-14 15:12:44,231 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,240 INFO MOTION pixels=(244,176)
+2026-02-14 15:12:44,240 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,250 INFO MOTION pixels=(234,174)
+2026-02-14 15:12:44,250 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,256 INFO MOTION pixels=(226,173)
+2026-02-14 15:12:44,256 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,268 INFO MOTION pixels=(214,170)
+2026-02-14 15:12:44,268 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,276 INFO MOTION pixels=(208,169)
+2026-02-14 15:12:44,276 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,285 INFO MOTION pixels=(204,168)
+2026-02-14 15:12:44,285 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,293 INFO MOTION pixels=(201,167)
+2026-02-14 15:12:44,293 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,301 INFO MOTION pixels=(197,166)
+2026-02-14 15:12:44,301 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,310 INFO MOTION pixels=(192,165)
+2026-02-14 15:12:44,310 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,318 INFO MOTION pixels=(190,164)
+2026-02-14 15:12:44,318 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,326 INFO MOTION pixels=(188,164)
+2026-02-14 15:12:44,326 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,334 INFO MOTION pixels=(187,163)
+2026-02-14 15:12:44,334 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,355 INFO MOTION pixels=(186,163)
+2026-02-14 15:12:44,355 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,417 INFO MOTION pixels=(186,162)
+2026-02-14 15:12:44,417 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,442 INFO MOTION pixels=(187,162)
+2026-02-14 15:12:44,442 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,466 INFO MOTION pixels=(188,162)
+2026-02-14 15:12:44,467 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,475 INFO MOTION pixels=(189,162)
+2026-02-14 15:12:44,475 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,483 INFO MOTION pixels=(191,162)
+2026-02-14 15:12:44,483 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,491 INFO MOTION pixels=(192,162)
+2026-02-14 15:12:44,491 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,499 INFO MOTION pixels=(194,162)
+2026-02-14 15:12:44,499 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,508 INFO MOTION pixels=(195,162)
+2026-02-14 15:12:44,508 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,516 INFO MOTION pixels=(197,163)
+2026-02-14 15:12:44,516 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,524 INFO MOTION pixels=(199,163)
+2026-02-14 15:12:44,524 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,532 INFO MOTION pixels=(200,163)
+2026-02-14 15:12:44,532 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,540 INFO MOTION pixels=(201,163)
+2026-02-14 15:12:44,540 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,549 INFO MOTION pixels=(202,163)
+2026-02-14 15:12:44,549 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,557 INFO MOTION pixels=(203,163)
+2026-02-14 15:12:44,557 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,573 INFO MOTION pixels=(204,163)
+2026-02-14 15:12:44,573 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,785 INFO MOTION pixels=(204,162)
+2026-02-14 15:12:44,785 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,797 INFO MOTION pixels=(205,162)
+2026-02-14 15:12:44,797 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,821 INFO MOTION pixels=(205,161)
+2026-02-14 15:12:44,822 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,913 INFO MOTION pixels=(205,160)
+2026-02-14 15:12:44,913 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,958 INFO MOTION pixels=(206,160)
+2026-02-14 15:12:44,958 INFO Motion auto-focused canvas
+2026-02-14 15:12:44,983 INFO MOTION pixels=(206,159)
+2026-02-14 15:12:44,983 INFO Motion auto-focused canvas
+2026-02-14 15:12:45,152 INFO MOTION pixels=(206,158)
+2026-02-14 15:12:45,153 INFO Motion auto-focused canvas
+2026-02-14 15:12:45,317 INFO MOTION pixels=(206,157)
+2026-02-14 15:12:45,317 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,466 INFO MOTION pixels=(206,156)
+2026-02-14 15:12:46,467 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,519 INFO MOTION pixels=(206,155)
+2026-02-14 15:12:46,519 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,569 INFO MOTION pixels=(207,155)
+2026-02-14 15:12:46,569 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,597 INFO MOTION pixels=(207,154)
+2026-02-14 15:12:46,598 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,676 INFO MOTION pixels=(208,153)
+2026-02-14 15:12:46,676 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,686 INFO MOTION pixels=(208,152)
+2026-02-14 15:12:46,686 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,693 INFO MOTION pixels=(209,152)
+2026-02-14 15:12:46,693 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,700 INFO MOTION pixels=(209,151)
+2026-02-14 15:12:46,700 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,708 INFO MOTION pixels=(210,150)
+2026-02-14 15:12:46,708 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,716 INFO MOTION pixels=(211,150)
+2026-02-14 15:12:46,716 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,724 INFO MOTION pixels=(211,149)
+2026-02-14 15:12:46,724 INFO Motion auto-focused canvas
+2026-02-14 15:12:46,753 INFO MOTION pixels=(212,148)
+2026-02-14 15:12:46,753 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,115 INFO MOTION pixels=(212,149)
+2026-02-14 15:12:48,115 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,124 INFO MOTION pixels=(210,151)
+2026-02-14 15:12:48,125 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,131 INFO MOTION pixels=(207,157)
+2026-02-14 15:12:48,131 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,138 INFO MOTION pixels=(204,161)
+2026-02-14 15:12:48,138 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,146 INFO MOTION pixels=(200,167)
+2026-02-14 15:12:48,146 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,154 INFO MOTION pixels=(195,173)
+2026-02-14 15:12:48,154 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,166 INFO MOTION pixels=(188,183)
+2026-02-14 15:12:48,166 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,174 INFO MOTION pixels=(184,186)
+2026-02-14 15:12:48,174 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,183 INFO MOTION pixels=(182,188)
+2026-02-14 15:12:48,183 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,191 INFO MOTION pixels=(178,191)
+2026-02-14 15:12:48,191 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,199 INFO MOTION pixels=(175,193)
+2026-02-14 15:12:48,199 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,207 INFO MOTION pixels=(173,195)
+2026-02-14 15:12:48,207 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,216 INFO MOTION pixels=(172,196)
+2026-02-14 15:12:48,216 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,224 INFO MOTION pixels=(171,196)
+2026-02-14 15:12:48,224 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,232 INFO MOTION pixels=(170,196)
+2026-02-14 15:12:48,232 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,266 INFO MOTION pixels=(170,195)
+2026-02-14 15:12:48,266 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,273 INFO MOTION pixels=(170,194)
+2026-02-14 15:12:48,273 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,281 INFO MOTION pixels=(170,193)
+2026-02-14 15:12:48,281 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,290 INFO MOTION pixels=(170,192)
+2026-02-14 15:12:48,290 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,298 INFO MOTION pixels=(171,189)
+2026-02-14 15:12:48,298 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,310 INFO MOTION pixels=(172,188)
+2026-02-14 15:12:48,310 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,319 INFO MOTION pixels=(173,186)
+2026-02-14 15:12:48,319 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,327 INFO MOTION pixels=(174,183)
+2026-02-14 15:12:48,327 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,335 INFO MOTION pixels=(176,180)
+2026-02-14 15:12:48,335 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,343 INFO MOTION pixels=(177,179)
+2026-02-14 15:12:48,343 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,351 INFO MOTION pixels=(179,176)
+2026-02-14 15:12:48,351 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,360 INFO MOTION pixels=(180,174)
+2026-02-14 15:12:48,360 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,368 INFO MOTION pixels=(180,173)
+2026-02-14 15:12:48,368 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,376 INFO MOTION pixels=(181,172)
+2026-02-14 15:12:48,376 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,385 INFO MOTION pixels=(182,171)
+2026-02-14 15:12:48,385 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,405 INFO MOTION pixels=(182,170)
+2026-02-14 15:12:48,405 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,413 INFO MOTION pixels=(183,170)
+2026-02-14 15:12:48,413 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,422 INFO MOTION pixels=(183,169)
+2026-02-14 15:12:48,422 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,455 INFO MOTION pixels=(184,169)
+2026-02-14 15:12:48,455 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,471 INFO MOTION pixels=(184,168)
+2026-02-14 15:12:48,471 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,479 INFO MOTION pixels=(184,167)
+2026-02-14 15:12:48,479 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,487 INFO MOTION pixels=(185,167)
+2026-02-14 15:12:48,488 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,500 INFO MOTION pixels=(186,165)
+2026-02-14 15:12:48,500 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,508 INFO MOTION pixels=(186,164)
+2026-02-14 15:12:48,508 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,517 INFO MOTION pixels=(187,163)
+2026-02-14 15:12:48,517 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,529 INFO MOTION pixels=(188,162)
+2026-02-14 15:12:48,529 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,537 INFO MOTION pixels=(190,160)
+2026-02-14 15:12:48,537 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,545 INFO MOTION pixels=(191,159)
+2026-02-14 15:12:48,545 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,553 INFO MOTION pixels=(191,158)
+2026-02-14 15:12:48,553 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,562 INFO MOTION pixels=(192,158)
+2026-02-14 15:12:48,562 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,570 INFO MOTION pixels=(193,157)
+2026-02-14 15:12:48,570 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,595 INFO MOTION pixels=(194,157)
+2026-02-14 15:12:48,595 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,603 INFO MOTION pixels=(194,156)
+2026-02-14 15:12:48,603 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,665 INFO MOTION pixels=(194,155)
+2026-02-14 15:12:48,665 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,697 INFO MOTION pixels=(194,154)
+2026-02-14 15:12:48,697 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,706 INFO MOTION pixels=(195,154)
+2026-02-14 15:12:48,706 INFO Motion auto-focused canvas
+2026-02-14 15:12:48,723 INFO MOTION pixels=(195,153)
+2026-02-14 15:12:48,723 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,082 INFO MOTION pixels=(196,153)
+2026-02-14 15:12:49,083 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,090 INFO MOTION pixels=(198,153)
+2026-02-14 15:12:49,090 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,098 INFO MOTION pixels=(200,153)
+2026-02-14 15:12:49,098 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,106 INFO MOTION pixels=(202,152)
+2026-02-14 15:12:49,106 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,114 INFO MOTION pixels=(206,152)
+2026-02-14 15:12:49,114 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,122 INFO MOTION pixels=(209,152)
+2026-02-14 15:12:49,122 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,130 INFO MOTION pixels=(214,152)
+2026-02-14 15:12:49,130 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,138 INFO MOTION pixels=(220,152)
+2026-02-14 15:12:49,138 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,147 INFO MOTION pixels=(225,152)
+2026-02-14 15:12:49,147 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,155 INFO MOTION pixels=(232,152)
+2026-02-14 15:12:49,155 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,163 INFO MOTION pixels=(237,152)
+2026-02-14 15:12:49,163 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,175 INFO MOTION pixels=(239,152)
+2026-02-14 15:12:49,176 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,184 INFO MOTION pixels=(243,152)
+2026-02-14 15:12:49,184 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,192 INFO MOTION pixels=(245,152)
+2026-02-14 15:12:49,192 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,200 INFO MOTION pixels=(247,152)
+2026-02-14 15:12:49,200 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,208 INFO MOTION pixels=(248,152)
+2026-02-14 15:12:49,208 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,216 INFO MOTION pixels=(249,152)
+2026-02-14 15:12:49,216 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,229 INFO MOTION pixels=(250,152)
+2026-02-14 15:12:49,229 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,349 INFO CANVAS PRESS widget=.!frame2.!canvas x=250 y=152 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:49,351 INFO Forwarding global press to canvas at 250,152
+2026-02-14 15:12:49,351 INFO CANVAS PRESS widget=.!frame2.!canvas x=250 y=152 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:49,542 INFO CANVAS RELEASE widget=.!frame2.!canvas x=248 y=152 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:49,543 INFO CANVAS ITEMS AT RELEASE: [(28, 'oval', [247.0, 149.0, 253.0, 155.0], 'red')]
+2026-02-14 15:12:49,567 INFO POINTER pos=(253,238) containing_widget=.!frame2.!canvas
+2026-02-14 15:12:49,567 INFO CLICK pixels=(248,152) -> canvas
+2026-02-14 15:12:49,568 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:49,577 INFO Forwarding global release to canvas at 248,152
+2026-02-14 15:12:49,577 INFO CANVAS RELEASE widget=.!frame2.!canvas x=248 y=152 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:49,577 INFO CANVAS ITEMS AT RELEASE: []
+2026-02-14 15:12:49,577 INFO POINTER pos=(253,238) containing_widget=.!frame2.!canvas
+2026-02-14 15:12:49,577 INFO CLICK pixels=(248,152) -> canvas
+2026-02-14 15:12:49,577 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:49,769 INFO MOTION pixels=(247,152)
+2026-02-14 15:12:49,769 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,786 INFO MOTION pixels=(246,152)
+2026-02-14 15:12:49,786 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,806 INFO MOTION pixels=(244,152)
+2026-02-14 15:12:49,806 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,814 INFO MOTION pixels=(242,152)
+2026-02-14 15:12:49,814 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,823 INFO MOTION pixels=(240,152)
+2026-02-14 15:12:49,823 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,831 INFO MOTION pixels=(238,152)
+2026-02-14 15:12:49,831 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,839 INFO MOTION pixels=(237,152)
+2026-02-14 15:12:49,839 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,847 INFO MOTION pixels=(234,152)
+2026-02-14 15:12:49,847 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,855 INFO MOTION pixels=(232,153)
+2026-02-14 15:12:49,855 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,868 INFO MOTION pixels=(231,153)
+2026-02-14 15:12:49,868 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,876 INFO MOTION pixels=(229,153)
+2026-02-14 15:12:49,876 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,885 INFO MOTION pixels=(228,153)
+2026-02-14 15:12:49,885 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,892 INFO MOTION pixels=(227,153)
+2026-02-14 15:12:49,892 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,909 INFO MOTION pixels=(226,153)
+2026-02-14 15:12:49,909 INFO Motion auto-focused canvas
+2026-02-14 15:12:49,917 INFO MOTION pixels=(225,153)
+2026-02-14 15:12:49,917 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,372 INFO MOTION pixels=(226,153)
+2026-02-14 15:12:50,372 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,381 INFO MOTION pixels=(227,153)
+2026-02-14 15:12:50,381 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,387 INFO MOTION pixels=(228,153)
+2026-02-14 15:12:50,387 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,404 INFO MOTION pixels=(229,153)
+2026-02-14 15:12:50,404 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,420 INFO MOTION pixels=(230,153)
+2026-02-14 15:12:50,420 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,487 INFO MOTION pixels=(229,153)
+2026-02-14 15:12:50,487 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,503 INFO MOTION pixels=(228,153)
+2026-02-14 15:12:50,503 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,510 INFO MOTION pixels=(227,152)
+2026-02-14 15:12:50,510 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,519 INFO MOTION pixels=(226,152)
+2026-02-14 15:12:50,519 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,527 INFO MOTION pixels=(225,151)
+2026-02-14 15:12:50,527 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,535 INFO MOTION pixels=(223,151)
+2026-02-14 15:12:50,535 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,548 INFO MOTION pixels=(222,150)
+2026-02-14 15:12:50,548 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,556 INFO MOTION pixels=(221,150)
+2026-02-14 15:12:50,556 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,577 INFO MOTION pixels=(220,150)
+2026-02-14 15:12:50,577 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,584 INFO MOTION pixels=(220,149)
+2026-02-14 15:12:50,584 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,593 INFO MOTION pixels=(219,149)
+2026-02-14 15:12:50,593 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,618 INFO MOTION pixels=(218,149)
+2026-02-14 15:12:50,618 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,675 INFO MOTION pixels=(217,149)
+2026-02-14 15:12:50,676 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,700 INFO MOTION pixels=(217,148)
+2026-02-14 15:12:50,700 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,725 INFO MOTION pixels=(216,148)
+2026-02-14 15:12:50,725 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,742 INFO MOTION pixels=(215,148)
+2026-02-14 15:12:50,742 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,749 INFO MOTION pixels=(214,147)
+2026-02-14 15:12:50,749 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,758 INFO MOTION pixels=(213,147)
+2026-02-14 15:12:50,758 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,786 INFO MOTION pixels=(212,147)
+2026-02-14 15:12:50,786 INFO Motion auto-focused canvas
+2026-02-14 15:12:50,816 INFO CANVAS PRESS widget=.!frame2.!canvas x=212 y=147 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:50,817 INFO Forwarding global press to canvas at 212,147
+2026-02-14 15:12:50,817 INFO CANVAS PRESS widget=.!frame2.!canvas x=212 y=147 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:51,001 INFO CANVAS RELEASE widget=.!frame2.!canvas x=212 y=147 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:51,002 INFO CANVAS ITEMS AT RELEASE: [(78, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90'), (83, 'oval', [209.0, 144.0, 215.0, 150.0], 'red')]
+2026-02-14 15:12:51,002 INFO POINTER pos=(217,233) containing_widget=.!frame2.!canvas
+2026-02-14 15:12:51,002 INFO CLICK pixels=(212,147) -> canvas
+2026-02-14 15:12:51,002 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:51,025 INFO Forwarding global release to canvas at 212,147
+2026-02-14 15:12:51,025 INFO CANVAS RELEASE widget=.!frame2.!canvas x=212 y=147 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:51,025 INFO CANVAS ITEMS AT RELEASE: [(107, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90')]
+2026-02-14 15:12:51,025 INFO POINTER pos=(217,233) containing_widget=.!frame2.!canvas
+2026-02-14 15:12:51,025 INFO CLICK pixels=(212,147) -> canvas
+2026-02-14 15:12:51,025 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:51,083 INFO MOTION pixels=(212,148)
+2026-02-14 15:12:51,083 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,265 INFO MOTION pixels=(212,149)
+2026-02-14 15:12:51,265 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,303 INFO MOTION pixels=(213,150)
+2026-02-14 15:12:51,303 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,339 INFO MOTION pixels=(213,151)
+2026-02-14 15:12:51,339 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,514 INFO MOTION pixels=(214,151)
+2026-02-14 15:12:51,514 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,553 INFO MOTION pixels=(215,151)
+2026-02-14 15:12:51,553 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,569 INFO MOTION pixels=(216,152)
+2026-02-14 15:12:51,569 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,578 INFO MOTION pixels=(216,153)
+2026-02-14 15:12:51,578 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,586 INFO MOTION pixels=(217,153)
+2026-02-14 15:12:51,586 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,602 INFO MOTION pixels=(218,154)
+2026-02-14 15:12:51,602 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,652 INFO MOTION pixels=(218,155)
+2026-02-14 15:12:51,652 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,763 INFO MOTION pixels=(219,155)
+2026-02-14 15:12:51,764 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,792 INFO MOTION pixels=(220,155)
+2026-02-14 15:12:51,792 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,800 INFO MOTION pixels=(221,155)
+2026-02-14 15:12:51,800 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,808 INFO MOTION pixels=(223,156)
+2026-02-14 15:12:51,808 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,816 INFO MOTION pixels=(225,157)
+2026-02-14 15:12:51,816 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,825 INFO MOTION pixels=(226,157)
+2026-02-14 15:12:51,825 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,833 INFO MOTION pixels=(229,158)
+2026-02-14 15:12:51,833 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,841 INFO MOTION pixels=(231,159)
+2026-02-14 15:12:51,841 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,849 INFO MOTION pixels=(234,160)
+2026-02-14 15:12:51,849 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,857 INFO MOTION pixels=(236,160)
+2026-02-14 15:12:51,857 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,866 INFO MOTION pixels=(238,161)
+2026-02-14 15:12:51,866 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,874 INFO MOTION pixels=(240,162)
+2026-02-14 15:12:51,874 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,883 INFO MOTION pixels=(243,162)
+2026-02-14 15:12:51,883 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,895 INFO MOTION pixels=(245,163)
+2026-02-14 15:12:51,895 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,903 INFO MOTION pixels=(247,163)
+2026-02-14 15:12:51,903 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,911 INFO MOTION pixels=(249,163)
+2026-02-14 15:12:51,911 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,920 INFO MOTION pixels=(251,164)
+2026-02-14 15:12:51,920 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,927 INFO MOTION pixels=(253,164)
+2026-02-14 15:12:51,927 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,936 INFO MOTION pixels=(255,165)
+2026-02-14 15:12:51,936 INFO Motion auto-focused canvas
+2026-02-14 15:12:51,944 INFO MOTION pixels=(256,166)
+2026-02-14 15:12:51,944 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,006 INFO AI computation started
+2026-02-14 15:12:52,011 INFO AI computation finished
+2026-02-14 15:12:52,227 INFO MOTION pixels=(257,166)
+2026-02-14 15:12:52,227 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,240 INFO MOTION pixels=(259,165)
+2026-02-14 15:12:52,240 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,246 INFO MOTION pixels=(262,163)
+2026-02-14 15:12:52,246 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,251 INFO MOTION pixels=(265,161)
+2026-02-14 15:12:52,251 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,257 INFO MOTION pixels=(267,158)
+2026-02-14 15:12:52,257 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,266 INFO MOTION pixels=(269,157)
+2026-02-14 15:12:52,266 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,274 INFO MOTION pixels=(271,154)
+2026-02-14 15:12:52,274 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,282 INFO MOTION pixels=(273,152)
+2026-02-14 15:12:52,282 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,290 INFO MOTION pixels=(275,149)
+2026-02-14 15:12:52,290 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,300 INFO MOTION pixels=(276,148)
+2026-02-14 15:12:52,300 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,307 INFO MOTION pixels=(277,146)
+2026-02-14 15:12:52,307 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,315 INFO MOTION pixels=(278,145)
+2026-02-14 15:12:52,315 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,323 INFO MOTION pixels=(278,144)
+2026-02-14 15:12:52,323 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,340 INFO MOTION pixels=(278,143)
+2026-02-14 15:12:52,340 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,406 INFO MOTION pixels=(277,143)
+2026-02-14 15:12:52,406 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,414 INFO MOTION pixels=(275,143)
+2026-02-14 15:12:52,414 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,422 INFO MOTION pixels=(273,142)
+2026-02-14 15:12:52,422 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,431 INFO MOTION pixels=(269,141)
+2026-02-14 15:12:52,431 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,439 INFO MOTION pixels=(265,141)
+2026-02-14 15:12:52,439 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,448 INFO MOTION pixels=(260,140)
+2026-02-14 15:12:52,448 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,455 INFO MOTION pixels=(250,140)
+2026-02-14 15:12:52,455 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,463 INFO MOTION pixels=(241,140)
+2026-02-14 15:12:52,463 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,471 INFO MOTION pixels=(230,140)
+2026-02-14 15:12:52,471 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,480 INFO MOTION pixels=(219,140)
+2026-02-14 15:12:52,480 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,488 INFO MOTION pixels=(207,140)
+2026-02-14 15:12:52,488 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,499 INFO MOTION pixels=(196,140)
+2026-02-14 15:12:52,499 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,505 INFO MOTION pixels=(190,140)
+2026-02-14 15:12:52,505 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,513 INFO MOTION pixels=(181,140)
+2026-02-14 15:12:52,513 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,521 INFO MOTION pixels=(172,140)
+2026-02-14 15:12:52,521 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,529 INFO MOTION pixels=(165,141)
+2026-02-14 15:12:52,529 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,538 INFO MOTION pixels=(162,141)
+2026-02-14 15:12:52,538 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,548 INFO MOTION pixels=(158,141)
+2026-02-14 15:12:52,548 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,554 INFO MOTION pixels=(154,141)
+2026-02-14 15:12:52,554 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,562 INFO MOTION pixels=(151,141)
+2026-02-14 15:12:52,562 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,570 INFO MOTION pixels=(150,141)
+2026-02-14 15:12:52,570 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,578 INFO MOTION pixels=(149,141)
+2026-02-14 15:12:52,578 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,587 INFO MOTION pixels=(148,141)
+2026-02-14 15:12:52,587 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,598 INFO MOTION pixels=(147,141)
+2026-02-14 15:12:52,599 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,620 INFO MOTION pixels=(146,141)
+2026-02-14 15:12:52,620 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,703 INFO MOTION pixels=(145,141)
+2026-02-14 15:12:52,703 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,781 INFO MOTION pixels=(145,142)
+2026-02-14 15:12:52,781 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,814 INFO MOTION pixels=(145,143)
+2026-02-14 15:12:52,814 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,822 INFO MOTION pixels=(146,144)
+2026-02-14 15:12:52,822 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,830 INFO MOTION pixels=(146,145)
+2026-02-14 15:12:52,830 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,838 INFO MOTION pixels=(146,146)
+2026-02-14 15:12:52,838 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,847 INFO MOTION pixels=(147,147)
+2026-02-14 15:12:52,847 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,855 INFO MOTION pixels=(147,148)
+2026-02-14 15:12:52,855 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,863 INFO MOTION pixels=(148,149)
+2026-02-14 15:12:52,863 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,883 INFO MOTION pixels=(149,150)
+2026-02-14 15:12:52,883 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,891 INFO MOTION pixels=(149,151)
+2026-02-14 15:12:52,891 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,900 INFO MOTION pixels=(150,151)
+2026-02-14 15:12:52,900 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,908 INFO MOTION pixels=(150,152)
+2026-02-14 15:12:52,908 INFO Motion auto-focused canvas
+2026-02-14 15:12:52,925 INFO MOTION pixels=(151,153)
+2026-02-14 15:12:52,925 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,053 INFO MOTION pixels=(151,154)
+2026-02-14 15:12:53,053 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,065 INFO MOTION pixels=(151,155)
+2026-02-14 15:12:53,065 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,073 INFO MOTION pixels=(151,156)
+2026-02-14 15:12:53,073 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,081 INFO MOTION pixels=(151,157)
+2026-02-14 15:12:53,081 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,090 INFO MOTION pixels=(149,161)
+2026-02-14 15:12:53,090 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,098 INFO MOTION pixels=(146,164)
+2026-02-14 15:12:53,098 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,106 INFO MOTION pixels=(143,166)
+2026-02-14 15:12:53,106 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,114 INFO MOTION pixels=(139,168)
+2026-02-14 15:12:53,114 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,122 INFO MOTION pixels=(137,169)
+2026-02-14 15:12:53,122 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,131 INFO MOTION pixels=(133,171)
+2026-02-14 15:12:53,131 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,139 INFO MOTION pixels=(128,172)
+2026-02-14 15:12:53,139 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,147 INFO MOTION pixels=(125,173)
+2026-02-14 15:12:53,147 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,155 INFO MOTION pixels=(120,173)
+2026-02-14 15:12:53,155 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,163 INFO MOTION pixels=(116,173)
+2026-02-14 15:12:53,163 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,172 INFO MOTION pixels=(112,173)
+2026-02-14 15:12:53,172 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,184 INFO MOTION pixels=(109,173)
+2026-02-14 15:12:53,184 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,192 INFO MOTION pixels=(106,173)
+2026-02-14 15:12:53,192 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,201 INFO MOTION pixels=(103,171)
+2026-02-14 15:12:53,201 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,209 INFO MOTION pixels=(99,170)
+2026-02-14 15:12:53,209 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,217 INFO MOTION pixels=(97,169)
+2026-02-14 15:12:53,217 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,225 INFO MOTION pixels=(94,167)
+2026-02-14 15:12:53,225 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,234 INFO MOTION pixels=(92,166)
+2026-02-14 15:12:53,234 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,246 INFO MOTION pixels=(91,165)
+2026-02-14 15:12:53,246 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,254 INFO MOTION pixels=(90,164)
+2026-02-14 15:12:53,254 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,262 INFO MOTION pixels=(89,163)
+2026-02-14 15:12:53,262 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,270 INFO MOTION pixels=(89,162)
+2026-02-14 15:12:53,270 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,279 INFO MOTION pixels=(88,162)
+2026-02-14 15:12:53,279 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,287 INFO MOTION pixels=(88,161)
+2026-02-14 15:12:53,287 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,304 INFO MOTION pixels=(87,160)
+2026-02-14 15:12:53,304 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,320 INFO MOTION pixels=(87,159)
+2026-02-14 15:12:53,320 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,361 INFO MOTION pixels=(87,158)
+2026-02-14 15:12:53,361 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,441 INFO MOTION pixels=(87,157)
+2026-02-14 15:12:53,441 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,477 INFO MOTION pixels=(87,156)
+2026-02-14 15:12:53,477 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,502 INFO MOTION pixels=(88,156)
+2026-02-14 15:12:53,502 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,518 INFO MOTION pixels=(88,155)
+2026-02-14 15:12:53,518 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,534 INFO MOTION pixels=(89,155)
+2026-02-14 15:12:53,534 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,626 INFO MOTION pixels=(90,155)
+2026-02-14 15:12:53,626 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,667 INFO CANVAS PRESS widget=.!frame2.!canvas x=90 y=155 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:53,669 INFO Forwarding global press to canvas at 90,155
+2026-02-14 15:12:53,669 INFO CANVAS PRESS widget=.!frame2.!canvas x=90 y=155 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:53,768 INFO CANVAS RELEASE widget=.!frame2.!canvas x=90 y=155 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:53,769 INFO CANVAS ITEMS AT RELEASE: [(217, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90'), (221, 'oval', [88.0, 153.0, 92.0, 157.0], 'blue'), (222, 'oval', [87.0, 152.0, 93.0, 158.0], 'red'), (223, 'oval', [88.0, 153.0, 92.0, 157.0], 'blue')]
+2026-02-14 15:12:53,770 INFO POINTER pos=(95,241) containing_widget=.!frame2.!canvas
+2026-02-14 15:12:53,770 INFO CLICK pixels=(90,155) -> canvas
+2026-02-14 15:12:53,770 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:53,791 INFO Forwarding global release to canvas at 90,155
+2026-02-14 15:12:53,791 INFO CANVAS RELEASE widget=.!frame2.!canvas x=90 y=155 focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:53,791 INFO CANVAS ITEMS AT RELEASE: [(248, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90')]
+2026-02-14 15:12:53,792 INFO POINTER pos=(95,241) containing_widget=.!frame2.!canvas
+2026-02-14 15:12:53,792 INFO CLICK pixels=(90,155) -> canvas
+2026-02-14 15:12:53,792 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:12:53,952 INFO MOTION pixels=(91,155)
+2026-02-14 15:12:53,952 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,959 INFO MOTION pixels=(92,155)
+2026-02-14 15:12:53,960 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,968 INFO MOTION pixels=(94,154)
+2026-02-14 15:12:53,968 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,976 INFO MOTION pixels=(95,154)
+2026-02-14 15:12:53,976 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,984 INFO MOTION pixels=(96,154)
+2026-02-14 15:12:53,984 INFO Motion auto-focused canvas
+2026-02-14 15:12:53,992 INFO MOTION pixels=(97,153)
+2026-02-14 15:12:53,992 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,000 INFO MOTION pixels=(98,153)
+2026-02-14 15:12:54,000 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,008 INFO MOTION pixels=(100,153)
+2026-02-14 15:12:54,008 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,017 INFO MOTION pixels=(100,152)
+2026-02-14 15:12:54,017 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,025 INFO MOTION pixels=(101,152)
+2026-02-14 15:12:54,025 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,033 INFO MOTION pixels=(102,151)
+2026-02-14 15:12:54,033 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,050 INFO MOTION pixels=(103,151)
+2026-02-14 15:12:54,050 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,066 INFO MOTION pixels=(104,150)
+2026-02-14 15:12:54,066 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,082 INFO MOTION pixels=(105,149)
+2026-02-14 15:12:54,082 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,090 INFO MOTION pixels=(106,149)
+2026-02-14 15:12:54,090 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,099 INFO MOTION pixels=(107,148)
+2026-02-14 15:12:54,099 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,115 INFO MOTION pixels=(108,147)
+2026-02-14 15:12:54,116 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,123 INFO MOTION pixels=(109,147)
+2026-02-14 15:12:54,123 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,136 INFO MOTION pixels=(110,146)
+2026-02-14 15:12:54,136 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,144 INFO MOTION pixels=(111,146)
+2026-02-14 15:12:54,144 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,153 INFO MOTION pixels=(112,145)
+2026-02-14 15:12:54,153 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,160 INFO MOTION pixels=(113,145)
+2026-02-14 15:12:54,160 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,169 INFO MOTION pixels=(114,144)
+2026-02-14 15:12:54,169 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,177 INFO MOTION pixels=(115,144)
+2026-02-14 15:12:54,177 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,185 INFO MOTION pixels=(116,143)
+2026-02-14 15:12:54,185 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,193 INFO MOTION pixels=(117,143)
+2026-02-14 15:12:54,193 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,210 INFO MOTION pixels=(118,143)
+2026-02-14 15:12:54,210 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,218 INFO MOTION pixels=(119,142)
+2026-02-14 15:12:54,218 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,235 INFO MOTION pixels=(120,142)
+2026-02-14 15:12:54,235 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,243 INFO MOTION pixels=(121,142)
+2026-02-14 15:12:54,243 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,251 INFO MOTION pixels=(122,141)
+2026-02-14 15:12:54,251 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,268 INFO MOTION pixels=(123,141)
+2026-02-14 15:12:54,268 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,276 INFO MOTION pixels=(124,141)
+2026-02-14 15:12:54,276 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,301 INFO MOTION pixels=(125,141)
+2026-02-14 15:12:54,301 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,309 INFO MOTION pixels=(126,141)
+2026-02-14 15:12:54,309 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,317 INFO MOTION pixels=(127,141)
+2026-02-14 15:12:54,317 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,334 INFO MOTION pixels=(128,141)
+2026-02-14 15:12:54,334 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,342 INFO MOTION pixels=(129,141)
+2026-02-14 15:12:54,342 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,351 INFO MOTION pixels=(131,141)
+2026-02-14 15:12:54,351 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,358 INFO MOTION pixels=(132,141)
+2026-02-14 15:12:54,358 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,367 INFO MOTION pixels=(133,141)
+2026-02-14 15:12:54,367 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,375 INFO MOTION pixels=(135,141)
+2026-02-14 15:12:54,375 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,383 INFO MOTION pixels=(137,141)
+2026-02-14 15:12:54,383 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,391 INFO MOTION pixels=(139,141)
+2026-02-14 15:12:54,391 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,400 INFO MOTION pixels=(140,142)
+2026-02-14 15:12:54,400 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,408 INFO MOTION pixels=(142,142)
+2026-02-14 15:12:54,408 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,416 INFO MOTION pixels=(144,143)
+2026-02-14 15:12:54,416 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,429 INFO MOTION pixels=(146,144)
+2026-02-14 15:12:54,429 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,437 INFO MOTION pixels=(147,145)
+2026-02-14 15:12:54,437 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,445 INFO MOTION pixels=(149,146)
+2026-02-14 15:12:54,445 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,461 INFO MOTION pixels=(152,148)
+2026-02-14 15:12:54,461 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,469 INFO MOTION pixels=(153,149)
+2026-02-14 15:12:54,469 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,477 INFO MOTION pixels=(154,151)
+2026-02-14 15:12:54,477 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,486 INFO MOTION pixels=(155,152)
+2026-02-14 15:12:54,486 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,494 INFO MOTION pixels=(156,154)
+2026-02-14 15:12:54,494 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,503 INFO MOTION pixels=(157,156)
+2026-02-14 15:12:54,503 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,511 INFO MOTION pixels=(158,158)
+2026-02-14 15:12:54,511 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,519 INFO MOTION pixels=(159,160)
+2026-02-14 15:12:54,519 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,527 INFO MOTION pixels=(160,162)
+2026-02-14 15:12:54,527 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,535 INFO MOTION pixels=(161,165)
+2026-02-14 15:12:54,535 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,545 INFO MOTION pixels=(162,167)
+2026-02-14 15:12:54,545 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,556 INFO MOTION pixels=(162,170)
+2026-02-14 15:12:54,556 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,565 INFO MOTION pixels=(163,171)
+2026-02-14 15:12:54,565 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,573 INFO MOTION pixels=(163,174)
+2026-02-14 15:12:54,573 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,581 INFO MOTION pixels=(164,177)
+2026-02-14 15:12:54,581 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,589 INFO MOTION pixels=(164,179)
+2026-02-14 15:12:54,589 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,597 INFO MOTION pixels=(164,182)
+2026-02-14 15:12:54,597 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,605 INFO MOTION pixels=(164,183)
+2026-02-14 15:12:54,605 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,613 INFO MOTION pixels=(164,185)
+2026-02-14 15:12:54,613 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,622 INFO MOTION pixels=(165,186)
+2026-02-14 15:12:54,622 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,630 INFO MOTION pixels=(165,187)
+2026-02-14 15:12:54,630 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,647 INFO MOTION pixels=(165,188)
+2026-02-14 15:12:54,647 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,663 INFO MOTION pixels=(165,189)
+2026-02-14 15:12:54,663 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,712 INFO MOTION pixels=(165,190)
+2026-02-14 15:12:54,712 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,742 INFO MOTION pixels=(166,190)
+2026-02-14 15:12:54,742 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,759 INFO AI computation started
+2026-02-14 15:12:54,765 INFO MOTION pixels=(167,190)
+2026-02-14 15:12:54,765 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,769 INFO AI computation finished
+2026-02-14 15:12:54,776 INFO MOTION pixels=(168,190)
+2026-02-14 15:12:54,776 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,783 INFO MOTION pixels=(169,189)
+2026-02-14 15:12:54,783 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,791 INFO MOTION pixels=(171,188)
+2026-02-14 15:12:54,791 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,799 INFO MOTION pixels=(174,186)
+2026-02-14 15:12:54,799 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,808 INFO MOTION pixels=(177,185)
+2026-02-14 15:12:54,808 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,816 INFO MOTION pixels=(182,182)
+2026-02-14 15:12:54,816 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,824 INFO MOTION pixels=(186,178)
+2026-02-14 15:12:54,824 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,832 INFO MOTION pixels=(191,174)
+2026-02-14 15:12:54,832 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,840 INFO MOTION pixels=(197,170)
+2026-02-14 15:12:54,840 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,851 INFO MOTION pixels=(202,166)
+2026-02-14 15:12:54,851 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,857 INFO MOTION pixels=(207,162)
+2026-02-14 15:12:54,857 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,869 INFO MOTION pixels=(210,158)
+2026-02-14 15:12:54,870 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,880 INFO MOTION pixels=(212,156)
+2026-02-14 15:12:54,880 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,886 INFO MOTION pixels=(214,154)
+2026-02-14 15:12:54,886 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,894 INFO MOTION pixels=(216,151)
+2026-02-14 15:12:54,894 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,902 INFO MOTION pixels=(218,149)
+2026-02-14 15:12:54,902 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,911 INFO MOTION pixels=(218,147)
+2026-02-14 15:12:54,911 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,918 INFO MOTION pixels=(219,144)
+2026-02-14 15:12:54,918 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,927 INFO MOTION pixels=(220,141)
+2026-02-14 15:12:54,927 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,935 INFO MOTION pixels=(220,139)
+2026-02-14 15:12:54,935 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,943 INFO MOTION pixels=(220,136)
+2026-02-14 15:12:54,943 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,956 INFO MOTION pixels=(219,133)
+2026-02-14 15:12:54,956 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,964 INFO MOTION pixels=(218,131)
+2026-02-14 15:12:54,964 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,972 INFO MOTION pixels=(217,129)
+2026-02-14 15:12:54,972 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,985 INFO MOTION pixels=(215,127)
+2026-02-14 15:12:54,985 INFO Motion auto-focused canvas
+2026-02-14 15:12:54,993 INFO MOTION pixels=(214,125)
+2026-02-14 15:12:54,993 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,001 INFO MOTION pixels=(212,123)
+2026-02-14 15:12:55,001 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,009 INFO MOTION pixels=(211,122)
+2026-02-14 15:12:55,009 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,018 INFO MOTION pixels=(210,121)
+2026-02-14 15:12:55,018 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,026 INFO MOTION pixels=(210,120)
+2026-02-14 15:12:55,026 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,034 INFO MOTION pixels=(209,120)
+2026-02-14 15:12:55,034 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,042 INFO MOTION pixels=(209,119)
+2026-02-14 15:12:55,042 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,092 INFO MOTION pixels=(209,118)
+2026-02-14 15:12:55,092 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,150 INFO MOTION pixels=(209,117)
+2026-02-14 15:12:55,150 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,174 INFO MOTION pixels=(209,116)
+2026-02-14 15:12:55,174 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,187 INFO MOTION pixels=(210,116)
+2026-02-14 15:12:55,187 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,195 INFO MOTION pixels=(210,115)
+2026-02-14 15:12:55,195 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,204 INFO MOTION pixels=(211,114)
+2026-02-14 15:12:55,204 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,211 INFO MOTION pixels=(211,113)
+2026-02-14 15:12:55,211 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,220 INFO MOTION pixels=(212,112)
+2026-02-14 15:12:55,220 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,228 INFO MOTION pixels=(212,110)
+2026-02-14 15:12:55,228 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,236 INFO MOTION pixels=(214,107)
+2026-02-14 15:12:55,236 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,244 INFO MOTION pixels=(215,105)
+2026-02-14 15:12:55,244 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,253 INFO MOTION pixels=(215,104)
+2026-02-14 15:12:55,253 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,265 INFO MOTION pixels=(217,101)
+2026-02-14 15:12:55,265 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,273 INFO MOTION pixels=(217,99)
+2026-02-14 15:12:55,273 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,281 INFO MOTION pixels=(218,97)
+2026-02-14 15:12:55,281 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,290 INFO MOTION pixels=(219,95)
+2026-02-14 15:12:55,290 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,298 INFO MOTION pixels=(219,93)
+2026-02-14 15:12:55,298 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,306 INFO MOTION pixels=(219,92)
+2026-02-14 15:12:55,306 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,315 INFO MOTION pixels=(220,90)
+2026-02-14 15:12:55,315 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,331 INFO MOTION pixels=(220,89)
+2026-02-14 15:12:55,331 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,349 INFO MOTION pixels=(220,88)
+2026-02-14 15:12:55,349 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,405 INFO MOTION pixels=(219,88)
+2026-02-14 15:12:55,405 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,448 INFO MOTION pixels=(218,88)
+2026-02-14 15:12:55,448 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,467 INFO MOTION pixels=(217,88)
+2026-02-14 15:12:55,467 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,479 INFO MOTION pixels=(215,88)
+2026-02-14 15:12:55,479 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,487 INFO MOTION pixels=(214,87)
+2026-02-14 15:12:55,487 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,499 INFO MOTION pixels=(212,87)
+2026-02-14 15:12:55,499 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,508 INFO MOTION pixels=(210,87)
+2026-02-14 15:12:55,508 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,516 INFO MOTION pixels=(209,87)
+2026-02-14 15:12:55,516 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,524 INFO MOTION pixels=(206,86)
+2026-02-14 15:12:55,524 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,532 INFO MOTION pixels=(203,86)
+2026-02-14 15:12:55,532 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,540 INFO MOTION pixels=(200,86)
+2026-02-14 15:12:55,540 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,549 INFO MOTION pixels=(197,86)
+2026-02-14 15:12:55,549 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,557 INFO MOTION pixels=(194,86)
+2026-02-14 15:12:55,558 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,566 INFO MOTION pixels=(190,86)
+2026-02-14 15:12:55,567 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,574 INFO MOTION pixels=(186,86)
+2026-02-14 15:12:55,574 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,582 INFO MOTION pixels=(182,87)
+2026-02-14 15:12:55,582 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,590 INFO MOTION pixels=(178,89)
+2026-02-14 15:12:55,590 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,599 INFO MOTION pixels=(174,90)
+2026-02-14 15:12:55,599 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,606 INFO MOTION pixels=(169,92)
+2026-02-14 15:12:55,606 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,615 INFO MOTION pixels=(165,94)
+2026-02-14 15:12:55,615 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,623 INFO MOTION pixels=(159,96)
+2026-02-14 15:12:55,623 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,989 INFO MOTION pixels=(157,96)
+2026-02-14 15:12:55,989 INFO Motion auto-focused canvas
+2026-02-14 15:12:55,998 INFO MOTION pixels=(153,92)
+2026-02-14 15:12:55,998 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,004 INFO MOTION pixels=(149,89)
+2026-02-14 15:12:56,004 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,011 INFO MOTION pixels=(142,85)
+2026-02-14 15:12:56,011 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,019 INFO MOTION pixels=(137,81)
+2026-02-14 15:12:56,019 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,027 INFO MOTION pixels=(131,77)
+2026-02-14 15:12:56,027 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,035 INFO MOTION pixels=(128,75)
+2026-02-14 15:12:56,036 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,043 INFO MOTION pixels=(124,72)
+2026-02-14 15:12:56,044 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,051 INFO MOTION pixels=(120,68)
+2026-02-14 15:12:56,051 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,060 INFO MOTION pixels=(118,66)
+2026-02-14 15:12:56,060 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,068 INFO MOTION pixels=(115,64)
+2026-02-14 15:12:56,068 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,077 INFO MOTION pixels=(113,63)
+2026-02-14 15:12:56,077 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,085 INFO MOTION pixels=(110,60)
+2026-02-14 15:12:56,085 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,093 INFO MOTION pixels=(108,58)
+2026-02-14 15:12:56,093 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,101 INFO MOTION pixels=(107,57)
+2026-02-14 15:12:56,101 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,109 INFO MOTION pixels=(104,54)
+2026-02-14 15:12:56,109 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,118 INFO MOTION pixels=(103,53)
+2026-02-14 15:12:56,118 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,130 INFO MOTION pixels=(101,51)
+2026-02-14 15:12:56,130 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,138 INFO MOTION pixels=(100,50)
+2026-02-14 15:12:56,138 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,146 INFO MOTION pixels=(98,48)
+2026-02-14 15:12:56,146 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,154 INFO MOTION pixels=(97,46)
+2026-02-14 15:12:56,154 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,163 INFO MOTION pixels=(95,45)
+2026-02-14 15:12:56,163 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,171 INFO MOTION pixels=(94,43)
+2026-02-14 15:12:56,171 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,179 INFO MOTION pixels=(93,42)
+2026-02-14 15:12:56,179 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,187 INFO MOTION pixels=(92,41)
+2026-02-14 15:12:56,187 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,195 INFO MOTION pixels=(91,40)
+2026-02-14 15:12:56,195 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,204 INFO MOTION pixels=(91,39)
+2026-02-14 15:12:56,204 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,213 INFO MOTION pixels=(90,38)
+2026-02-14 15:12:56,213 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,221 INFO MOTION pixels=(90,37)
+2026-02-14 15:12:56,221 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,230 INFO MOTION pixels=(89,36)
+2026-02-14 15:12:56,230 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,237 INFO MOTION pixels=(89,35)
+2026-02-14 15:12:56,237 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,245 INFO MOTION pixels=(89,34)
+2026-02-14 15:12:56,245 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,253 INFO MOTION pixels=(88,34)
+2026-02-14 15:12:56,253 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,261 INFO MOTION pixels=(88,33)
+2026-02-14 15:12:56,261 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,270 INFO MOTION pixels=(88,32)
+2026-02-14 15:12:56,270 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,295 INFO MOTION pixels=(88,31)
+2026-02-14 15:12:56,295 INFO Motion auto-focused canvas
+2026-02-14 15:12:56,423 INFO MOTION pixels=(88,30)
+2026-02-14 15:12:56,424 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,725 INFO MOTION pixels=(91,30)
+2026-02-14 15:12:57,725 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,733 INFO MOTION pixels=(93,30)
+2026-02-14 15:12:57,733 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,741 INFO MOTION pixels=(96,30)
+2026-02-14 15:12:57,741 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,749 INFO MOTION pixels=(98,30)
+2026-02-14 15:12:57,749 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,757 INFO MOTION pixels=(100,30)
+2026-02-14 15:12:57,757 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,770 INFO MOTION pixels=(101,29)
+2026-02-14 15:12:57,770 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,778 INFO MOTION pixels=(103,29)
+2026-02-14 15:12:57,778 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,786 INFO MOTION pixels=(104,29)
+2026-02-14 15:12:57,786 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,799 INFO MOTION pixels=(105,29)
+2026-02-14 15:12:57,799 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,840 INFO MOTION pixels=(105,30)
+2026-02-14 15:12:57,840 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,865 INFO MOTION pixels=(105,31)
+2026-02-14 15:12:57,865 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,881 INFO MOTION pixels=(105,32)
+2026-02-14 15:12:57,881 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,914 INFO MOTION pixels=(106,32)
+2026-02-14 15:12:57,914 INFO Motion auto-focused canvas
+2026-02-14 15:12:57,960 INFO MOTION pixels=(106,33)
+2026-02-14 15:12:57,960 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,724 INFO MOTION pixels=(105,33)
+2026-02-14 15:12:59,724 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,732 INFO MOTION pixels=(104,33)
+2026-02-14 15:12:59,732 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,740 INFO MOTION pixels=(103,33)
+2026-02-14 15:12:59,740 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,759 INFO MOTION pixels=(102,33)
+2026-02-14 15:12:59,760 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,768 INFO MOTION pixels=(101,33)
+2026-02-14 15:12:59,768 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,780 INFO MOTION pixels=(99,33)
+2026-02-14 15:12:59,780 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,797 INFO MOTION pixels=(98,33)
+2026-02-14 15:12:59,797 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,805 INFO MOTION pixels=(97,33)
+2026-02-14 15:12:59,805 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,813 INFO MOTION pixels=(96,33)
+2026-02-14 15:12:59,813 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,821 INFO MOTION pixels=(95,32)
+2026-02-14 15:12:59,821 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,834 INFO MOTION pixels=(94,31)
+2026-02-14 15:12:59,834 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,838 INFO MOTION pixels=(93,31)
+2026-02-14 15:12:59,838 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,846 INFO MOTION pixels=(91,30)
+2026-02-14 15:12:59,846 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,863 INFO MOTION pixels=(91,29)
+2026-02-14 15:12:59,863 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,875 INFO MOTION pixels=(90,29)
+2026-02-14 15:12:59,875 INFO Motion auto-focused canvas
+2026-02-14 15:12:59,891 INFO MOTION pixels=(90,28)
+2026-02-14 15:12:59,891 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,020 INFO CANVAS PRESS widget=.!frame2.!canvas x=91 y=28 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:00,022 INFO Forwarding global press to canvas at 91,28
+2026-02-14 15:13:00,022 INFO CANVAS PRESS widget=.!frame2.!canvas x=91 y=28 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:00,134 INFO CANVAS RELEASE widget=.!frame2.!canvas x=91 y=28 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:00,135 INFO CANVAS ITEMS AT RELEASE: [(372, 'oval', [81.0, 21.0, 99.0, 39.0], '#90EE90'), (376, 'oval', [89.0, 26.0, 93.0, 30.0], 'blue'), (377, 'oval', [88.0, 25.0, 94.0, 31.0], 'red'), (378, 'oval', [89.0, 26.0, 93.0, 30.0], 'blue')]
+2026-02-14 15:13:00,136 INFO POINTER pos=(96,114) containing_widget=.!frame2.!canvas
+2026-02-14 15:13:00,136 INFO CLICK pixels=(91,28) -> canvas
+2026-02-14 15:13:00,136 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:00,160 INFO Forwarding global release to canvas at 91,28
+2026-02-14 15:13:00,160 INFO CANVAS RELEASE widget=.!frame2.!canvas x=91 y=28 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:00,160 INFO CANVAS ITEMS AT RELEASE: [(405, 'oval', [81.0, 21.0, 99.0, 39.0], '#90EE90')]
+2026-02-14 15:13:00,161 INFO POINTER pos=(96,114) containing_widget=.!frame2.!canvas
+2026-02-14 15:13:00,161 INFO CLICK pixels=(91,28) -> canvas
+2026-02-14 15:13:00,161 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:00,284 INFO MOTION pixels=(94,28)
+2026-02-14 15:13:00,284 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,292 INFO MOTION pixels=(96,28)
+2026-02-14 15:13:00,292 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,300 INFO MOTION pixels=(99,27)
+2026-02-14 15:13:00,300 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,308 INFO MOTION pixels=(102,25)
+2026-02-14 15:13:00,308 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,316 INFO MOTION pixels=(105,24)
+2026-02-14 15:13:00,316 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,324 INFO MOTION pixels=(108,21)
+2026-02-14 15:13:00,325 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,337 INFO MOTION pixels=(111,19)
+2026-02-14 15:13:00,337 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,345 INFO MOTION pixels=(113,18)
+2026-02-14 15:13:00,345 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,353 INFO MOTION pixels=(117,16)
+2026-02-14 15:13:00,353 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,361 INFO MOTION pixels=(119,14)
+2026-02-14 15:13:00,361 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,370 INFO MOTION pixels=(121,13)
+2026-02-14 15:13:00,370 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,378 INFO MOTION pixels=(123,12)
+2026-02-14 15:13:00,378 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,386 INFO MOTION pixels=(125,11)
+2026-02-14 15:13:00,386 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,394 INFO MOTION pixels=(127,11)
+2026-02-14 15:13:00,394 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,402 INFO MOTION pixels=(128,10)
+2026-02-14 15:13:00,402 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,411 INFO MOTION pixels=(129,10)
+2026-02-14 15:13:00,411 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,419 INFO MOTION pixels=(131,10)
+2026-02-14 15:13:00,419 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,427 INFO MOTION pixels=(132,9)
+2026-02-14 15:13:00,427 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,435 INFO MOTION pixels=(134,9)
+2026-02-14 15:13:00,435 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,443 INFO MOTION pixels=(135,9)
+2026-02-14 15:13:00,443 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,456 INFO MOTION pixels=(138,9)
+2026-02-14 15:13:00,456 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,464 INFO MOTION pixels=(139,9)
+2026-02-14 15:13:00,464 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,472 INFO MOTION pixels=(141,9)
+2026-02-14 15:13:00,472 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,482 INFO MOTION pixels=(143,9)
+2026-02-14 15:13:00,482 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,489 INFO MOTION pixels=(145,9)
+2026-02-14 15:13:00,489 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,497 INFO MOTION pixels=(147,9)
+2026-02-14 15:13:00,497 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,505 INFO MOTION pixels=(148,9)
+2026-02-14 15:13:00,505 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,513 INFO MOTION pixels=(149,9)
+2026-02-14 15:13:00,513 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,526 INFO MOTION pixels=(150,9)
+2026-02-14 15:13:00,526 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,534 INFO MOTION pixels=(152,10)
+2026-02-14 15:13:00,534 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,542 INFO MOTION pixels=(153,10)
+2026-02-14 15:13:00,542 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,550 INFO MOTION pixels=(154,11)
+2026-02-14 15:13:00,550 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,558 INFO MOTION pixels=(155,12)
+2026-02-14 15:13:00,558 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,567 INFO MOTION pixels=(156,13)
+2026-02-14 15:13:00,567 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,576 INFO MOTION pixels=(157,15)
+2026-02-14 15:13:00,576 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,588 INFO MOTION pixels=(158,17)
+2026-02-14 15:13:00,588 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,599 INFO MOTION pixels=(158,19)
+2026-02-14 15:13:00,599 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,604 INFO MOTION pixels=(159,21)
+2026-02-14 15:13:00,604 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,612 INFO MOTION pixels=(160,24)
+2026-02-14 15:13:00,612 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,621 INFO MOTION pixels=(160,26)
+2026-02-14 15:13:00,621 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,633 INFO MOTION pixels=(160,30)
+2026-02-14 15:13:00,633 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,641 INFO MOTION pixels=(160,33)
+2026-02-14 15:13:00,641 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,649 INFO MOTION pixels=(160,36)
+2026-02-14 15:13:00,649 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,658 INFO MOTION pixels=(160,40)
+2026-02-14 15:13:00,658 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,666 INFO MOTION pixels=(160,42)
+2026-02-14 15:13:00,666 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,674 INFO MOTION pixels=(160,45)
+2026-02-14 15:13:00,674 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,687 INFO MOTION pixels=(160,47)
+2026-02-14 15:13:00,687 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,695 INFO MOTION pixels=(160,49)
+2026-02-14 15:13:00,695 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,703 INFO MOTION pixels=(159,51)
+2026-02-14 15:13:00,703 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,716 INFO MOTION pixels=(159,53)
+2026-02-14 15:13:00,716 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,724 INFO MOTION pixels=(158,54)
+2026-02-14 15:13:00,724 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,732 INFO MOTION pixels=(158,55)
+2026-02-14 15:13:00,732 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,740 INFO MOTION pixels=(158,56)
+2026-02-14 15:13:00,740 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,748 INFO MOTION pixels=(157,56)
+2026-02-14 15:13:00,748 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,756 INFO MOTION pixels=(157,57)
+2026-02-14 15:13:00,756 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,777 INFO MOTION pixels=(157,58)
+2026-02-14 15:13:00,777 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,785 INFO MOTION pixels=(156,58)
+2026-02-14 15:13:00,786 INFO Motion auto-focused canvas
+2026-02-14 15:13:00,794 INFO MOTION pixels=(156,59)
+2026-02-14 15:13:00,794 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,133 INFO AI computation started
+2026-02-14 15:13:01,218 INFO AI computation finished
+2026-02-14 15:13:01,232 INFO MOTION pixels=(160,61)
+2026-02-14 15:13:01,232 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,241 INFO MOTION pixels=(160,63)
+2026-02-14 15:13:01,241 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,252 INFO MOTION pixels=(161,64)
+2026-02-14 15:13:01,252 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,256 INFO MOTION pixels=(162,67)
+2026-02-14 15:13:01,256 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,264 INFO MOTION pixels=(162,68)
+2026-02-14 15:13:01,264 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,271 INFO MOTION pixels=(162,71)
+2026-02-14 15:13:01,271 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,280 INFO MOTION pixels=(162,75)
+2026-02-14 15:13:01,280 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,288 INFO MOTION pixels=(162,79)
+2026-02-14 15:13:01,288 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,300 INFO MOTION pixels=(160,83)
+2026-02-14 15:13:01,300 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,309 INFO MOTION pixels=(156,88)
+2026-02-14 15:13:01,309 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,317 INFO MOTION pixels=(153,89)
+2026-02-14 15:13:01,317 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,325 INFO MOTION pixels=(151,90)
+2026-02-14 15:13:01,325 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,333 INFO MOTION pixels=(148,92)
+2026-02-14 15:13:01,333 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,342 INFO MOTION pixels=(142,94)
+2026-02-14 15:13:01,342 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,350 INFO MOTION pixels=(137,95)
+2026-02-14 15:13:01,350 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,358 INFO MOTION pixels=(130,95)
+2026-02-14 15:13:01,358 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,366 INFO MOTION pixels=(123,95)
+2026-02-14 15:13:01,366 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,375 INFO MOTION pixels=(119,95)
+2026-02-14 15:13:01,375 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,383 INFO MOTION pixels=(112,93)
+2026-02-14 15:13:01,383 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,391 INFO MOTION pixels=(106,90)
+2026-02-14 15:13:01,391 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,399 INFO MOTION pixels=(99,87)
+2026-02-14 15:13:01,399 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,407 INFO MOTION pixels=(92,83)
+2026-02-14 15:13:01,407 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,416 INFO MOTION pixels=(85,79)
+2026-02-14 15:13:01,416 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,424 INFO MOTION pixels=(78,74)
+2026-02-14 15:13:01,424 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,438 INFO MOTION pixels=(71,69)
+2026-02-14 15:13:01,438 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,445 INFO MOTION pixels=(68,67)
+2026-02-14 15:13:01,445 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,453 INFO MOTION pixels=(66,65)
+2026-02-14 15:13:01,453 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,461 INFO MOTION pixels=(62,62)
+2026-02-14 15:13:01,461 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,469 INFO MOTION pixels=(59,58)
+2026-02-14 15:13:01,469 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,477 INFO MOTION pixels=(54,54)
+2026-02-14 15:13:01,477 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,485 INFO MOTION pixels=(52,51)
+2026-02-14 15:13:01,485 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,494 INFO MOTION pixels=(51,50)
+2026-02-14 15:13:01,494 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,502 INFO MOTION pixels=(48,46)
+2026-02-14 15:13:01,502 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,510 INFO MOTION pixels=(46,43)
+2026-02-14 15:13:01,510 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,519 INFO MOTION pixels=(44,41)
+2026-02-14 15:13:01,519 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,527 INFO MOTION pixels=(43,38)
+2026-02-14 15:13:01,527 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,535 INFO MOTION pixels=(41,34)
+2026-02-14 15:13:01,535 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,543 INFO MOTION pixels=(40,31)
+2026-02-14 15:13:01,543 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,552 INFO MOTION pixels=(39,27)
+2026-02-14 15:13:01,552 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,560 INFO MOTION pixels=(37,24)
+2026-02-14 15:13:01,560 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,568 INFO MOTION pixels=(36,22)
+2026-02-14 15:13:01,568 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,576 INFO MOTION pixels=(36,19)
+2026-02-14 15:13:01,576 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,584 INFO MOTION pixels=(35,17)
+2026-02-14 15:13:01,584 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,593 INFO MOTION pixels=(34,15)
+2026-02-14 15:13:01,593 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,601 INFO MOTION pixels=(33,13)
+2026-02-14 15:13:01,601 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,609 INFO MOTION pixels=(33,12)
+2026-02-14 15:13:01,609 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,617 INFO MOTION pixels=(32,11)
+2026-02-14 15:13:01,617 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,634 INFO MOTION pixels=(31,10)
+2026-02-14 15:13:01,634 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,688 INFO MOTION pixels=(31,11)
+2026-02-14 15:13:01,688 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,704 INFO MOTION pixels=(31,12)
+2026-02-14 15:13:01,704 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,721 INFO MOTION pixels=(31,13)
+2026-02-14 15:13:01,721 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,729 INFO MOTION pixels=(31,14)
+2026-02-14 15:13:01,729 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,737 INFO MOTION pixels=(31,16)
+2026-02-14 15:13:01,737 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,750 INFO MOTION pixels=(31,17)
+2026-02-14 15:13:01,750 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,758 INFO MOTION pixels=(32,19)
+2026-02-14 15:13:01,758 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,767 INFO MOTION pixels=(32,20)
+2026-02-14 15:13:01,767 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,774 INFO MOTION pixels=(33,22)
+2026-02-14 15:13:01,775 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,783 INFO MOTION pixels=(34,24)
+2026-02-14 15:13:01,783 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,791 INFO MOTION pixels=(34,26)
+2026-02-14 15:13:01,791 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,804 INFO MOTION pixels=(35,27)
+2026-02-14 15:13:01,804 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,811 INFO MOTION pixels=(35,28)
+2026-02-14 15:13:01,811 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,820 INFO MOTION pixels=(35,29)
+2026-02-14 15:13:01,820 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,828 INFO MOTION pixels=(36,30)
+2026-02-14 15:13:01,828 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,866 INFO MOTION pixels=(36,31)
+2026-02-14 15:13:01,866 INFO Motion auto-focused canvas
+2026-02-14 15:13:01,985 INFO MOTION pixels=(36,32)
+2026-02-14 15:13:01,985 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,225 INFO MOTION pixels=(37,32)
+2026-02-14 15:13:02,226 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,233 INFO MOTION pixels=(38,32)
+2026-02-14 15:13:02,234 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,240 INFO MOTION pixels=(39,33)
+2026-02-14 15:13:02,241 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,248 INFO MOTION pixels=(40,34)
+2026-02-14 15:13:02,248 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,257 INFO MOTION pixels=(42,35)
+2026-02-14 15:13:02,257 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,265 INFO MOTION pixels=(45,36)
+2026-02-14 15:13:02,265 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,273 INFO MOTION pixels=(48,37)
+2026-02-14 15:13:02,273 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,285 INFO MOTION pixels=(53,39)
+2026-02-14 15:13:02,285 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,293 INFO MOTION pixels=(57,41)
+2026-02-14 15:13:02,293 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,302 INFO MOTION pixels=(67,45)
+2026-02-14 15:13:02,302 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,310 INFO MOTION pixels=(75,49)
+2026-02-14 15:13:02,310 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,318 INFO MOTION pixels=(85,53)
+2026-02-14 15:13:02,318 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,326 INFO MOTION pixels=(98,57)
+2026-02-14 15:13:02,326 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,334 INFO MOTION pixels=(113,63)
+2026-02-14 15:13:02,334 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,344 INFO MOTION pixels=(140,72)
+2026-02-14 15:13:02,344 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,351 INFO MOTION pixels=(159,77)
+2026-02-14 15:13:02,351 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,359 INFO MOTION pixels=(168,79)
+2026-02-14 15:13:02,359 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,367 INFO MOTION pixels=(187,82)
+2026-02-14 15:13:02,367 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,376 INFO MOTION pixels=(204,86)
+2026-02-14 15:13:02,376 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,384 INFO MOTION pixels=(221,87)
+2026-02-14 15:13:02,384 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,392 INFO MOTION pixels=(237,88)
+2026-02-14 15:13:02,392 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,405 INFO MOTION pixels=(248,89)
+2026-02-14 15:13:02,405 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,412 INFO MOTION pixels=(261,89)
+2026-02-14 15:13:02,413 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,421 INFO MOTION pixels=(267,89)
+2026-02-14 15:13:02,421 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,429 INFO MOTION pixels=(277,89)
+2026-02-14 15:13:02,429 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,437 INFO MOTION pixels=(285,87)
+2026-02-14 15:13:02,437 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,446 INFO MOTION pixels=(293,84)
+2026-02-14 15:13:02,446 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,454 INFO MOTION pixels=(299,81)
+2026-02-14 15:13:02,454 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,467 INFO MOTION pixels=(306,75)
+2026-02-14 15:13:02,467 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,474 INFO MOTION pixels=(310,68)
+2026-02-14 15:13:02,474 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,483 INFO MOTION pixels=(312,59)
+2026-02-14 15:13:02,483 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,491 INFO MOTION pixels=(313,51)
+2026-02-14 15:13:02,491 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,500 INFO MOTION pixels=(313,41)
+2026-02-14 15:13:02,500 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,508 INFO MOTION pixels=(313,30)
+2026-02-14 15:13:02,508 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,515 INFO MOTION pixels=(312,25)
+2026-02-14 15:13:02,516 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,528 INFO MOTION pixels=(308,14)
+2026-02-14 15:13:02,528 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,536 INFO MOTION pixels=(305,10)
+2026-02-14 15:13:02,537 INFO Motion auto-focused canvas
+2026-02-14 15:13:02,545 INFO MOTION pixels=(303,6)
+2026-02-14 15:13:02,545 INFO Motion auto-focused canvas
+2026-02-14 15:13:03,568 INFO Header: Main Menu clicked
+2026-02-14 15:13:03,582 INFO Main menu focused; focus_get=.!frame2.!canvas grab=None
+2026-02-14 15:13:03,599 INFO FOCUS_LABEL update focus=.!frame.!button2 grab=None
+2026-02-14 15:13:04,734 INFO Mode changed: black=AI white=AI
+2026-02-14 15:13:04,734 INFO Mode changed: black=AI white=AI
+2026-02-14 15:13:04,734 INFO Radio selected black_menu value=AI
+2026-02-14 15:13:05,700 INFO Mode changed: black=Human white=AI
+2026-02-14 15:13:05,700 INFO Mode changed: black=Human white=AI
+2026-02-14 15:13:05,700 INFO Radio selected black_menu value=Human
+2026-02-14 15:13:06,800 INFO MainMenu: Start Game clicked; black_mode=Human white_mode=AI
+2026-02-14 15:13:06,838 INFO Canvas focus on enter
+2026-02-14 15:13:07,055 INFO FOCUS_LABEL update focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:07,136 INFO MOTION pixels=(138,189)
+2026-02-14 15:13:07,137 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,146 INFO MOTION pixels=(141,187)
+2026-02-14 15:13:07,146 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,152 INFO MOTION pixels=(144,185)
+2026-02-14 15:13:07,153 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,159 INFO MOTION pixels=(145,183)
+2026-02-14 15:13:07,159 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,167 INFO MOTION pixels=(147,182)
+2026-02-14 15:13:07,167 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,175 INFO MOTION pixels=(150,180)
+2026-02-14 15:13:07,175 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,183 INFO MOTION pixels=(152,179)
+2026-02-14 15:13:07,183 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,191 INFO MOTION pixels=(157,176)
+2026-02-14 15:13:07,191 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,199 INFO MOTION pixels=(162,174)
+2026-02-14 15:13:07,199 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,208 INFO MOTION pixels=(166,173)
+2026-02-14 15:13:07,208 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,216 INFO MOTION pixels=(171,172)
+2026-02-14 15:13:07,216 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,225 INFO MOTION pixels=(177,171)
+2026-02-14 15:13:07,225 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,233 INFO MOTION pixels=(181,171)
+2026-02-14 15:13:07,233 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,241 INFO MOTION pixels=(186,171)
+2026-02-14 15:13:07,241 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,249 INFO MOTION pixels=(190,171)
+2026-02-14 15:13:07,249 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,258 INFO MOTION pixels=(195,171)
+2026-02-14 15:13:07,258 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,266 INFO MOTION pixels=(197,171)
+2026-02-14 15:13:07,266 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,274 INFO MOTION pixels=(200,171)
+2026-02-14 15:13:07,274 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,282 INFO MOTION pixels=(203,171)
+2026-02-14 15:13:07,282 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,295 INFO MOTION pixels=(205,171)
+2026-02-14 15:13:07,295 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,303 INFO MOTION pixels=(207,171)
+2026-02-14 15:13:07,303 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,311 INFO MOTION pixels=(208,171)
+2026-02-14 15:13:07,311 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,319 INFO MOTION pixels=(209,171)
+2026-02-14 15:13:07,319 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,328 INFO MOTION pixels=(210,171)
+2026-02-14 15:13:07,328 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,356 INFO MOTION pixels=(211,171)
+2026-02-14 15:13:07,356 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,414 INFO MOTION pixels=(211,170)
+2026-02-14 15:13:07,414 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,422 INFO MOTION pixels=(211,169)
+2026-02-14 15:13:07,423 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,443 INFO MOTION pixels=(211,168)
+2026-02-14 15:13:07,443 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,451 INFO MOTION pixels=(211,167)
+2026-02-14 15:13:07,451 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,460 INFO MOTION pixels=(211,166)
+2026-02-14 15:13:07,460 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,476 INFO MOTION pixels=(211,165)
+2026-02-14 15:13:07,476 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,484 INFO MOTION pixels=(212,163)
+2026-02-14 15:13:07,484 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,492 INFO MOTION pixels=(212,162)
+2026-02-14 15:13:07,492 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,505 INFO MOTION pixels=(212,161)
+2026-02-14 15:13:07,505 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,521 INFO MOTION pixels=(212,160)
+2026-02-14 15:13:07,521 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,538 INFO MOTION pixels=(212,159)
+2026-02-14 15:13:07,538 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,600 INFO MOTION pixels=(212,158)
+2026-02-14 15:13:07,600 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,641 INFO MOTION pixels=(212,157)
+2026-02-14 15:13:07,641 INFO Motion auto-focused canvas
+2026-02-14 15:13:07,683 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=212 y=157 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:07,683 INFO Forwarding global press to canvas at 212,157
+2026-02-14 15:13:07,684 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=212 y=157 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:07,783 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=212 y=157 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:07,783 INFO CANVAS ITEMS AT RELEASE: [(23, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90'), (27, 'oval', [210.0, 155.0, 214.0, 159.0], 'blue'), (28, 'oval', [209.0, 154.0, 215.0, 160.0], 'red'), (29, 'oval', [210.0, 155.0, 214.0, 159.0], 'blue')]
+2026-02-14 15:13:07,784 INFO POINTER pos=(217,243) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:07,784 INFO CLICK pixels=(212,157) -> canvas
+2026-02-14 15:13:07,784 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:07,801 INFO Forwarding global release to canvas at 212,157
+2026-02-14 15:13:07,801 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=212 y=157 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:07,801 INFO CANVAS ITEMS AT RELEASE: [(52, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90')]
+2026-02-14 15:13:07,801 INFO POINTER pos=(217,243) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:07,801 INFO CLICK pixels=(212,157) -> canvas
+2026-02-14 15:13:07,801 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:08,123 INFO MOTION pixels=(214,157)
+2026-02-14 15:13:08,123 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,135 INFO MOTION pixels=(216,157)
+2026-02-14 15:13:08,135 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,142 INFO MOTION pixels=(219,159)
+2026-02-14 15:13:08,142 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,147 INFO MOTION pixels=(223,162)
+2026-02-14 15:13:08,147 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,156 INFO MOTION pixels=(228,165)
+2026-02-14 15:13:08,156 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,164 INFO MOTION pixels=(232,168)
+2026-02-14 15:13:08,164 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,176 INFO MOTION pixels=(240,174)
+2026-02-14 15:13:08,176 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,185 INFO MOTION pixels=(244,177)
+2026-02-14 15:13:08,185 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,193 INFO MOTION pixels=(254,187)
+2026-02-14 15:13:08,193 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,201 INFO MOTION pixels=(260,193)
+2026-02-14 15:13:08,201 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,209 INFO MOTION pixels=(267,200)
+2026-02-14 15:13:08,209 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,218 INFO MOTION pixels=(274,207)
+2026-02-14 15:13:08,218 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,226 INFO MOTION pixels=(280,215)
+2026-02-14 15:13:08,226 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,234 INFO MOTION pixels=(284,218)
+2026-02-14 15:13:08,234 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,246 INFO MOTION pixels=(293,228)
+2026-02-14 15:13:08,246 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,254 INFO MOTION pixels=(297,231)
+2026-02-14 15:13:08,254 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,263 INFO MOTION pixels=(303,237)
+2026-02-14 15:13:08,263 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,271 INFO MOTION pixels=(305,239)
+2026-02-14 15:13:08,271 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,282 INFO MOTION pixels=(309,242)
+2026-02-14 15:13:08,282 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,288 INFO MOTION pixels=(313,245)
+2026-02-14 15:13:08,288 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,296 INFO MOTION pixels=(316,247)
+2026-02-14 15:13:08,296 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,598 INFO MOTION pixels=(316,248)
+2026-02-14 15:13:08,599 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,607 INFO MOTION pixels=(316,249)
+2026-02-14 15:13:08,607 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,613 INFO MOTION pixels=(317,251)
+2026-02-14 15:13:08,614 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,621 INFO MOTION pixels=(318,252)
+2026-02-14 15:13:08,621 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,630 INFO MOTION pixels=(318,254)
+2026-02-14 15:13:08,630 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,638 INFO MOTION pixels=(319,255)
+2026-02-14 15:13:08,638 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,646 INFO MOTION pixels=(319,256)
+2026-02-14 15:13:08,646 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,654 INFO MOTION pixels=(320,256)
+2026-02-14 15:13:08,654 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,662 INFO MOTION pixels=(320,257)
+2026-02-14 15:13:08,662 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,695 INFO MOTION pixels=(320,258)
+2026-02-14 15:13:08,695 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,703 INFO MOTION pixels=(321,258)
+2026-02-14 15:13:08,704 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,728 INFO MOTION pixels=(322,258)
+2026-02-14 15:13:08,728 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,737 INFO MOTION pixels=(322,259)
+2026-02-14 15:13:08,737 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,770 INFO MOTION pixels=(322,260)
+2026-02-14 15:13:08,770 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,786 INFO AI computation started
+2026-02-14 15:13:08,791 INFO AI computation finished
+2026-02-14 15:13:08,873 INFO MOTION pixels=(320,260)
+2026-02-14 15:13:08,873 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,882 INFO MOTION pixels=(316,260)
+2026-02-14 15:13:08,882 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,889 INFO MOTION pixels=(308,259)
+2026-02-14 15:13:08,889 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,897 INFO MOTION pixels=(300,255)
+2026-02-14 15:13:08,897 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,906 INFO MOTION pixels=(288,252)
+2026-02-14 15:13:08,906 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,914 INFO MOTION pixels=(278,250)
+2026-02-14 15:13:08,914 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,922 INFO MOTION pixels=(272,248)
+2026-02-14 15:13:08,922 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,930 INFO MOTION pixels=(261,246)
+2026-02-14 15:13:08,930 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,938 INFO MOTION pixels=(251,243)
+2026-02-14 15:13:08,938 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,947 INFO MOTION pixels=(240,241)
+2026-02-14 15:13:08,947 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,955 INFO MOTION pixels=(231,240)
+2026-02-14 15:13:08,955 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,966 INFO MOTION pixels=(215,238)
+2026-02-14 15:13:08,966 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,971 INFO MOTION pixels=(207,238)
+2026-02-14 15:13:08,972 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,980 INFO MOTION pixels=(198,238)
+2026-02-14 15:13:08,980 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,988 INFO MOTION pixels=(194,238)
+2026-02-14 15:13:08,988 INFO Motion auto-focused canvas
+2026-02-14 15:13:08,996 INFO MOTION pixels=(186,238)
+2026-02-14 15:13:08,996 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,004 INFO MOTION pixels=(179,238)
+2026-02-14 15:13:09,004 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,016 INFO MOTION pixels=(176,238)
+2026-02-14 15:13:09,016 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,021 INFO MOTION pixels=(172,239)
+2026-02-14 15:13:09,021 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,033 INFO MOTION pixels=(169,239)
+2026-02-14 15:13:09,033 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,041 INFO MOTION pixels=(166,239)
+2026-02-14 15:13:09,041 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,050 INFO MOTION pixels=(164,239)
+2026-02-14 15:13:09,050 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,058 INFO MOTION pixels=(163,240)
+2026-02-14 15:13:09,058 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,066 INFO MOTION pixels=(162,240)
+2026-02-14 15:13:09,066 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,091 INFO MOTION pixels=(161,241)
+2026-02-14 15:13:09,091 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,120 INFO MOTION pixels=(160,242)
+2026-02-14 15:13:09,120 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,128 INFO MOTION pixels=(159,243)
+2026-02-14 15:13:09,128 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,136 INFO MOTION pixels=(158,245)
+2026-02-14 15:13:09,136 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,145 INFO MOTION pixels=(156,248)
+2026-02-14 15:13:09,145 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,157 INFO MOTION pixels=(153,252)
+2026-02-14 15:13:09,157 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,165 INFO MOTION pixels=(150,254)
+2026-02-14 15:13:09,165 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,173 INFO MOTION pixels=(147,258)
+2026-02-14 15:13:09,173 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,186 INFO MOTION pixels=(145,260)
+2026-02-14 15:13:09,186 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,194 INFO MOTION pixels=(142,262)
+2026-02-14 15:13:09,194 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,202 INFO MOTION pixels=(141,264)
+2026-02-14 15:13:09,202 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,210 INFO MOTION pixels=(139,265)
+2026-02-14 15:13:09,210 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,219 INFO MOTION pixels=(137,266)
+2026-02-14 15:13:09,219 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,227 INFO MOTION pixels=(136,266)
+2026-02-14 15:13:09,227 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,235 INFO MOTION pixels=(135,266)
+2026-02-14 15:13:09,235 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,248 INFO MOTION pixels=(134,266)
+2026-02-14 15:13:09,248 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,264 INFO MOTION pixels=(132,263)
+2026-02-14 15:13:09,265 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,272 INFO MOTION pixels=(132,261)
+2026-02-14 15:13:09,272 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,280 INFO MOTION pixels=(131,257)
+2026-02-14 15:13:09,280 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,289 INFO MOTION pixels=(130,250)
+2026-02-14 15:13:09,289 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,297 INFO MOTION pixels=(129,243)
+2026-02-14 15:13:09,297 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,306 INFO MOTION pixels=(129,235)
+2026-02-14 15:13:09,306 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,315 INFO MOTION pixels=(129,227)
+2026-02-14 15:13:09,315 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,321 INFO MOTION pixels=(129,218)
+2026-02-14 15:13:09,321 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,331 INFO MOTION pixels=(129,208)
+2026-02-14 15:13:09,331 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,338 INFO MOTION pixels=(129,204)
+2026-02-14 15:13:09,338 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,346 INFO MOTION pixels=(130,195)
+2026-02-14 15:13:09,346 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,355 INFO MOTION pixels=(130,187)
+2026-02-14 15:13:09,355 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,365 INFO MOTION pixels=(131,181)
+2026-02-14 15:13:09,365 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,371 INFO MOTION pixels=(132,174)
+2026-02-14 15:13:09,371 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,379 INFO MOTION pixels=(133,169)
+2026-02-14 15:13:09,379 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,388 INFO MOTION pixels=(134,167)
+2026-02-14 15:13:09,388 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,396 INFO MOTION pixels=(134,163)
+2026-02-14 15:13:09,396 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,404 INFO MOTION pixels=(135,160)
+2026-02-14 15:13:09,404 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,415 INFO MOTION pixels=(135,159)
+2026-02-14 15:13:09,415 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,421 INFO MOTION pixels=(136,157)
+2026-02-14 15:13:09,421 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,429 INFO MOTION pixels=(136,156)
+2026-02-14 15:13:09,429 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,445 INFO MOTION pixels=(137,155)
+2026-02-14 15:13:09,445 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,540 INFO MOTION pixels=(137,154)
+2026-02-14 15:13:09,540 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,602 INFO MOTION pixels=(138,154)
+2026-02-14 15:13:09,602 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,660 INFO MOTION pixels=(139,154)
+2026-02-14 15:13:09,661 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,677 INFO MOTION pixels=(140,154)
+2026-02-14 15:13:09,677 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,685 INFO MOTION pixels=(141,154)
+2026-02-14 15:13:09,685 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,705 INFO MOTION pixels=(142,154)
+2026-02-14 15:13:09,705 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,713 INFO MOTION pixels=(143,154)
+2026-02-14 15:13:09,713 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,721 INFO MOTION pixels=(143,153)
+2026-02-14 15:13:09,721 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,729 INFO MOTION pixels=(144,153)
+2026-02-14 15:13:09,730 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,738 INFO MOTION pixels=(145,153)
+2026-02-14 15:13:09,738 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,746 INFO MOTION pixels=(146,152)
+2026-02-14 15:13:09,746 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,762 INFO MOTION pixels=(147,152)
+2026-02-14 15:13:09,762 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,770 INFO MOTION pixels=(148,151)
+2026-02-14 15:13:09,770 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,804 INFO MOTION pixels=(149,150)
+2026-02-14 15:13:09,804 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,871 INFO MOTION pixels=(149,149)
+2026-02-14 15:13:09,871 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,878 INFO MOTION pixels=(148,149)
+2026-02-14 15:13:09,878 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,894 INFO MOTION pixels=(147,149)
+2026-02-14 15:13:09,894 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,903 INFO MOTION pixels=(145,149)
+2026-02-14 15:13:09,903 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,911 INFO MOTION pixels=(144,149)
+2026-02-14 15:13:09,911 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,919 INFO MOTION pixels=(142,149)
+2026-02-14 15:13:09,919 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,927 INFO MOTION pixels=(141,149)
+2026-02-14 15:13:09,927 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,936 INFO MOTION pixels=(139,149)
+2026-02-14 15:13:09,936 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,948 INFO MOTION pixels=(136,149)
+2026-02-14 15:13:09,948 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,956 INFO MOTION pixels=(133,149)
+2026-02-14 15:13:09,956 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,964 INFO MOTION pixels=(132,148)
+2026-02-14 15:13:09,964 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,973 INFO MOTION pixels=(129,148)
+2026-02-14 15:13:09,973 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,985 INFO MOTION pixels=(125,148)
+2026-02-14 15:13:09,985 INFO Motion auto-focused canvas
+2026-02-14 15:13:09,993 INFO MOTION pixels=(124,148)
+2026-02-14 15:13:09,993 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,002 INFO MOTION pixels=(122,148)
+2026-02-14 15:13:10,002 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,009 INFO MOTION pixels=(120,148)
+2026-02-14 15:13:10,009 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,018 INFO MOTION pixels=(118,148)
+2026-02-14 15:13:10,018 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,027 INFO MOTION pixels=(118,147)
+2026-02-14 15:13:10,027 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,034 INFO MOTION pixels=(117,147)
+2026-02-14 15:13:10,034 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,043 INFO MOTION pixels=(116,147)
+2026-02-14 15:13:10,043 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,051 INFO MOTION pixels=(115,147)
+2026-02-14 15:13:10,051 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,076 INFO MOTION pixels=(114,147)
+2026-02-14 15:13:10,076 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,138 INFO MOTION pixels=(113,147)
+2026-02-14 15:13:10,138 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,146 INFO MOTION pixels=(113,146)
+2026-02-14 15:13:10,146 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,171 INFO MOTION pixels=(113,145)
+2026-02-14 15:13:10,171 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,179 INFO MOTION pixels=(113,144)
+2026-02-14 15:13:10,179 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,187 INFO MOTION pixels=(113,143)
+2026-02-14 15:13:10,187 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,195 INFO MOTION pixels=(113,142)
+2026-02-14 15:13:10,195 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,203 INFO MOTION pixels=(113,140)
+2026-02-14 15:13:10,203 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,212 INFO MOTION pixels=(113,138)
+2026-02-14 15:13:10,212 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,224 INFO MOTION pixels=(113,135)
+2026-02-14 15:13:10,224 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,232 INFO MOTION pixels=(113,133)
+2026-02-14 15:13:10,232 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,240 INFO MOTION pixels=(113,126)
+2026-02-14 15:13:10,240 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,249 INFO MOTION pixels=(113,120)
+2026-02-14 15:13:10,249 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,256 INFO MOTION pixels=(115,113)
+2026-02-14 15:13:10,256 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,265 INFO MOTION pixels=(119,104)
+2026-02-14 15:13:10,265 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,273 INFO MOTION pixels=(124,95)
+2026-02-14 15:13:10,273 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,281 INFO MOTION pixels=(130,83)
+2026-02-14 15:13:10,281 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,289 INFO MOTION pixels=(138,72)
+2026-02-14 15:13:10,290 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,298 INFO MOTION pixels=(146,58)
+2026-02-14 15:13:10,298 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,306 INFO MOTION pixels=(162,35)
+2026-02-14 15:13:10,306 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,314 INFO MOTION pixels=(174,21)
+2026-02-14 15:13:10,314 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,323 INFO MOTION pixels=(188,6)
+2026-02-14 15:13:10,323 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,591 INFO MOTION pixels=(187,6)
+2026-02-14 15:13:10,591 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,599 INFO MOTION pixels=(184,4)
+2026-02-14 15:13:10,599 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,607 INFO MOTION pixels=(180,2)
+2026-02-14 15:13:10,607 INFO Motion auto-focused canvas
+2026-02-14 15:13:10,616 INFO MOTION pixels=(174,0)
+2026-02-14 15:13:10,616 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,127 INFO Canvas focus on enter
+2026-02-14 15:13:11,135 INFO MOTION pixels=(128,9)
+2026-02-14 15:13:11,136 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,145 INFO MOTION pixels=(125,16)
+2026-02-14 15:13:11,145 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,151 INFO MOTION pixels=(121,26)
+2026-02-14 15:13:11,151 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,160 INFO MOTION pixels=(112,46)
+2026-02-14 15:13:11,160 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,168 INFO MOTION pixels=(107,54)
+2026-02-14 15:13:11,168 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,176 INFO MOTION pixels=(100,69)
+2026-02-14 15:13:11,176 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,184 INFO MOTION pixels=(93,86)
+2026-02-14 15:13:11,184 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,192 INFO MOTION pixels=(86,102)
+2026-02-14 15:13:11,192 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,201 INFO MOTION pixels=(80,118)
+2026-02-14 15:13:11,201 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,209 INFO MOTION pixels=(77,125)
+2026-02-14 15:13:11,209 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,217 INFO MOTION pixels=(72,137)
+2026-02-14 15:13:11,217 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,225 INFO MOTION pixels=(68,147)
+2026-02-14 15:13:11,225 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,233 INFO MOTION pixels=(68,150)
+2026-02-14 15:13:11,233 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,241 INFO MOTION pixels=(65,156)
+2026-02-14 15:13:11,241 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,250 INFO MOTION pixels=(64,160)
+2026-02-14 15:13:11,250 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,258 INFO MOTION pixels=(64,162)
+2026-02-14 15:13:11,258 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,266 INFO MOTION pixels=(63,164)
+2026-02-14 15:13:11,266 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,283 INFO MOTION pixels=(63,165)
+2026-02-14 15:13:11,283 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,299 INFO MOTION pixels=(63,166)
+2026-02-14 15:13:11,299 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,357 INFO MOTION pixels=(64,166)
+2026-02-14 15:13:11,357 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,415 INFO MOTION pixels=(64,165)
+2026-02-14 15:13:11,415 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,423 INFO MOTION pixels=(65,164)
+2026-02-14 15:13:11,423 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,431 INFO MOTION pixels=(67,163)
+2026-02-14 15:13:11,431 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,439 INFO MOTION pixels=(69,162)
+2026-02-14 15:13:11,439 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,448 INFO MOTION pixels=(71,159)
+2026-02-14 15:13:11,448 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,456 INFO MOTION pixels=(74,158)
+2026-02-14 15:13:11,456 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,464 INFO MOTION pixels=(76,157)
+2026-02-14 15:13:11,464 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,472 INFO MOTION pixels=(78,155)
+2026-02-14 15:13:11,472 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,485 INFO MOTION pixels=(80,154)
+2026-02-14 15:13:11,485 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,493 INFO MOTION pixels=(83,153)
+2026-02-14 15:13:11,493 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,501 INFO MOTION pixels=(84,152)
+2026-02-14 15:13:11,501 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,509 INFO MOTION pixels=(85,152)
+2026-02-14 15:13:11,509 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,517 INFO MOTION pixels=(86,152)
+2026-02-14 15:13:11,517 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,525 INFO MOTION pixels=(87,152)
+2026-02-14 15:13:11,526 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,551 INFO MOTION pixels=(88,152)
+2026-02-14 15:13:11,551 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,584 INFO MOTION pixels=(89,152)
+2026-02-14 15:13:11,584 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,617 INFO MOTION pixels=(90,152)
+2026-02-14 15:13:11,617 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,650 INFO MOTION pixels=(91,152)
+2026-02-14 15:13:11,650 INFO Motion auto-focused canvas
+2026-02-14 15:13:11,734 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=91 y=152 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:11,736 INFO Forwarding global press to canvas at 91,152
+2026-02-14 15:13:11,736 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=91 y=152 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:11,833 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=91 y=152 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:11,834 INFO CANVAS ITEMS AT RELEASE: [(162, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90'), (166, 'oval', [89.0, 150.0, 93.0, 154.0], 'blue'), (167, 'oval', [88.0, 149.0, 94.0, 155.0], 'red'), (168, 'oval', [89.0, 150.0, 93.0, 154.0], 'blue')]
+2026-02-14 15:13:11,834 INFO POINTER pos=(96,238) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:11,834 INFO CLICK pixels=(91,152) -> canvas
+2026-02-14 15:13:11,834 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:11,851 INFO Forwarding global release to canvas at 91,152
+2026-02-14 15:13:11,851 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=91 y=152 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:11,851 INFO CANVAS ITEMS AT RELEASE: [(193, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90')]
+2026-02-14 15:13:11,851 INFO POINTER pos=(96,238) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:11,851 INFO CLICK pixels=(91,152) -> canvas
+2026-02-14 15:13:11,851 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:12,146 INFO MOTION pixels=(92,152)
+2026-02-14 15:13:12,147 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,155 INFO MOTION pixels=(92,151)
+2026-02-14 15:13:12,155 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,161 INFO MOTION pixels=(94,151)
+2026-02-14 15:13:12,161 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,170 INFO MOTION pixels=(96,150)
+2026-02-14 15:13:12,170 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,177 INFO MOTION pixels=(97,150)
+2026-02-14 15:13:12,177 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,185 INFO MOTION pixels=(98,149)
+2026-02-14 15:13:12,185 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,193 INFO MOTION pixels=(100,149)
+2026-02-14 15:13:12,193 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,206 INFO MOTION pixels=(102,149)
+2026-02-14 15:13:12,206 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,214 INFO MOTION pixels=(104,149)
+2026-02-14 15:13:12,214 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,222 INFO MOTION pixels=(107,149)
+2026-02-14 15:13:12,222 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,232 INFO MOTION pixels=(109,149)
+2026-02-14 15:13:12,232 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,239 INFO MOTION pixels=(113,150)
+2026-02-14 15:13:12,239 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,247 INFO MOTION pixels=(117,151)
+2026-02-14 15:13:12,247 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,255 INFO MOTION pixels=(121,153)
+2026-02-14 15:13:12,255 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,268 INFO MOTION pixels=(128,155)
+2026-02-14 15:13:12,268 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,276 INFO MOTION pixels=(132,157)
+2026-02-14 15:13:12,276 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,284 INFO MOTION pixels=(139,159)
+2026-02-14 15:13:12,284 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,292 INFO MOTION pixels=(146,161)
+2026-02-14 15:13:12,292 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,301 INFO MOTION pixels=(153,164)
+2026-02-14 15:13:12,301 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,309 INFO MOTION pixels=(159,166)
+2026-02-14 15:13:12,309 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,317 INFO MOTION pixels=(167,168)
+2026-02-14 15:13:12,317 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,325 INFO MOTION pixels=(174,170)
+2026-02-14 15:13:12,325 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,333 INFO MOTION pixels=(181,171)
+2026-02-14 15:13:12,333 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,341 INFO MOTION pixels=(188,173)
+2026-02-14 15:13:12,341 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,350 INFO MOTION pixels=(195,175)
+2026-02-14 15:13:12,350 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,358 INFO MOTION pixels=(203,177)
+2026-02-14 15:13:12,358 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,366 INFO MOTION pixels=(210,179)
+2026-02-14 15:13:12,366 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,375 INFO MOTION pixels=(224,183)
+2026-02-14 15:13:12,375 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,383 INFO MOTION pixels=(231,186)
+2026-02-14 15:13:12,383 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,391 INFO MOTION pixels=(236,188)
+2026-02-14 15:13:12,391 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,399 INFO MOTION pixels=(243,191)
+2026-02-14 15:13:12,399 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,408 INFO MOTION pixels=(249,194)
+2026-02-14 15:13:12,408 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,415 INFO MOTION pixels=(255,198)
+2026-02-14 15:13:12,415 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,424 INFO MOTION pixels=(260,201)
+2026-02-14 15:13:12,424 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,436 INFO MOTION pixels=(264,205)
+2026-02-14 15:13:12,436 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,445 INFO MOTION pixels=(268,208)
+2026-02-14 15:13:12,445 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,453 INFO MOTION pixels=(271,211)
+2026-02-14 15:13:12,453 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,461 INFO MOTION pixels=(275,216)
+2026-02-14 15:13:12,461 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,469 INFO MOTION pixels=(278,219)
+2026-02-14 15:13:12,469 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,477 INFO MOTION pixels=(280,222)
+2026-02-14 15:13:12,477 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,485 INFO MOTION pixels=(283,225)
+2026-02-14 15:13:12,485 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,494 INFO MOTION pixels=(286,229)
+2026-02-14 15:13:12,494 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,506 INFO MOTION pixels=(288,231)
+2026-02-14 15:13:12,507 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,525 INFO MOTION pixels=(291,235)
+2026-02-14 15:13:12,525 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,531 INFO MOTION pixels=(293,237)
+2026-02-14 15:13:12,531 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,539 INFO MOTION pixels=(294,239)
+2026-02-14 15:13:12,539 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,550 INFO MOTION pixels=(295,241)
+2026-02-14 15:13:12,550 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,771 INFO MOTION pixels=(297,242)
+2026-02-14 15:13:12,771 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,778 INFO MOTION pixels=(298,244)
+2026-02-14 15:13:12,778 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,791 INFO MOTION pixels=(299,245)
+2026-02-14 15:13:12,791 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,799 INFO MOTION pixels=(301,247)
+2026-02-14 15:13:12,799 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,807 INFO MOTION pixels=(302,248)
+2026-02-14 15:13:12,807 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,815 INFO MOTION pixels=(305,250)
+2026-02-14 15:13:12,815 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,823 INFO AI computation started
+2026-02-14 15:13:12,826 INFO MOTION pixels=(308,252)
+2026-02-14 15:13:12,827 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,830 INFO AI computation finished
+2026-02-14 15:13:12,836 INFO MOTION pixels=(310,254)
+2026-02-14 15:13:12,836 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,841 INFO MOTION pixels=(313,256)
+2026-02-14 15:13:12,841 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,848 INFO MOTION pixels=(314,256)
+2026-02-14 15:13:12,848 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,856 INFO MOTION pixels=(317,257)
+2026-02-14 15:13:12,856 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,865 INFO MOTION pixels=(318,258)
+2026-02-14 15:13:12,865 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,873 INFO MOTION pixels=(320,258)
+2026-02-14 15:13:12,873 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,881 INFO MOTION pixels=(324,259)
+2026-02-14 15:13:12,881 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,889 INFO MOTION pixels=(326,259)
+2026-02-14 15:13:12,889 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,898 INFO MOTION pixels=(328,259)
+2026-02-14 15:13:12,898 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,906 INFO MOTION pixels=(329,256)
+2026-02-14 15:13:12,906 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,914 INFO MOTION pixels=(332,250)
+2026-02-14 15:13:12,914 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,922 INFO MOTION pixels=(333,244)
+2026-02-14 15:13:12,923 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,931 INFO MOTION pixels=(334,236)
+2026-02-14 15:13:12,931 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,939 INFO MOTION pixels=(334,228)
+2026-02-14 15:13:12,939 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,950 INFO MOTION pixels=(334,223)
+2026-02-14 15:13:12,950 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,956 INFO MOTION pixels=(334,220)
+2026-02-14 15:13:12,956 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,964 INFO MOTION pixels=(334,214)
+2026-02-14 15:13:12,964 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,976 INFO MOTION pixels=(334,210)
+2026-02-14 15:13:12,976 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,984 INFO MOTION pixels=(334,207)
+2026-02-14 15:13:12,985 INFO Motion auto-focused canvas
+2026-02-14 15:13:12,993 INFO MOTION pixels=(334,205)
+2026-02-14 15:13:12,993 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,005 INFO MOTION pixels=(334,203)
+2026-02-14 15:13:13,005 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,013 INFO MOTION pixels=(334,202)
+2026-02-14 15:13:13,013 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,084 INFO MOTION pixels=(333,202)
+2026-02-14 15:13:13,084 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,092 INFO MOTION pixels=(332,203)
+2026-02-14 15:13:13,092 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,100 INFO MOTION pixels=(330,204)
+2026-02-14 15:13:13,100 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,108 INFO MOTION pixels=(329,205)
+2026-02-14 15:13:13,108 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,116 INFO MOTION pixels=(328,206)
+2026-02-14 15:13:13,116 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,129 INFO MOTION pixels=(327,206)
+2026-02-14 15:13:13,129 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,137 INFO MOTION pixels=(326,207)
+2026-02-14 15:13:13,137 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,148 INFO MOTION pixels=(325,208)
+2026-02-14 15:13:13,148 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,153 INFO MOTION pixels=(324,208)
+2026-02-14 15:13:13,153 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,170 INFO MOTION pixels=(324,209)
+2026-02-14 15:13:13,170 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,178 INFO MOTION pixels=(323,209)
+2026-02-14 15:13:13,178 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,250 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=323 y=209 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,251 INFO Forwarding global press to canvas at 323,209
+2026-02-14 15:13:13,251 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=323 y=209 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,367 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=323 y=209 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,368 INFO CANVAS ITEMS AT RELEASE: [(257, 'oval', [321.0, 201.0, 339.0, 219.0], '#90EE90'), (261, 'oval', [321.0, 207.0, 325.0, 211.0], 'blue'), (262, 'oval', [320.0, 206.0, 326.0, 212.0], 'red'), (263, 'oval', [321.0, 207.0, 325.0, 211.0], 'blue')]
+2026-02-14 15:13:13,368 INFO POINTER pos=(328,295) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:13,369 INFO CLICK pixels=(323,209) -> canvas
+2026-02-14 15:13:13,369 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,380 INFO Queued click during animation at (323,209)
+2026-02-14 15:13:13,380 INFO Forwarding global release to canvas at 323,209
+2026-02-14 15:13:13,380 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=323 y=209 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,380 INFO CANVAS ITEMS AT RELEASE: []
+2026-02-14 15:13:13,381 INFO POINTER pos=(328,295) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:13,381 INFO CLICK pixels=(323,209) -> canvas
+2026-02-14 15:13:13,381 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,386 INFO Queued click during animation at (323,209)
+2026-02-14 15:13:13,498 INFO Replaying queued click at (323,209)
+2026-02-14 15:13:13,498 INFO Replaying queued click at (323,209)
+2026-02-14 15:13:13,549 INFO CLICK pixels=(323,209) -> canvas
+2026-02-14 15:13:13,549 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,599 INFO CLICK pixels=(323,209) -> canvas
+2026-02-14 15:13:13,599 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:13,956 INFO MOTION pixels=(323,208)
+2026-02-14 15:13:13,956 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,966 INFO MOTION pixels=(316,203)
+2026-02-14 15:13:13,966 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,974 INFO MOTION pixels=(307,195)
+2026-02-14 15:13:13,974 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,982 INFO MOTION pixels=(295,185)
+2026-02-14 15:13:13,982 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,990 INFO MOTION pixels=(286,178)
+2026-02-14 15:13:13,990 INFO Motion auto-focused canvas
+2026-02-14 15:13:13,998 INFO MOTION pixels=(272,168)
+2026-02-14 15:13:13,998 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,006 INFO MOTION pixels=(258,157)
+2026-02-14 15:13:14,006 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,014 INFO MOTION pixels=(243,146)
+2026-02-14 15:13:14,014 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,022 INFO MOTION pixels=(229,137)
+2026-02-14 15:13:14,022 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,031 INFO MOTION pixels=(224,133)
+2026-02-14 15:13:14,031 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,039 INFO MOTION pixels=(215,127)
+2026-02-14 15:13:14,039 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,047 INFO MOTION pixels=(206,122)
+2026-02-14 15:13:14,047 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,055 INFO MOTION pixels=(200,119)
+2026-02-14 15:13:14,055 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,064 INFO MOTION pixels=(195,116)
+2026-02-14 15:13:14,064 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,072 INFO MOTION pixels=(190,114)
+2026-02-14 15:13:14,072 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,080 INFO MOTION pixels=(186,112)
+2026-02-14 15:13:14,080 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,088 INFO MOTION pixels=(182,110)
+2026-02-14 15:13:14,088 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,099 INFO MOTION pixels=(180,110)
+2026-02-14 15:13:14,099 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,109 INFO MOTION pixels=(178,109)
+2026-02-14 15:13:14,109 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,117 INFO MOTION pixels=(176,107)
+2026-02-14 15:13:14,117 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,125 INFO MOTION pixels=(173,107)
+2026-02-14 15:13:14,126 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,134 INFO MOTION pixels=(170,105)
+2026-02-14 15:13:14,134 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,142 INFO MOTION pixels=(167,103)
+2026-02-14 15:13:14,142 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,150 INFO MOTION pixels=(166,102)
+2026-02-14 15:13:14,150 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,158 INFO MOTION pixels=(163,100)
+2026-02-14 15:13:14,159 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,167 INFO MOTION pixels=(160,99)
+2026-02-14 15:13:14,167 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,175 INFO MOTION pixels=(158,97)
+2026-02-14 15:13:14,175 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,183 INFO MOTION pixels=(155,95)
+2026-02-14 15:13:14,183 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,196 INFO MOTION pixels=(150,92)
+2026-02-14 15:13:14,196 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,204 INFO MOTION pixels=(147,91)
+2026-02-14 15:13:14,204 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,212 INFO MOTION pixels=(142,88)
+2026-02-14 15:13:14,212 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,220 INFO MOTION pixels=(138,85)
+2026-02-14 15:13:14,220 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,228 INFO MOTION pixels=(134,83)
+2026-02-14 15:13:14,228 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,236 INFO MOTION pixels=(130,80)
+2026-02-14 15:13:14,236 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,245 INFO MOTION pixels=(127,77)
+2026-02-14 15:13:14,245 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,254 INFO MOTION pixels=(125,76)
+2026-02-14 15:13:14,254 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,261 INFO MOTION pixels=(122,73)
+2026-02-14 15:13:14,261 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,269 INFO MOTION pixels=(120,71)
+2026-02-14 15:13:14,269 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,278 INFO MOTION pixels=(118,69)
+2026-02-14 15:13:14,278 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,286 INFO MOTION pixels=(116,67)
+2026-02-14 15:13:14,286 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,294 INFO MOTION pixels=(115,65)
+2026-02-14 15:13:14,294 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,302 INFO MOTION pixels=(112,63)
+2026-02-14 15:13:14,302 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,310 INFO MOTION pixels=(111,61)
+2026-02-14 15:13:14,310 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,319 INFO MOTION pixels=(110,60)
+2026-02-14 15:13:14,319 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,327 INFO MOTION pixels=(109,58)
+2026-02-14 15:13:14,327 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,336 INFO MOTION pixels=(107,55)
+2026-02-14 15:13:14,336 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,344 INFO MOTION pixels=(106,54)
+2026-02-14 15:13:14,344 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,352 INFO MOTION pixels=(105,52)
+2026-02-14 15:13:14,352 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,360 INFO MOTION pixels=(104,51)
+2026-02-14 15:13:14,360 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,368 INFO MOTION pixels=(103,49)
+2026-02-14 15:13:14,368 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,377 INFO MOTION pixels=(102,48)
+2026-02-14 15:13:14,377 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,385 INFO MOTION pixels=(101,47)
+2026-02-14 15:13:14,385 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,393 INFO MOTION pixels=(100,45)
+2026-02-14 15:13:14,393 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,401 INFO MOTION pixels=(100,44)
+2026-02-14 15:13:14,401 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,410 INFO MOTION pixels=(99,42)
+2026-02-14 15:13:14,410 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,418 INFO MOTION pixels=(98,41)
+2026-02-14 15:13:14,418 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,426 INFO MOTION pixels=(97,40)
+2026-02-14 15:13:14,427 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,434 INFO MOTION pixels=(97,39)
+2026-02-14 15:13:14,434 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,443 INFO MOTION pixels=(96,37)
+2026-02-14 15:13:14,443 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,451 INFO MOTION pixels=(95,36)
+2026-02-14 15:13:14,451 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,459 INFO MOTION pixels=(95,35)
+2026-02-14 15:13:14,459 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,476 INFO MOTION pixels=(94,34)
+2026-02-14 15:13:14,476 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,484 INFO MOTION pixels=(94,33)
+2026-02-14 15:13:14,484 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,509 INFO MOTION pixels=(94,32)
+2026-02-14 15:13:14,509 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,566 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=94 y=32 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:14,568 INFO Forwarding global press to canvas at 94,32
+2026-02-14 15:13:14,568 INFO CANVAS PRESS widget=.!frame2.!canvas2 x=94 y=32 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:14,650 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=94 y=32 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:14,651 INFO CANVAS ITEMS AT RELEASE: [(440, 'oval', [81.0, 21.0, 99.0, 39.0], '#90EE90'), (444, 'oval', [92.0, 30.0, 96.0, 34.0], 'blue'), (445, 'oval', [91.0, 29.0, 97.0, 35.0], 'red'), (446, 'oval', [92.0, 30.0, 96.0, 34.0], 'blue')]
+2026-02-14 15:13:14,651 INFO POINTER pos=(99,118) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:14,651 INFO CLICK pixels=(94,32) -> canvas
+2026-02-14 15:13:14,651 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:14,672 INFO Forwarding global release to canvas at 94,32
+2026-02-14 15:13:14,672 INFO CANVAS RELEASE widget=.!frame2.!canvas2 x=94 y=32 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:14,672 INFO CANVAS ITEMS AT RELEASE: [(473, 'oval', [81.0, 21.0, 99.0, 39.0], '#90EE90')]
+2026-02-14 15:13:14,673 INFO POINTER pos=(99,118) containing_widget=.!frame2.!canvas2
+2026-02-14 15:13:14,673 INFO CLICK pixels=(94,32) -> canvas
+2026-02-14 15:13:14,673 INFO on_click widget=.!frame2.!canvas2 focus=.!frame2.!canvas2 grab=None
+2026-02-14 15:13:14,900 INFO MOTION pixels=(96,32)
+2026-02-14 15:13:14,901 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,909 INFO MOTION pixels=(97,32)
+2026-02-14 15:13:14,909 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,916 INFO MOTION pixels=(98,32)
+2026-02-14 15:13:14,916 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,921 INFO MOTION pixels=(100,32)
+2026-02-14 15:13:14,921 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,931 INFO MOTION pixels=(102,32)
+2026-02-14 15:13:14,931 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,937 INFO MOTION pixels=(109,31)
+2026-02-14 15:13:14,937 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,947 INFO MOTION pixels=(116,28)
+2026-02-14 15:13:14,947 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,953 INFO MOTION pixels=(122,26)
+2026-02-14 15:13:14,953 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,962 INFO MOTION pixels=(130,24)
+2026-02-14 15:13:14,962 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,970 INFO MOTION pixels=(139,21)
+2026-02-14 15:13:14,970 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,978 INFO MOTION pixels=(147,18)
+2026-02-14 15:13:14,978 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,987 INFO MOTION pixels=(152,17)
+2026-02-14 15:13:14,987 INFO Motion auto-focused canvas
+2026-02-14 15:13:14,995 INFO MOTION pixels=(158,14)
+2026-02-14 15:13:14,995 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,003 INFO MOTION pixels=(165,12)
+2026-02-14 15:13:15,003 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,011 INFO MOTION pixels=(170,10)
+2026-02-14 15:13:15,011 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,019 INFO MOTION pixels=(173,9)
+2026-02-14 15:13:15,019 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,028 INFO MOTION pixels=(177,8)
+2026-02-14 15:13:15,028 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,036 INFO MOTION pixels=(180,7)
+2026-02-14 15:13:15,036 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,044 INFO MOTION pixels=(182,6)
+2026-02-14 15:13:15,044 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,052 INFO MOTION pixels=(184,5)
+2026-02-14 15:13:15,052 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,060 INFO MOTION pixels=(186,4)
+2026-02-14 15:13:15,060 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,077 INFO MOTION pixels=(187,4)
+2026-02-14 15:13:15,077 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,085 INFO MOTION pixels=(188,3)
+2026-02-14 15:13:15,085 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,110 INFO MOTION pixels=(188,2)
+2026-02-14 15:13:15,110 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,118 INFO MOTION pixels=(189,2)
+2026-02-14 15:13:15,118 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,156 INFO MOTION pixels=(190,1)
+2026-02-14 15:13:15,156 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,164 INFO MOTION pixels=(190,0)
+2026-02-14 15:13:15,164 INFO Motion auto-focused canvas
+2026-02-14 15:13:15,653 INFO AI computation started
+2026-02-14 15:13:15,667 INFO AI computation finished
+2026-02-14 15:13:19,399 INFO Main menu focused; focus_get=None grab=None
+2026-02-14 15:13:23,001 INFO Mode changed: black=Human white=AI
+2026-02-14 15:13:23,001 INFO Radio selected white_menu value=AI
+2026-02-14 15:13:24,034 INFO MainMenu: Start Game clicked; black_mode=Human white_mode=AI
+2026-02-14 15:13:24,292 INFO FOCUS_LABEL update focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:24,427 INFO Canvas focus on enter
+2026-02-14 15:13:24,434 INFO MOTION pixels=(149,185)
+2026-02-14 15:13:24,434 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,445 INFO MOTION pixels=(151,183)
+2026-02-14 15:13:24,445 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,451 INFO MOTION pixels=(154,181)
+2026-02-14 15:13:24,451 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,457 INFO MOTION pixels=(158,178)
+2026-02-14 15:13:24,457 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,466 INFO MOTION pixels=(163,175)
+2026-02-14 15:13:24,466 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,474 INFO MOTION pixels=(169,171)
+2026-02-14 15:13:24,474 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,482 INFO MOTION pixels=(175,168)
+2026-02-14 15:13:24,482 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,490 INFO MOTION pixels=(182,166)
+2026-02-14 15:13:24,490 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,499 INFO MOTION pixels=(188,163)
+2026-02-14 15:13:24,499 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,507 INFO MOTION pixels=(193,162)
+2026-02-14 15:13:24,507 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,515 INFO MOTION pixels=(195,161)
+2026-02-14 15:13:24,515 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,523 INFO MOTION pixels=(200,161)
+2026-02-14 15:13:24,523 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,532 INFO MOTION pixels=(203,161)
+2026-02-14 15:13:24,532 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,540 INFO MOTION pixels=(206,160)
+2026-02-14 15:13:24,540 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,548 INFO MOTION pixels=(208,160)
+2026-02-14 15:13:24,548 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,556 INFO MOTION pixels=(209,160)
+2026-02-14 15:13:24,556 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,566 INFO MOTION pixels=(210,160)
+2026-02-14 15:13:24,566 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,573 INFO MOTION pixels=(211,160)
+2026-02-14 15:13:24,573 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,581 INFO MOTION pixels=(212,160)
+2026-02-14 15:13:24,581 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,606 INFO MOTION pixels=(212,159)
+2026-02-14 15:13:24,606 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,614 INFO MOTION pixels=(213,158)
+2026-02-14 15:13:24,614 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,622 INFO MOTION pixels=(213,157)
+2026-02-14 15:13:24,622 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,631 INFO MOTION pixels=(213,156)
+2026-02-14 15:13:24,631 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,639 INFO MOTION pixels=(213,155)
+2026-02-14 15:13:24,639 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,647 INFO MOTION pixels=(213,154)
+2026-02-14 15:13:24,647 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,655 INFO MOTION pixels=(213,153)
+2026-02-14 15:13:24,655 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,672 INFO MOTION pixels=(213,152)
+2026-02-14 15:13:24,672 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,680 INFO MOTION pixels=(214,150)
+2026-02-14 15:13:24,680 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,688 INFO MOTION pixels=(214,149)
+2026-02-14 15:13:24,688 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,697 INFO MOTION pixels=(214,148)
+2026-02-14 15:13:24,697 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,713 INFO MOTION pixels=(214,147)
+2026-02-14 15:13:24,713 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,729 INFO MOTION pixels=(214,146)
+2026-02-14 15:13:24,729 INFO Motion auto-focused canvas
+2026-02-14 15:13:24,746 INFO MOTION pixels=(215,146)
+2026-02-14 15:13:24,746 INFO Motion auto-focused canvas
+2026-02-14 15:13:26,679 INFO MOTION pixels=(214,147)
+2026-02-14 15:13:26,680 INFO Motion auto-focused canvas
+2026-02-14 15:13:26,696 INFO MOTION pixels=(213,148)
+2026-02-14 15:13:26,696 INFO Motion auto-focused canvas
+2026-02-14 15:13:26,712 INFO MOTION pixels=(213,149)
+2026-02-14 15:13:26,712 INFO Motion auto-focused canvas
+2026-02-14 15:13:26,728 INFO MOTION pixels=(212,149)
+2026-02-14 15:13:26,728 INFO Motion auto-focused canvas
+2026-02-14 15:13:26,766 INFO CANVAS PRESS widget=.!frame2.!canvas x=212 y=149 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:26,767 INFO Forwarding global press to canvas at 212,149
+2026-02-14 15:13:26,767 INFO CANVAS PRESS widget=.!frame2.!canvas x=212 y=149 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:26,951 INFO CANVAS RELEASE widget=.!frame2.!canvas x=212 y=149 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:26,952 INFO CANVAS ITEMS AT RELEASE: [(23, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90'), (28, 'oval', [209.0, 146.0, 215.0, 152.0], 'red')]
+2026-02-14 15:13:26,969 INFO POINTER pos=(217,235) containing_widget=.!frame2.!canvas
+2026-02-14 15:13:26,969 INFO CLICK pixels=(212,149) -> canvas
+2026-02-14 15:13:26,969 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:26,985 INFO Forwarding global release to canvas at 212,149
+2026-02-14 15:13:26,985 INFO CANVAS RELEASE widget=.!frame2.!canvas x=212 y=149 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:26,985 INFO CANVAS ITEMS AT RELEASE: [(52, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90')]
+2026-02-14 15:13:26,985 INFO POINTER pos=(217,235) containing_widget=.!frame2.!canvas
+2026-02-14 15:13:26,985 INFO CLICK pixels=(212,149) -> canvas
+2026-02-14 15:13:26,985 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:27,385 INFO MOTION pixels=(212,150)
+2026-02-14 15:13:27,385 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,433 INFO MOTION pixels=(212,151)
+2026-02-14 15:13:27,433 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,467 INFO MOTION pixels=(212,152)
+2026-02-14 15:13:27,468 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,475 INFO MOTION pixels=(211,154)
+2026-02-14 15:13:27,475 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,482 INFO MOTION pixels=(209,157)
+2026-02-14 15:13:27,482 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,490 INFO MOTION pixels=(206,162)
+2026-02-14 15:13:27,490 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,498 INFO MOTION pixels=(203,166)
+2026-02-14 15:13:27,498 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,506 INFO MOTION pixels=(200,170)
+2026-02-14 15:13:27,506 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,516 INFO MOTION pixels=(197,176)
+2026-02-14 15:13:27,516 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,523 INFO MOTION pixels=(192,182)
+2026-02-14 15:13:27,523 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,531 INFO MOTION pixels=(188,188)
+2026-02-14 15:13:27,531 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,539 INFO MOTION pixels=(184,193)
+2026-02-14 15:13:27,539 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,547 INFO MOTION pixels=(181,198)
+2026-02-14 15:13:27,547 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,556 INFO MOTION pixels=(177,202)
+2026-02-14 15:13:27,556 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,565 INFO MOTION pixels=(174,206)
+2026-02-14 15:13:27,565 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,576 INFO MOTION pixels=(172,209)
+2026-02-14 15:13:27,576 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,584 INFO MOTION pixels=(171,211)
+2026-02-14 15:13:27,584 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,593 INFO MOTION pixels=(168,214)
+2026-02-14 15:13:27,593 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,605 INFO MOTION pixels=(166,216)
+2026-02-14 15:13:27,605 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,615 INFO MOTION pixels=(165,217)
+2026-02-14 15:13:27,615 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,622 INFO MOTION pixels=(164,219)
+2026-02-14 15:13:27,622 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,630 INFO MOTION pixels=(163,219)
+2026-02-14 15:13:27,630 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,638 INFO MOTION pixels=(163,220)
+2026-02-14 15:13:27,638 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,658 INFO MOTION pixels=(162,221)
+2026-02-14 15:13:27,658 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,762 INFO MOTION pixels=(161,221)
+2026-02-14 15:13:27,762 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,770 INFO MOTION pixels=(160,221)
+2026-02-14 15:13:27,770 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,779 INFO MOTION pixels=(159,220)
+2026-02-14 15:13:27,779 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,786 INFO MOTION pixels=(158,220)
+2026-02-14 15:13:27,786 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,795 INFO MOTION pixels=(156,219)
+2026-02-14 15:13:27,795 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,803 INFO MOTION pixels=(155,219)
+2026-02-14 15:13:27,803 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,815 INFO MOTION pixels=(154,218)
+2026-02-14 15:13:27,815 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,824 INFO MOTION pixels=(151,216)
+2026-02-14 15:13:27,824 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,833 INFO MOTION pixels=(149,215)
+2026-02-14 15:13:27,833 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,840 INFO MOTION pixels=(148,214)
+2026-02-14 15:13:27,840 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,848 INFO MOTION pixels=(147,213)
+2026-02-14 15:13:27,848 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,856 INFO MOTION pixels=(146,212)
+2026-02-14 15:13:27,856 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,864 INFO MOTION pixels=(146,211)
+2026-02-14 15:13:27,864 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,872 INFO MOTION pixels=(145,210)
+2026-02-14 15:13:27,872 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,881 INFO MOTION pixels=(144,208)
+2026-02-14 15:13:27,881 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,889 INFO MOTION pixels=(144,207)
+2026-02-14 15:13:27,889 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,898 INFO MOTION pixels=(144,206)
+2026-02-14 15:13:27,898 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,906 INFO MOTION pixels=(144,205)
+2026-02-14 15:13:27,906 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,914 INFO MOTION pixels=(144,203)
+2026-02-14 15:13:27,914 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,922 INFO MOTION pixels=(144,200)
+2026-02-14 15:13:27,922 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,935 INFO MOTION pixels=(144,198)
+2026-02-14 15:13:27,935 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,943 INFO MOTION pixels=(144,196)
+2026-02-14 15:13:27,943 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,951 INFO MOTION pixels=(144,192)
+2026-02-14 15:13:27,951 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,955 INFO AI computation started
+2026-02-14 15:13:27,958 INFO AI computation finished
+2026-02-14 15:13:27,964 INFO MOTION pixels=(144,188)
+2026-02-14 15:13:27,964 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,969 INFO MOTION pixels=(144,186)
+2026-02-14 15:13:27,969 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,976 INFO MOTION pixels=(143,184)
+2026-02-14 15:13:27,976 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,984 INFO MOTION pixels=(143,182)
+2026-02-14 15:13:27,984 INFO Motion auto-focused canvas
+2026-02-14 15:13:27,992 INFO MOTION pixels=(143,180)
+2026-02-14 15:13:27,992 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,000 INFO MOTION pixels=(143,179)
+2026-02-14 15:13:28,000 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,009 INFO MOTION pixels=(143,178)
+2026-02-14 15:13:28,009 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,017 INFO MOTION pixels=(143,177)
+2026-02-14 15:13:28,017 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,025 INFO MOTION pixels=(143,176)
+2026-02-14 15:13:28,025 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,034 INFO MOTION pixels=(143,175)
+2026-02-14 15:13:28,034 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,050 INFO MOTION pixels=(143,173)
+2026-02-14 15:13:28,050 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,058 INFO MOTION pixels=(143,172)
+2026-02-14 15:13:28,058 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,067 INFO MOTION pixels=(143,170)
+2026-02-14 15:13:28,067 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,075 INFO MOTION pixels=(144,167)
+2026-02-14 15:13:28,075 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,083 INFO MOTION pixels=(145,164)
+2026-02-14 15:13:28,083 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,091 INFO MOTION pixels=(146,159)
+2026-02-14 15:13:28,091 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,100 INFO MOTION pixels=(148,156)
+2026-02-14 15:13:28,100 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,108 INFO MOTION pixels=(149,154)
+2026-02-14 15:13:28,108 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,117 INFO MOTION pixels=(150,151)
+2026-02-14 15:13:28,117 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,131 INFO MOTION pixels=(151,149)
+2026-02-14 15:13:28,131 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,136 INFO MOTION pixels=(152,148)
+2026-02-14 15:13:28,136 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,145 INFO MOTION pixels=(153,146)
+2026-02-14 15:13:28,145 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,153 INFO MOTION pixels=(153,145)
+2026-02-14 15:13:28,153 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,161 INFO MOTION pixels=(153,144)
+2026-02-14 15:13:28,161 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,170 INFO MOTION pixels=(154,144)
+2026-02-14 15:13:28,170 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,182 INFO MOTION pixels=(154,143)
+2026-02-14 15:13:28,182 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,364 INFO MOTION pixels=(154,144)
+2026-02-14 15:13:28,364 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,858 INFO MOTION pixels=(155,145)
+2026-02-14 15:13:28,859 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,866 INFO MOTION pixels=(155,147)
+2026-02-14 15:13:28,866 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,875 INFO MOTION pixels=(156,148)
+2026-02-14 15:13:28,875 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,883 INFO MOTION pixels=(156,150)
+2026-02-14 15:13:28,883 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,891 INFO MOTION pixels=(156,152)
+2026-02-14 15:13:28,891 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,899 INFO MOTION pixels=(156,154)
+2026-02-14 15:13:28,899 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,907 INFO MOTION pixels=(156,155)
+2026-02-14 15:13:28,907 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,916 INFO MOTION pixels=(156,157)
+2026-02-14 15:13:28,916 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,924 INFO MOTION pixels=(156,158)
+2026-02-14 15:13:28,924 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,940 INFO MOTION pixels=(156,159)
+2026-02-14 15:13:28,940 INFO Motion auto-focused canvas
+2026-02-14 15:13:28,994 INFO MOTION pixels=(155,159)
+2026-02-14 15:13:28,994 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,027 INFO MOTION pixels=(153,158)
+2026-02-14 15:13:29,027 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,035 INFO MOTION pixels=(150,157)
+2026-02-14 15:13:29,035 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,043 INFO MOTION pixels=(147,156)
+2026-02-14 15:13:29,043 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,051 INFO MOTION pixels=(144,154)
+2026-02-14 15:13:29,051 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,060 INFO MOTION pixels=(139,152)
+2026-02-14 15:13:29,060 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,068 INFO MOTION pixels=(134,151)
+2026-02-14 15:13:29,068 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,076 INFO MOTION pixels=(129,149)
+2026-02-14 15:13:29,076 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,085 INFO MOTION pixels=(124,148)
+2026-02-14 15:13:29,085 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,092 INFO MOTION pixels=(119,147)
+2026-02-14 15:13:29,092 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,106 INFO MOTION pixels=(111,146)
+2026-02-14 15:13:29,106 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,113 INFO MOTION pixels=(108,146)
+2026-02-14 15:13:29,113 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,121 INFO MOTION pixels=(103,146)
+2026-02-14 15:13:29,121 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,130 INFO MOTION pixels=(101,146)
+2026-02-14 15:13:29,130 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,142 INFO MOTION pixels=(95,146)
+2026-02-14 15:13:29,142 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,150 INFO MOTION pixels=(93,146)
+2026-02-14 15:13:29,150 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,158 INFO MOTION pixels=(90,146)
+2026-02-14 15:13:29,158 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,166 INFO MOTION pixels=(88,146)
+2026-02-14 15:13:29,166 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,175 INFO MOTION pixels=(87,146)
+2026-02-14 15:13:29,175 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,183 INFO MOTION pixels=(85,146)
+2026-02-14 15:13:29,183 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,200 INFO MOTION pixels=(84,146)
+2026-02-14 15:13:29,200 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,262 INFO MOTION pixels=(84,147)
+2026-02-14 15:13:29,262 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,378 INFO MOTION pixels=(84,148)
+2026-02-14 15:13:29,378 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,417 INFO CANVAS PRESS widget=.!frame2.!canvas x=85 y=148 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:29,419 INFO Forwarding global press to canvas at 85,148
+2026-02-14 15:13:29,419 INFO CANVAS PRESS widget=.!frame2.!canvas x=85 y=148 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:29,517 INFO CANVAS RELEASE widget=.!frame2.!canvas x=85 y=148 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:29,517 INFO CANVAS ITEMS AT RELEASE: [(162, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90'), (166, 'oval', [83.0, 146.0, 87.0, 150.0], 'blue'), (167, 'oval', [82.0, 145.0, 88.0, 151.0], 'red'), (168, 'oval', [83.0, 146.0, 87.0, 150.0], 'blue')]
+2026-02-14 15:13:29,518 INFO POINTER pos=(90,234) containing_widget=.!frame2.!canvas
+2026-02-14 15:13:29,518 INFO CLICK pixels=(85,148) -> canvas
+2026-02-14 15:13:29,518 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:29,543 INFO Forwarding global release to canvas at 85,148
+2026-02-14 15:13:29,543 INFO CANVAS RELEASE widget=.!frame2.!canvas x=85 y=148 focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:29,543 INFO CANVAS ITEMS AT RELEASE: [(193, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90')]
+2026-02-14 15:13:29,543 INFO POINTER pos=(90,234) containing_widget=.!frame2.!canvas
+2026-02-14 15:13:29,543 INFO CLICK pixels=(85,148) -> canvas
+2026-02-14 15:13:29,543 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:13:29,836 INFO MOTION pixels=(86,148)
+2026-02-14 15:13:29,836 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,844 INFO MOTION pixels=(88,148)
+2026-02-14 15:13:29,844 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,853 INFO MOTION pixels=(89,148)
+2026-02-14 15:13:29,853 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,859 INFO MOTION pixels=(90,148)
+2026-02-14 15:13:29,859 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,867 INFO MOTION pixels=(92,148)
+2026-02-14 15:13:29,867 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,875 INFO MOTION pixels=(93,148)
+2026-02-14 15:13:29,875 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,884 INFO MOTION pixels=(94,149)
+2026-02-14 15:13:29,884 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,892 INFO MOTION pixels=(95,149)
+2026-02-14 15:13:29,892 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,900 INFO MOTION pixels=(96,149)
+2026-02-14 15:13:29,900 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,908 INFO MOTION pixels=(97,149)
+2026-02-14 15:13:29,909 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,925 INFO MOTION pixels=(98,150)
+2026-02-14 15:13:29,925 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,946 INFO MOTION pixels=(99,150)
+2026-02-14 15:13:29,946 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,953 INFO MOTION pixels=(100,150)
+2026-02-14 15:13:29,953 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,964 INFO MOTION pixels=(101,150)
+2026-02-14 15:13:29,964 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,970 INFO MOTION pixels=(102,151)
+2026-02-14 15:13:29,970 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,978 INFO MOTION pixels=(104,151)
+2026-02-14 15:13:29,978 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,986 INFO MOTION pixels=(106,151)
+2026-02-14 15:13:29,986 INFO Motion auto-focused canvas
+2026-02-14 15:13:29,994 INFO MOTION pixels=(109,152)
+2026-02-14 15:13:29,994 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,003 INFO MOTION pixels=(112,153)
+2026-02-14 15:13:30,003 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,011 INFO MOTION pixels=(114,154)
+2026-02-14 15:13:30,011 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,020 INFO MOTION pixels=(116,155)
+2026-02-14 15:13:30,020 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,028 INFO MOTION pixels=(118,156)
+2026-02-14 15:13:30,028 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,036 INFO MOTION pixels=(123,157)
+2026-02-14 15:13:30,036 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,048 INFO MOTION pixels=(126,158)
+2026-02-14 15:13:30,048 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,057 INFO MOTION pixels=(130,159)
+2026-02-14 15:13:30,057 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,065 INFO MOTION pixels=(134,160)
+2026-02-14 15:13:30,065 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,073 INFO MOTION pixels=(139,162)
+2026-02-14 15:13:30,073 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,081 INFO MOTION pixels=(144,163)
+2026-02-14 15:13:30,081 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,089 INFO MOTION pixels=(149,164)
+2026-02-14 15:13:30,089 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,097 INFO MOTION pixels=(154,166)
+2026-02-14 15:13:30,097 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,106 INFO MOTION pixels=(159,167)
+2026-02-14 15:13:30,106 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,115 INFO MOTION pixels=(164,169)
+2026-02-14 15:13:30,115 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,123 INFO MOTION pixels=(168,170)
+2026-02-14 15:13:30,123 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,131 INFO MOTION pixels=(173,171)
+2026-02-14 15:13:30,131 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,139 INFO MOTION pixels=(177,172)
+2026-02-14 15:13:30,139 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,147 INFO MOTION pixels=(179,172)
+2026-02-14 15:13:30,147 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,156 INFO MOTION pixels=(185,173)
+2026-02-14 15:13:30,156 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,165 INFO MOTION pixels=(186,173)
+2026-02-14 15:13:30,166 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,172 INFO MOTION pixels=(188,173)
+2026-02-14 15:13:30,172 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,180 INFO MOTION pixels=(191,173)
+2026-02-14 15:13:30,180 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,188 INFO MOTION pixels=(193,173)
+2026-02-14 15:13:30,188 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,196 INFO MOTION pixels=(194,173)
+2026-02-14 15:13:30,196 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,214 INFO MOTION pixels=(197,171)
+2026-02-14 15:13:30,214 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,221 INFO MOTION pixels=(199,170)
+2026-02-14 15:13:30,221 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,232 INFO MOTION pixels=(200,168)
+2026-02-14 15:13:30,232 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,238 INFO MOTION pixels=(200,166)
+2026-02-14 15:13:30,238 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,246 INFO MOTION pixels=(201,163)
+2026-02-14 15:13:30,246 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,254 INFO MOTION pixels=(202,160)
+2026-02-14 15:13:30,254 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,262 INFO MOTION pixels=(202,157)
+2026-02-14 15:13:30,262 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,270 INFO MOTION pixels=(203,149)
+2026-02-14 15:13:30,270 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,279 INFO MOTION pixels=(203,142)
+2026-02-14 15:13:30,279 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,287 INFO MOTION pixels=(203,134)
+2026-02-14 15:13:30,287 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,296 INFO MOTION pixels=(203,124)
+2026-02-14 15:13:30,296 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,304 INFO MOTION pixels=(203,119)
+2026-02-14 15:13:30,304 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,312 INFO MOTION pixels=(201,111)
+2026-02-14 15:13:30,312 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,321 INFO MOTION pixels=(199,102)
+2026-02-14 15:13:30,321 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,331 INFO MOTION pixels=(198,96)
+2026-02-14 15:13:30,331 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,337 INFO MOTION pixels=(196,88)
+2026-02-14 15:13:30,337 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,345 INFO MOTION pixels=(192,75)
+2026-02-14 15:13:30,345 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,353 INFO MOTION pixels=(189,67)
+2026-02-14 15:13:30,353 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,361 INFO MOTION pixels=(187,63)
+2026-02-14 15:13:30,361 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,369 INFO MOTION pixels=(182,50)
+2026-02-14 15:13:30,369 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,377 INFO MOTION pixels=(176,41)
+2026-02-14 15:13:30,377 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,386 INFO MOTION pixels=(170,32)
+2026-02-14 15:13:30,386 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,394 INFO MOTION pixels=(165,24)
+2026-02-14 15:13:30,394 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,403 INFO MOTION pixels=(157,14)
+2026-02-14 15:13:30,403 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,410 INFO MOTION pixels=(149,6)
+2026-02-14 15:13:30,411 INFO Motion auto-focused canvas
+2026-02-14 15:13:30,511 INFO AI computation started
+2026-02-14 15:13:30,517 INFO AI computation finished
+2026-02-14 15:20:45,280 INFO Main menu focused; focus_get=None grab=None
+2026-02-14 15:20:52,054 INFO Mode changed: black=Human white=AI
+2026-02-14 15:20:52,055 INFO Radio selected white_menu value=AI
+2026-02-14 15:20:53,154 INFO MainMenu: Start Game clicked; black_mode=Human white_mode=AI
+2026-02-14 15:20:53,410 INFO FOCUS_LABEL update focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:53,556 INFO Canvas focus on enter
+2026-02-14 15:20:53,563 INFO MOTION pixels=(145,195)
+2026-02-14 15:20:53,563 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,575 INFO MOTION pixels=(148,195)
+2026-02-14 15:20:53,575 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,581 INFO MOTION pixels=(151,195)
+2026-02-14 15:20:53,581 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,586 INFO MOTION pixels=(153,195)
+2026-02-14 15:20:53,586 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,595 INFO MOTION pixels=(156,195)
+2026-02-14 15:20:53,595 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,603 INFO MOTION pixels=(160,194)
+2026-02-14 15:20:53,603 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,611 INFO MOTION pixels=(164,194)
+2026-02-14 15:20:53,611 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,619 INFO MOTION pixels=(165,194)
+2026-02-14 15:20:53,619 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,627 INFO MOTION pixels=(169,194)
+2026-02-14 15:20:53,627 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,636 INFO MOTION pixels=(172,194)
+2026-02-14 15:20:53,636 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,644 INFO MOTION pixels=(174,194)
+2026-02-14 15:20:53,644 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,652 INFO MOTION pixels=(177,194)
+2026-02-14 15:20:53,652 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,660 INFO MOTION pixels=(179,194)
+2026-02-14 15:20:53,660 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,669 INFO MOTION pixels=(181,194)
+2026-02-14 15:20:53,669 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,677 INFO MOTION pixels=(185,194)
+2026-02-14 15:20:53,677 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,687 INFO MOTION pixels=(186,194)
+2026-02-14 15:20:53,687 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,693 INFO MOTION pixels=(190,193)
+2026-02-14 15:20:53,693 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,701 INFO MOTION pixels=(191,193)
+2026-02-14 15:20:53,702 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,710 INFO MOTION pixels=(195,191)
+2026-02-14 15:20:53,710 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,718 INFO MOTION pixels=(197,190)
+2026-02-14 15:20:53,718 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,726 INFO MOTION pixels=(199,189)
+2026-02-14 15:20:53,726 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,734 INFO MOTION pixels=(201,188)
+2026-02-14 15:20:53,734 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,743 INFO MOTION pixels=(203,187)
+2026-02-14 15:20:53,743 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,751 INFO MOTION pixels=(204,185)
+2026-02-14 15:20:53,751 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,763 INFO MOTION pixels=(205,184)
+2026-02-14 15:20:53,763 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,771 INFO MOTION pixels=(207,181)
+2026-02-14 15:20:53,771 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,780 INFO MOTION pixels=(208,179)
+2026-02-14 15:20:53,780 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,789 INFO MOTION pixels=(209,176)
+2026-02-14 15:20:53,789 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,796 INFO MOTION pixels=(209,175)
+2026-02-14 15:20:53,796 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,804 INFO MOTION pixels=(210,171)
+2026-02-14 15:20:53,804 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,813 INFO MOTION pixels=(210,169)
+2026-02-14 15:20:53,813 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,821 INFO MOTION pixels=(210,167)
+2026-02-14 15:20:53,821 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,829 INFO MOTION pixels=(210,165)
+2026-02-14 15:20:53,829 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,837 INFO MOTION pixels=(210,163)
+2026-02-14 15:20:53,837 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,846 INFO MOTION pixels=(210,162)
+2026-02-14 15:20:53,846 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,854 INFO MOTION pixels=(210,161)
+2026-02-14 15:20:53,854 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,862 INFO MOTION pixels=(211,160)
+2026-02-14 15:20:53,862 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,870 INFO MOTION pixels=(211,159)
+2026-02-14 15:20:53,870 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,941 INFO MOTION pixels=(211,158)
+2026-02-14 15:20:53,941 INFO Motion auto-focused canvas
+2026-02-14 15:20:53,994 INFO MOTION pixels=(212,158)
+2026-02-14 15:20:53,994 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,010 INFO MOTION pixels=(212,157)
+2026-02-14 15:20:54,011 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,053 INFO CANVAS PRESS widget=.!frame2.!canvas x=212 y=157 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:54,055 INFO Forwarding global press to canvas at 212,157
+2026-02-14 15:20:54,055 INFO CANVAS PRESS widget=.!frame2.!canvas x=212 y=157 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:54,154 INFO CANVAS RELEASE widget=.!frame2.!canvas x=212 y=157 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:54,155 INFO CANVAS ITEMS AT RELEASE: [(23, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90'), (27, 'oval', [210.0, 155.0, 214.0, 159.0], 'blue'), (28, 'oval', [209.0, 154.0, 215.0, 160.0], 'red'), (29, 'oval', [210.0, 155.0, 214.0, 159.0], 'blue')]
+2026-02-14 15:20:54,172 INFO POINTER pos=(217,243) containing_widget=.!frame2.!canvas
+2026-02-14 15:20:54,172 INFO CLICK pixels=(212,157) -> canvas
+2026-02-14 15:20:54,172 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:54,189 INFO Forwarding global release to canvas at 212,157
+2026-02-14 15:20:54,189 INFO CANVAS RELEASE widget=.!frame2.!canvas x=212 y=157 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:54,189 INFO CANVAS ITEMS AT RELEASE: [(52, 'oval', [201.0, 141.0, 219.0, 159.0], '#90EE90')]
+2026-02-14 15:20:54,189 INFO POINTER pos=(217,243) containing_widget=.!frame2.!canvas
+2026-02-14 15:20:54,189 INFO CLICK pixels=(212,157) -> canvas
+2026-02-14 15:20:54,189 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:54,457 INFO MOTION pixels=(213,158)
+2026-02-14 15:20:54,458 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,464 INFO MOTION pixels=(214,159)
+2026-02-14 15:20:54,464 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,469 INFO MOTION pixels=(217,160)
+2026-02-14 15:20:54,469 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,476 INFO MOTION pixels=(219,163)
+2026-02-14 15:20:54,476 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,489 INFO MOTION pixels=(225,167)
+2026-02-14 15:20:54,489 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,497 INFO MOTION pixels=(227,169)
+2026-02-14 15:20:54,497 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,505 INFO MOTION pixels=(231,173)
+2026-02-14 15:20:54,505 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,513 INFO MOTION pixels=(235,176)
+2026-02-14 15:20:54,513 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,521 INFO MOTION pixels=(239,179)
+2026-02-14 15:20:54,521 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,529 INFO MOTION pixels=(240,181)
+2026-02-14 15:20:54,529 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,538 INFO MOTION pixels=(244,183)
+2026-02-14 15:20:54,538 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,546 INFO MOTION pixels=(246,186)
+2026-02-14 15:20:54,546 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,554 INFO MOTION pixels=(248,187)
+2026-02-14 15:20:54,554 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,562 INFO MOTION pixels=(251,189)
+2026-02-14 15:20:54,562 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,571 INFO MOTION pixels=(252,190)
+2026-02-14 15:20:54,571 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,579 INFO MOTION pixels=(254,191)
+2026-02-14 15:20:54,579 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,587 INFO MOTION pixels=(255,193)
+2026-02-14 15:20:54,587 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,596 INFO MOTION pixels=(256,193)
+2026-02-14 15:20:54,596 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,604 INFO MOTION pixels=(257,194)
+2026-02-14 15:20:54,604 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,612 INFO MOTION pixels=(258,194)
+2026-02-14 15:20:54,612 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,620 INFO MOTION pixels=(259,195)
+2026-02-14 15:20:54,621 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,637 INFO MOTION pixels=(259,196)
+2026-02-14 15:20:54,637 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,645 INFO MOTION pixels=(260,196)
+2026-02-14 15:20:54,645 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,654 INFO MOTION pixels=(261,197)
+2026-02-14 15:20:54,654 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,662 INFO MOTION pixels=(261,198)
+2026-02-14 15:20:54,662 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,669 INFO MOTION pixels=(262,199)
+2026-02-14 15:20:54,669 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,677 INFO MOTION pixels=(263,201)
+2026-02-14 15:20:54,677 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,686 INFO MOTION pixels=(264,202)
+2026-02-14 15:20:54,686 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,694 INFO MOTION pixels=(265,203)
+2026-02-14 15:20:54,694 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,703 INFO MOTION pixels=(266,205)
+2026-02-14 15:20:54,703 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,711 INFO MOTION pixels=(267,207)
+2026-02-14 15:20:54,711 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,719 INFO MOTION pixels=(269,208)
+2026-02-14 15:20:54,719 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,727 INFO MOTION pixels=(270,210)
+2026-02-14 15:20:54,727 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,735 INFO MOTION pixels=(272,212)
+2026-02-14 15:20:54,735 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,744 INFO MOTION pixels=(273,213)
+2026-02-14 15:20:54,744 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,752 INFO MOTION pixels=(274,215)
+2026-02-14 15:20:54,752 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,760 INFO MOTION pixels=(276,216)
+2026-02-14 15:20:54,760 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,769 INFO MOTION pixels=(278,218)
+2026-02-14 15:20:54,769 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,777 INFO MOTION pixels=(279,220)
+2026-02-14 15:20:54,777 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,785 INFO MOTION pixels=(282,222)
+2026-02-14 15:20:54,785 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,793 INFO MOTION pixels=(284,223)
+2026-02-14 15:20:54,793 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,807 INFO MOTION pixels=(286,225)
+2026-02-14 15:20:54,807 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,814 INFO MOTION pixels=(288,227)
+2026-02-14 15:20:54,814 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,822 INFO MOTION pixels=(291,229)
+2026-02-14 15:20:54,822 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,831 INFO MOTION pixels=(294,231)
+2026-02-14 15:20:54,831 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,839 INFO MOTION pixels=(296,232)
+2026-02-14 15:20:54,839 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,847 INFO MOTION pixels=(300,236)
+2026-02-14 15:20:54,847 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,855 INFO MOTION pixels=(301,237)
+2026-02-14 15:20:54,855 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,867 INFO MOTION pixels=(304,239)
+2026-02-14 15:20:54,867 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,876 INFO MOTION pixels=(305,240)
+2026-02-14 15:20:54,876 INFO Motion auto-focused canvas
+2026-02-14 15:20:54,886 INFO MOTION pixels=(307,242)
+2026-02-14 15:20:54,886 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,164 INFO AI computation started
+2026-02-14 15:20:55,182 INFO AI computation finished
+2026-02-14 15:20:55,226 INFO MOTION pixels=(308,243)
+2026-02-14 15:20:55,227 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,235 INFO MOTION pixels=(309,244)
+2026-02-14 15:20:55,235 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,242 INFO MOTION pixels=(309,245)
+2026-02-14 15:20:55,242 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,259 INFO MOTION pixels=(309,246)
+2026-02-14 15:20:55,259 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,271 INFO MOTION pixels=(310,247)
+2026-02-14 15:20:55,271 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,296 INFO MOTION pixels=(310,248)
+2026-02-14 15:20:55,296 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,304 INFO MOTION pixels=(309,250)
+2026-02-14 15:20:55,304 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,312 INFO MOTION pixels=(306,252)
+2026-02-14 15:20:55,312 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,321 INFO MOTION pixels=(303,255)
+2026-02-14 15:20:55,321 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,329 INFO MOTION pixels=(299,258)
+2026-02-14 15:20:55,329 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,337 INFO MOTION pixels=(295,261)
+2026-02-14 15:20:55,337 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,345 INFO MOTION pixels=(290,263)
+2026-02-14 15:20:55,345 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,353 INFO MOTION pixels=(284,267)
+2026-02-14 15:20:55,353 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,362 INFO MOTION pixels=(278,270)
+2026-02-14 15:20:55,362 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,370 INFO MOTION pixels=(273,272)
+2026-02-14 15:20:55,370 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,378 INFO MOTION pixels=(267,274)
+2026-02-14 15:20:55,378 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,386 INFO MOTION pixels=(262,275)
+2026-02-14 15:20:55,386 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,394 INFO MOTION pixels=(256,276)
+2026-02-14 15:20:55,394 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,403 INFO MOTION pixels=(251,277)
+2026-02-14 15:20:55,403 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,411 INFO MOTION pixels=(245,278)
+2026-02-14 15:20:55,411 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,420 INFO MOTION pixels=(240,278)
+2026-02-14 15:20:55,420 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,428 INFO MOTION pixels=(235,279)
+2026-02-14 15:20:55,428 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,435 INFO MOTION pixels=(230,279)
+2026-02-14 15:20:55,435 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,444 INFO MOTION pixels=(225,279)
+2026-02-14 15:20:55,444 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,453 INFO MOTION pixels=(220,279)
+2026-02-14 15:20:55,453 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,461 INFO MOTION pixels=(215,279)
+2026-02-14 15:20:55,461 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,469 INFO MOTION pixels=(210,279)
+2026-02-14 15:20:55,469 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,477 INFO MOTION pixels=(206,278)
+2026-02-14 15:20:55,477 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,485 INFO MOTION pixels=(201,277)
+2026-02-14 15:20:55,485 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,494 INFO MOTION pixels=(197,275)
+2026-02-14 15:20:55,494 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,502 INFO MOTION pixels=(193,274)
+2026-02-14 15:20:55,502 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,510 INFO MOTION pixels=(189,273)
+2026-02-14 15:20:55,510 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,518 INFO MOTION pixels=(186,271)
+2026-02-14 15:20:55,518 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,526 INFO MOTION pixels=(182,270)
+2026-02-14 15:20:55,526 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,534 INFO MOTION pixels=(179,268)
+2026-02-14 15:20:55,534 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,543 INFO MOTION pixels=(175,267)
+2026-02-14 15:20:55,543 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,551 INFO MOTION pixels=(172,265)
+2026-02-14 15:20:55,551 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,559 INFO MOTION pixels=(168,264)
+2026-02-14 15:20:55,559 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,568 INFO MOTION pixels=(164,262)
+2026-02-14 15:20:55,568 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,576 INFO MOTION pixels=(162,261)
+2026-02-14 15:20:55,576 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,589 INFO MOTION pixels=(160,260)
+2026-02-14 15:20:55,589 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,597 INFO MOTION pixels=(157,260)
+2026-02-14 15:20:55,597 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,606 INFO MOTION pixels=(156,259)
+2026-02-14 15:20:55,607 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,613 INFO MOTION pixels=(154,259)
+2026-02-14 15:20:55,613 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,621 INFO MOTION pixels=(153,259)
+2026-02-14 15:20:55,621 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,629 INFO MOTION pixels=(153,258)
+2026-02-14 15:20:55,629 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,646 INFO MOTION pixels=(152,258)
+2026-02-14 15:20:55,646 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,741 INFO MOTION pixels=(153,258)
+2026-02-14 15:20:55,741 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,749 INFO MOTION pixels=(153,259)
+2026-02-14 15:20:55,749 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,782 INFO MOTION pixels=(153,260)
+2026-02-14 15:20:55,782 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,790 INFO MOTION pixels=(153,261)
+2026-02-14 15:20:55,790 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,799 INFO MOTION pixels=(153,262)
+2026-02-14 15:20:55,799 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,807 INFO MOTION pixels=(154,263)
+2026-02-14 15:20:55,807 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,818 INFO MOTION pixels=(154,264)
+2026-02-14 15:20:55,818 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,832 INFO MOTION pixels=(154,265)
+2026-02-14 15:20:55,832 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,840 INFO MOTION pixels=(154,266)
+2026-02-14 15:20:55,840 INFO Motion auto-focused canvas
+2026-02-14 15:20:55,865 INFO MOTION pixels=(154,267)
+2026-02-14 15:20:55,865 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,178 INFO MOTION pixels=(153,267)
+2026-02-14 15:20:56,178 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,325 INFO MOTION pixels=(153,266)
+2026-02-14 15:20:56,325 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,339 INFO MOTION pixels=(154,265)
+2026-02-14 15:20:56,339 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,347 INFO MOTION pixels=(156,264)
+2026-02-14 15:20:56,347 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,355 INFO MOTION pixels=(158,263)
+2026-02-14 15:20:56,355 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,363 INFO MOTION pixels=(160,262)
+2026-02-14 15:20:56,363 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,371 INFO MOTION pixels=(163,261)
+2026-02-14 15:20:56,371 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,380 INFO MOTION pixels=(165,260)
+2026-02-14 15:20:56,380 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,388 INFO MOTION pixels=(168,258)
+2026-02-14 15:20:56,388 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,396 INFO MOTION pixels=(172,257)
+2026-02-14 15:20:56,396 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,404 INFO MOTION pixels=(176,256)
+2026-02-14 15:20:56,404 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,417 INFO MOTION pixels=(182,254)
+2026-02-14 15:20:56,417 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,425 INFO MOTION pixels=(186,253)
+2026-02-14 15:20:56,425 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,433 INFO MOTION pixels=(192,252)
+2026-02-14 15:20:56,433 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,441 INFO MOTION pixels=(198,252)
+2026-02-14 15:20:56,442 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,452 INFO MOTION pixels=(203,251)
+2026-02-14 15:20:56,452 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,458 INFO MOTION pixels=(205,251)
+2026-02-14 15:20:56,458 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,466 INFO MOTION pixels=(212,250)
+2026-02-14 15:20:56,466 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,474 INFO MOTION pixels=(214,249)
+2026-02-14 15:20:56,474 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,482 INFO MOTION pixels=(220,249)
+2026-02-14 15:20:56,482 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,490 INFO MOTION pixels=(221,249)
+2026-02-14 15:20:56,490 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,499 INFO MOTION pixels=(224,249)
+2026-02-14 15:20:56,499 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,507 INFO MOTION pixels=(227,249)
+2026-02-14 15:20:56,507 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,516 INFO MOTION pixels=(229,249)
+2026-02-14 15:20:56,516 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,524 INFO MOTION pixels=(230,249)
+2026-02-14 15:20:56,524 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,532 INFO MOTION pixels=(231,249)
+2026-02-14 15:20:56,532 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,549 INFO MOTION pixels=(232,249)
+2026-02-14 15:20:56,549 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,581 INFO MOTION pixels=(231,247)
+2026-02-14 15:20:56,581 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,590 INFO MOTION pixels=(226,246)
+2026-02-14 15:20:56,590 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,598 INFO MOTION pixels=(221,243)
+2026-02-14 15:20:56,598 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,606 INFO MOTION pixels=(213,240)
+2026-02-14 15:20:56,606 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,614 INFO MOTION pixels=(203,236)
+2026-02-14 15:20:56,614 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,622 INFO MOTION pixels=(192,231)
+2026-02-14 15:20:56,622 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,631 INFO MOTION pixels=(181,225)
+2026-02-14 15:20:56,631 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,639 INFO MOTION pixels=(177,222)
+2026-02-14 15:20:56,639 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,648 INFO MOTION pixels=(167,216)
+2026-02-14 15:20:56,648 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,655 INFO MOTION pixels=(159,211)
+2026-02-14 15:20:56,655 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,663 INFO MOTION pixels=(152,206)
+2026-02-14 15:20:56,663 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,672 INFO MOTION pixels=(146,202)
+2026-02-14 15:20:56,672 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,680 INFO MOTION pixels=(141,197)
+2026-02-14 15:20:56,680 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,690 INFO MOTION pixels=(137,194)
+2026-02-14 15:20:56,690 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,696 INFO MOTION pixels=(134,190)
+2026-02-14 15:20:56,696 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,709 INFO MOTION pixels=(132,187)
+2026-02-14 15:20:56,709 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,717 INFO MOTION pixels=(130,184)
+2026-02-14 15:20:56,717 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,725 INFO MOTION pixels=(129,183)
+2026-02-14 15:20:56,726 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,733 INFO MOTION pixels=(127,180)
+2026-02-14 15:20:56,734 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,742 INFO MOTION pixels=(126,177)
+2026-02-14 15:20:56,742 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,751 INFO MOTION pixels=(125,175)
+2026-02-14 15:20:56,751 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,759 INFO MOTION pixels=(124,172)
+2026-02-14 15:20:56,759 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,767 INFO MOTION pixels=(123,171)
+2026-02-14 15:20:56,767 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,779 INFO MOTION pixels=(122,168)
+2026-02-14 15:20:56,779 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,787 INFO MOTION pixels=(121,167)
+2026-02-14 15:20:56,787 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,796 INFO MOTION pixels=(120,166)
+2026-02-14 15:20:56,796 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,804 INFO MOTION pixels=(119,164)
+2026-02-14 15:20:56,804 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,817 INFO MOTION pixels=(118,163)
+2026-02-14 15:20:56,817 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,824 INFO MOTION pixels=(117,161)
+2026-02-14 15:20:56,824 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,833 INFO MOTION pixels=(116,160)
+2026-02-14 15:20:56,833 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,841 INFO MOTION pixels=(115,159)
+2026-02-14 15:20:56,841 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,849 INFO MOTION pixels=(114,158)
+2026-02-14 15:20:56,849 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,857 INFO MOTION pixels=(113,157)
+2026-02-14 15:20:56,857 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,865 INFO MOTION pixels=(112,156)
+2026-02-14 15:20:56,865 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,873 INFO MOTION pixels=(111,155)
+2026-02-14 15:20:56,873 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,882 INFO MOTION pixels=(111,154)
+2026-02-14 15:20:56,882 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,890 INFO MOTION pixels=(110,153)
+2026-02-14 15:20:56,890 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,899 INFO MOTION pixels=(109,152)
+2026-02-14 15:20:56,899 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,907 INFO MOTION pixels=(108,152)
+2026-02-14 15:20:56,907 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,915 INFO MOTION pixels=(107,151)
+2026-02-14 15:20:56,915 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,923 INFO MOTION pixels=(106,151)
+2026-02-14 15:20:56,923 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,931 INFO MOTION pixels=(105,150)
+2026-02-14 15:20:56,932 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,939 INFO MOTION pixels=(104,149)
+2026-02-14 15:20:56,940 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,948 INFO MOTION pixels=(102,149)
+2026-02-14 15:20:56,948 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,956 INFO MOTION pixels=(101,148)
+2026-02-14 15:20:56,956 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,964 INFO MOTION pixels=(100,148)
+2026-02-14 15:20:56,964 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,973 INFO MOTION pixels=(99,147)
+2026-02-14 15:20:56,973 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,989 INFO MOTION pixels=(98,147)
+2026-02-14 15:20:56,989 INFO Motion auto-focused canvas
+2026-02-14 15:20:56,997 INFO MOTION pixels=(97,146)
+2026-02-14 15:20:56,997 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,039 INFO MOTION pixels=(96,146)
+2026-02-14 15:20:57,039 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,155 INFO CANVAS PRESS widget=.!frame2.!canvas x=96 y=146 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:57,157 INFO Forwarding global press to canvas at 96,146
+2026-02-14 15:20:57,157 INFO CANVAS PRESS widget=.!frame2.!canvas x=96 y=146 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:57,237 INFO CANVAS RELEASE widget=.!frame2.!canvas x=96 y=146 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:57,238 INFO CANVAS ITEMS AT RELEASE: [(162, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90'), (166, 'oval', [94.0, 144.0, 98.0, 148.0], 'blue'), (167, 'oval', [93.0, 143.0, 99.0, 149.0], 'red'), (168, 'oval', [94.0, 144.0, 98.0, 148.0], 'blue')]
+2026-02-14 15:20:57,239 INFO POINTER pos=(101,232) containing_widget=.!frame2.!canvas
+2026-02-14 15:20:57,239 INFO CLICK pixels=(96,146) -> canvas
+2026-02-14 15:20:57,239 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:57,264 INFO Forwarding global release to canvas at 96,146
+2026-02-14 15:20:57,264 INFO CANVAS RELEASE widget=.!frame2.!canvas x=96 y=146 focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:57,264 INFO CANVAS ITEMS AT RELEASE: [(193, 'oval', [81.0, 141.0, 99.0, 159.0], '#90EE90')]
+2026-02-14 15:20:57,269 INFO POINTER pos=(101,232) containing_widget=.!frame2.!canvas
+2026-02-14 15:20:57,269 INFO CLICK pixels=(96,146) -> canvas
+2026-02-14 15:20:57,269 INFO on_click widget=.!frame2.!canvas focus=.!frame2.!canvas grab=None
+2026-02-14 15:20:57,655 INFO MOTION pixels=(97,146)
+2026-02-14 15:20:57,655 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,663 INFO MOTION pixels=(100,145)
+2026-02-14 15:20:57,663 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,670 INFO MOTION pixels=(103,144)
+2026-02-14 15:20:57,670 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,678 INFO MOTION pixels=(106,143)
+2026-02-14 15:20:57,678 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,687 INFO MOTION pixels=(110,142)
+2026-02-14 15:20:57,687 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,694 INFO MOTION pixels=(114,139)
+2026-02-14 15:20:57,694 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,702 INFO MOTION pixels=(120,136)
+2026-02-14 15:20:57,702 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,710 INFO MOTION pixels=(129,132)
+2026-02-14 15:20:57,710 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,718 INFO MOTION pixels=(136,128)
+2026-02-14 15:20:57,718 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,727 INFO MOTION pixels=(144,122)
+2026-02-14 15:20:57,727 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,735 INFO MOTION pixels=(153,117)
+2026-02-14 15:20:57,735 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,743 INFO MOTION pixels=(157,114)
+2026-02-14 15:20:57,743 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,755 INFO MOTION pixels=(163,110)
+2026-02-14 15:20:57,755 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,764 INFO MOTION pixels=(169,104)
+2026-02-14 15:20:57,764 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,772 INFO MOTION pixels=(175,100)
+2026-02-14 15:20:57,772 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,784 INFO MOTION pixels=(189,88)
+2026-02-14 15:20:57,784 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,793 INFO MOTION pixels=(193,83)
+2026-02-14 15:20:57,793 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,801 INFO MOTION pixels=(198,79)
+2026-02-14 15:20:57,801 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,809 INFO MOTION pixels=(200,76)
+2026-02-14 15:20:57,809 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,817 INFO MOTION pixels=(205,71)
+2026-02-14 15:20:57,817 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,825 INFO MOTION pixels=(211,63)
+2026-02-14 15:20:57,825 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,835 INFO MOTION pixels=(214,58)
+2026-02-14 15:20:57,835 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,846 INFO MOTION pixels=(216,54)
+2026-02-14 15:20:57,846 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,854 INFO MOTION pixels=(219,50)
+2026-02-14 15:20:57,854 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,862 INFO MOTION pixels=(222,42)
+2026-02-14 15:20:57,862 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,871 INFO MOTION pixels=(223,39)
+2026-02-14 15:20:57,871 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,879 INFO MOTION pixels=(224,37)
+2026-02-14 15:20:57,879 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,887 INFO MOTION pixels=(227,30)
+2026-02-14 15:20:57,887 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,895 INFO MOTION pixels=(230,22)
+2026-02-14 15:20:57,895 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,903 INFO MOTION pixels=(230,20)
+2026-02-14 15:20:57,903 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,912 INFO MOTION pixels=(231,17)
+2026-02-14 15:20:57,912 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,920 INFO MOTION pixels=(233,13)
+2026-02-14 15:20:57,920 INFO Motion auto-focused canvas
+2026-02-14 15:20:57,937 INFO MOTION pixels=(241,1)
+2026-02-14 15:20:57,937 INFO Motion auto-focused canvas
+2026-02-14 15:20:58,235 INFO AI computation started
+2026-02-14 15:20:58,244 INFO AI computation finished
+2026-02-14 15:20:58,554 INFO Header: Main Menu clicked
+2026-02-14 15:20:58,564 INFO Main menu focused; focus_get=.!frame2.!canvas grab=None
+2026-02-14 15:20:58,695 INFO FOCUS_LABEL update focus=.!frame.!button2 grab=None

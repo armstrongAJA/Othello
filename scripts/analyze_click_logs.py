@@ -1,8 +1,12 @@
 import re
+import os
 from datetime import datetime
 
-DEBUG_LOG = 'othello_ui_debug.log'
-EVENT_LOG = 'othello_ui.log'
+# locate logs under tests/logs
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
+LOG_DIR = os.path.join(PROJECT_ROOT, 'tests', 'logs')
+DEBUG_LOG = os.path.join(LOG_DIR, 'othello_ui_debug.log')
+EVENT_LOG = os.path.join(LOG_DIR, 'othello_ui.log')
 
 # parse debug log for CANVAS PRESS/RELEASE
 press_re = re.compile(r'^(?P<ts>\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}).*CANVAS PRESS x=(?P<x>[-\d]+) y=(?P<y>[-\d]+)')

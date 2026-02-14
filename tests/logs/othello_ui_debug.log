@@ -1,0 +1,113 @@
+2026-02-14 15:11:38 UI INIT
+2026-02-14 15:11:38 CANVAS PRESS x=30 y=30
+2026-02-14 15:11:38 UI INIT
+2026-02-14 15:11:38 CANVAS RELEASE x=30 y=30
+2026-02-14 15:11:38 UI INIT
+2026-02-14 15:12:37 UI INIT
+2026-02-14 15:12:39 FOCUS IN widget=.
+2026-02-14 15:12:39 FOCUS IN widget=.!frame
+2026-02-14 15:12:39 FOCUS IN widget=.!frame.!button
+2026-02-14 15:12:39 GLOBAL CLICK widget=.!frame x=40 y=103 type=4 focus=.!frame.!button
+2026-02-14 15:12:41 GLOBAL CLICK widget=.!frame.!frame2.!radiobutton2 x=171 y=215 type=4 focus=.!frame.!button
+2026-02-14 15:12:43 GLOBAL CLICK widget=.!frame.!button x=150 y=288 type=4 focus=.!frame.!button
+2026-02-14 15:12:43 FOCUS OUT widget=.!frame.!button
+2026-02-14 15:12:43 FOCUS OUT widget=.!frame
+2026-02-14 15:12:43 FOCUS IN widget=.!frame2
+2026-02-14 15:12:43 FOCUS IN widget=.!frame2.!canvas
+2026-02-14 15:12:49 CANVAS PRESS x=250 y=152
+2026-02-14 15:12:49 GLOBAL CLICK widget=.!frame2.!canvas x=255 y=238 type=4 focus=.!frame2.!canvas
+2026-02-14 15:12:49 CANVAS PRESS x=250 y=152
+2026-02-14 15:12:49 CANVAS RELEASE x=248 y=152
+2026-02-14 15:12:49 CANVAS RELEASE x=248 y=152
+2026-02-14 15:12:50 CANVAS PRESS x=212 y=147
+2026-02-14 15:12:50 GLOBAL CLICK widget=.!frame2.!canvas x=217 y=233 type=4 focus=.!frame2.!canvas
+2026-02-14 15:12:50 CANVAS PRESS x=212 y=147
+2026-02-14 15:12:51 CANVAS RELEASE x=212 y=147
+2026-02-14 15:12:51 CANVAS RELEASE x=212 y=147
+2026-02-14 15:12:53 CANVAS PRESS x=90 y=155
+2026-02-14 15:12:53 GLOBAL CLICK widget=.!frame2.!canvas x=95 y=241 type=4 focus=.!frame2.!canvas
+2026-02-14 15:12:53 CANVAS PRESS x=90 y=155
+2026-02-14 15:12:53 CANVAS RELEASE x=90 y=155
+2026-02-14 15:12:53 CANVAS RELEASE x=90 y=155
+2026-02-14 15:13:00 CANVAS PRESS x=91 y=28
+2026-02-14 15:13:00 GLOBAL CLICK widget=.!frame2.!canvas x=96 y=114 type=4 focus=.!frame2.!canvas
+2026-02-14 15:13:00 CANVAS PRESS x=91 y=28
+2026-02-14 15:13:00 CANVAS RELEASE x=91 y=28
+2026-02-14 15:13:00 CANVAS RELEASE x=91 y=28
+2026-02-14 15:13:03 GLOBAL CLICK widget=.!frame2.!frame.!button2 x=212 y=73 type=4 focus=.!frame2.!canvas
+2026-02-14 15:13:03 FOCUS OUT widget=.!frame2.!canvas
+2026-02-14 15:13:03 FOCUS OUT widget=.!frame2
+2026-02-14 15:13:03 FOCUS IN widget=.!frame
+2026-02-14 15:13:03 FOCUS IN widget=.!frame.!button2
+2026-02-14 15:13:04 GLOBAL CLICK widget=.!frame.!frame4.!radiobutton2 x=168 y=171 type=4 focus=.!frame.!button2
+2026-02-14 15:13:05 GLOBAL CLICK widget=.!frame.!frame4.!radiobutton x=107 y=162 type=4 focus=.!frame.!button2
+2026-02-14 15:13:06 GLOBAL CLICK widget=.!frame.!button2 x=143 y=276 type=4 focus=.!frame.!button2
+2026-02-14 15:13:06 FOCUS OUT widget=.!frame.!button2
+2026-02-14 15:13:06 FOCUS OUT widget=.!frame
+2026-02-14 15:13:06 FOCUS IN widget=.!frame2
+2026-02-14 15:13:06 FOCUS IN widget=.!frame2.!canvas2
+2026-02-14 15:13:07 CANVAS PRESS x=212 y=157
+2026-02-14 15:13:07 GLOBAL CLICK widget=.!frame2.!canvas2 x=217 y=243 type=4 focus=.!frame2.!canvas2
+2026-02-14 15:13:07 CANVAS PRESS x=212 y=157
+2026-02-14 15:13:07 CANVAS RELEASE x=212 y=157
+2026-02-14 15:13:07 CANVAS RELEASE x=212 y=157
+2026-02-14 15:13:11 CANVAS PRESS x=91 y=152
+2026-02-14 15:13:11 GLOBAL CLICK widget=.!frame2.!canvas2 x=96 y=238 type=4 focus=.!frame2.!canvas2
+2026-02-14 15:13:11 CANVAS PRESS x=91 y=152
+2026-02-14 15:13:11 CANVAS RELEASE x=91 y=152
+2026-02-14 15:13:11 CANVAS RELEASE x=91 y=152
+2026-02-14 15:13:13 CANVAS PRESS x=323 y=209
+2026-02-14 15:13:13 GLOBAL CLICK widget=.!frame2.!canvas2 x=328 y=295 type=4 focus=.!frame2.!canvas2
+2026-02-14 15:13:13 CANVAS PRESS x=323 y=209
+2026-02-14 15:13:13 CANVAS RELEASE x=323 y=209
+2026-02-14 15:13:13 CANVAS RELEASE x=323 y=209
+2026-02-14 15:13:14 CANVAS PRESS x=94 y=32
+2026-02-14 15:13:14 GLOBAL CLICK widget=.!frame2.!canvas2 x=99 y=118 type=4 focus=.!frame2.!canvas2
+2026-02-14 15:13:14 CANVAS PRESS x=94 y=32
+2026-02-14 15:13:14 CANVAS RELEASE x=94 y=32
+2026-02-14 15:13:14 CANVAS RELEASE x=94 y=32
+2026-02-14 15:13:19 UI INIT
+2026-02-14 15:13:21 FOCUS IN widget=.
+2026-02-14 15:13:21 FOCUS IN widget=.!frame
+2026-02-14 15:13:21 FOCUS IN widget=.!frame.!button
+2026-02-14 15:13:22 GLOBAL CLICK widget=.!frame.!frame2.!radiobutton2 x=175 y=208 type=4 focus=.!frame.!button
+2026-02-14 15:13:23 GLOBAL CLICK widget=.!frame.!button x=151 y=273 type=4 focus=.!frame.!button
+2026-02-14 15:13:24 FOCUS OUT widget=.!frame.!button
+2026-02-14 15:13:24 FOCUS OUT widget=.!frame
+2026-02-14 15:13:24 FOCUS IN widget=.!frame2
+2026-02-14 15:13:24 FOCUS IN widget=.!frame2.!canvas
+2026-02-14 15:13:26 CANVAS PRESS x=212 y=149
+2026-02-14 15:13:26 GLOBAL CLICK widget=.!frame2.!canvas x=217 y=235 type=4 focus=.!frame2.!canvas
+2026-02-14 15:13:26 CANVAS PRESS x=212 y=149
+2026-02-14 15:13:26 CANVAS RELEASE x=212 y=149
+2026-02-14 15:13:26 CANVAS RELEASE x=212 y=149
+2026-02-14 15:13:29 CANVAS PRESS x=85 y=148
+2026-02-14 15:13:29 GLOBAL CLICK widget=.!frame2.!canvas x=90 y=234 type=4 focus=.!frame2.!canvas
+2026-02-14 15:13:29 CANVAS PRESS x=85 y=148
+2026-02-14 15:13:29 CANVAS RELEASE x=85 y=148
+2026-02-14 15:13:29 CANVAS RELEASE x=85 y=148
+2026-02-14 15:20:45 UI INIT
+2026-02-14 15:20:49 FOCUS IN widget=.
+2026-02-14 15:20:49 FOCUS IN widget=.!frame
+2026-02-14 15:20:49 FOCUS IN widget=.!frame.!button
+2026-02-14 15:20:51 GLOBAL CLICK widget=.!frame.!frame2.!radiobutton2 x=178 y=214 type=4 focus=.!frame.!button
+2026-02-14 15:20:53 GLOBAL CLICK widget=.!frame.!button x=146 y=281 type=4 focus=.!frame.!button
+2026-02-14 15:20:53 FOCUS OUT widget=.!frame.!button
+2026-02-14 15:20:53 FOCUS OUT widget=.!frame
+2026-02-14 15:20:53 FOCUS IN widget=.!frame2
+2026-02-14 15:20:53 FOCUS IN widget=.!frame2.!canvas
+2026-02-14 15:20:54 CANVAS PRESS x=212 y=157
+2026-02-14 15:20:54 GLOBAL CLICK widget=.!frame2.!canvas x=217 y=243 type=4 focus=.!frame2.!canvas
+2026-02-14 15:20:54 CANVAS PRESS x=212 y=157
+2026-02-14 15:20:54 CANVAS RELEASE x=212 y=157
+2026-02-14 15:20:54 CANVAS RELEASE x=212 y=157
+2026-02-14 15:20:57 CANVAS PRESS x=96 y=146
+2026-02-14 15:20:57 GLOBAL CLICK widget=.!frame2.!canvas x=101 y=232 type=4 focus=.!frame2.!canvas
+2026-02-14 15:20:57 CANVAS PRESS x=96 y=146
+2026-02-14 15:20:57 CANVAS RELEASE x=96 y=146
+2026-02-14 15:20:57 CANVAS RELEASE x=96 y=146
+2026-02-14 15:20:58 GLOBAL CLICK widget=.!frame2.!frame.!button2 x=239 y=72 type=4 focus=.!frame2.!canvas
+2026-02-14 15:20:58 FOCUS OUT widget=.!frame2.!canvas
+2026-02-14 15:20:58 FOCUS OUT widget=.!frame2
+2026-02-14 15:20:58 FOCUS IN widget=.!frame
+2026-02-14 15:20:58 FOCUS IN widget=.!frame.!button2

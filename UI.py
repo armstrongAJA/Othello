@@ -15,21 +15,33 @@ import math
 logger = logging.getLogger(__name__)
 # Dedicated file logger for UI events (keeps a persistent trace even if terminal output is missing)
 event_logger = logging.getLogger('UI.events')
-if not event_logger.handlers:
-    try:
-        log_path = os.path.join(os.getcwd(), 'othello_ui.log')
-        fh = logging.FileHandler(log_path)
-        fh.setLevel(logging.INFO)
-        fmt = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
-        fh.setFormatter(fmt)
-        event_logger.addHandler(fh)
-        event_logger.setLevel(logging.INFO)
-        event_logger.propagate = False
-    except Exception:
-        pass
+# Ensure logs are stored under the test logs folder to keep project root clean
+LOG_DIR = os.path.join(os.path.dirname(__file__), 'tests', 'logs')
+try:
+    os.makedirs(LOG_DIR, exist_ok=True)
+except Exception:
+    pass
+
+try:
+    # ensure logger writes to the test logs directory; replace any existing handlers
+    for h in list(event_logger.handlers):
+        try:
+            event_logger.removeHandler(h)
+        except Exception:
+            pass
+    log_path = os.path.join(LOG_DIR, 'othello_ui.log')
+    fh = logging.FileHandler(log_path)
+    fh.setLevel(logging.INFO)
+    fmt = logging.Formatter('%(asctime)s %(levelname)s %(message)s')
+    fh.setFormatter(fmt)
+    event_logger.addHandler(fh)
+    event_logger.setLevel(logging.INFO)
+    event_logger.propagate = False
+except Exception:
+    pass
 
 # Lightweight debug path used by some immediate writes
-DEBUG_PATH = os.path.join(os.getcwd(), 'othello_ui_debug.log')
+DEBUG_PATH = os.path.join(LOG_DIR, 'othello_ui_debug.log')
 
 
 class GameUI:
@@ -59,7 +71,7 @@ class GameUI:
         self.show_main_menu()
         # Lightweight fallback debug log (appends immediately)
         try:
-            debug_path = os.path.join(os.getcwd(), 'othello_ui_debug.log')
+            debug_path = DEBUG_PATH
             with open(debug_path, 'a') as f:
                 f.write(f"{time.strftime('%Y-%m-%d %H:%M:%S')} UI INIT\n")
         except Exception:
@@ -128,6 +140,11 @@ class GameUI:
                     pass
             Radiobutton(bf, text='Human', variable=self.black_mode, value='Human', command=_black_cmd, takefocus=1).pack(side='left')
             Radiobutton(bf, text='AI', variable=self.black_mode, value='AI', command=_black_cmd, takefocus=1).pack(side='left')
+            # keep a combobox attribute for test harnesses that expect it
+            try:
+                self.black_menu = ttk.Combobox(self.main_menu_frame, textvariable=self.black_mode, values=("Human", "AI"), state='readonly')
+            except Exception:
+                self.black_menu = None
 
         Label(self.main_menu_frame, text="White Player Mode:").pack()
         if getattr(self.main_menu_frame, 'tk', None) is None:
@@ -147,6 +164,11 @@ class GameUI:
                     pass
             Radiobutton(wf, text='Human', variable=self.white_mode, value='Human', command=_white_cmd, takefocus=1).pack(side='left')
             Radiobutton(wf, text='AI', variable=self.white_mode, value='AI', command=_white_cmd, takefocus=1).pack(side='left')
+            # keep a combobox attribute for test harnesses that expect it
+            try:
+                self.white_menu = ttk.Combobox(self.main_menu_frame, textvariable=self.white_mode, values=("Human", "AI"), state='readonly')
+            except Exception:
+                self.white_menu = None
 
         # AI difficulty selector -- prefer Radiobuttons at runtime, but fall back for test harnesses
         if getattr(self.main_menu_frame, 'tk', None) is None:
