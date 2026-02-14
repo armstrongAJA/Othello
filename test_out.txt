@@ -1,0 +1,304 @@
+Starting AI vs AI simulation
+Turn 0, current spaceState.BLACK
+AI debug: choose_move selected (3, 2) with flips=1
+AI chose (3, 2)
+can True added 1
+play_turn returned {'flipped': [(3, 3)], 'placed': (3, 2), 'mover_color': <spaceState.BLACK: 1>}
+Turn 1, current spaceState.WHITE
+AI debug: choose_move selected (2, 2) with flips=1
+AI chose (2, 2)
+can True added 1
+play_turn returned {'flipped': [(3, 3)], 'placed': (2, 2), 'mover_color': <spaceState.WHITE: 2>}
+Turn 2, current spaceState.BLACK
+AI debug: choose_move selected (1, 2) with flips=1
+AI chose (1, 2)
+can True added 1
+play_turn returned {'flipped': [(2, 2)], 'placed': (1, 2), 'mover_color': <spaceState.BLACK: 1>}
+Turn 3, current spaceState.WHITE
+AI debug: choose_move selected (1, 1) with flips=1
+AI chose (1, 1)
+can True added 1
+play_turn returned {'flipped': [(2, 2)], 'placed': (1, 1), 'mover_color': <spaceState.WHITE: 2>}
+Turn 4, current spaceState.BLACK
+AI debug: choose_move selected (1, 0) with flips=1
+AI chose (1, 0)
+can True added 1
+play_turn returned {'flipped': [(1, 1)], 'placed': (1, 0), 'mover_color': <spaceState.BLACK: 1>}
+Turn 5, current spaceState.WHITE
+AI debug: choose_move selected (4, 2) with flips=2
+AI chose (4, 2)
+can True added 2
+play_turn returned {'flipped': [(3, 2), (4, 3)], 'placed': (4, 2), 'mover_color': <spaceState.WHITE: 2>}
+Turn 6, current spaceState.BLACK
+AI debug: choose_move selected (5, 2) with flips=4
+AI chose (5, 2)
+can True added 4
+play_turn returned {'flipped': [(4, 2), (3, 2), (2, 2), (4, 3)], 'placed': (5, 2), 'mover_color': <spaceState.BLACK: 1>}
+Turn 7, current spaceState.WHITE
+AI debug: choose_move selected (0, 0) with flips=2
+AI chose (0, 0)
+can True added 2
+play_turn returned {'flipped': [(1, 1), (2, 2)], 'placed': (0, 0), 'mover_color': <spaceState.WHITE: 2>}
+Turn 8, current spaceState.BLACK
+AI debug: choose_move selected (2, 3) with flips=1
+AI chose (2, 3)
+can True added 1
+play_turn returned {'flipped': [(3, 3)], 'placed': (2, 3), 'mover_color': <spaceState.BLACK: 1>}
+Turn 9, current spaceState.WHITE
+AI debug: choose_move selected (6, 2) with flips=3
+AI chose (6, 2)
+can True added 3
+play_turn returned {'flipped': [(5, 2), (4, 2), (3, 2)], 'placed': (6, 2), 'mover_color': <spaceState.WHITE: 2>}
+Turn 10, current spaceState.BLACK
+AI debug: choose_move selected (7, 2) with flips=5
+AI chose (7, 2)
+can True added 5
+play_turn returned {'flipped': [(6, 2), (5, 2), (4, 2), (3, 2), (2, 2)], 'placed': (7, 2), 'mover_color': <spaceState.BLACK: 1>}
+Turn 11, current spaceState.WHITE
+AI debug: choose_move selected (4, 1) with flips=2
+AI chose (4, 1)
+can True added 2
+play_turn returned {'flipped': [(4, 2), (4, 3)], 'placed': (4, 1), 'mover_color': <spaceState.WHITE: 2>}
+Turn 12, current spaceState.BLACK
+AI debug: choose_move selected (5, 4) with flips=2
+AI chose (5, 4)
+can True added 2
+play_turn returned {'flipped': [(4, 4), (4, 3)], 'placed': (5, 4), 'mover_color': <spaceState.BLACK: 1>}
+Turn 13, current spaceState.WHITE
+AI debug: choose_move selected (0, 2) with flips=3
+AI chose (0, 2)
+can True added 3
+play_turn returned {'flipped': [(1, 2), (2, 2), (3, 2)], 'placed': (0, 2), 'mover_color': <spaceState.WHITE: 2>}
+Turn 14, current spaceState.BLACK
+AI debug: choose_move selected (4, 0) with flips=2
+AI chose (4, 0)
+can True added 2
+play_turn returned {'flipped': [(4, 1), (4, 2)], 'placed': (4, 0), 'mover_color': <spaceState.BLACK: 1>}
+Turn 15, current spaceState.WHITE
+AI debug: choose_move selected (3, 5) with flips=2
+AI chose (3, 5)
+can True added 2
+play_turn returned {'flipped': [(3, 4), (3, 3)], 'placed': (3, 5), 'mover_color': <spaceState.WHITE: 2>}
+Turn 16, current spaceState.BLACK
+AI debug: choose_move selected (2, 1) with flips=2
+AI chose (2, 1)
+can True added 2
+play_turn returned {'flipped': [(2, 2), (3, 2)], 'placed': (2, 1), 'mover_color': <spaceState.BLACK: 1>}
+Turn 17, current spaceState.WHITE
+AI debug: choose_move selected (3, 1) with flips=2
+AI chose (3, 1)
+can True added 2
+play_turn returned {'flipped': [(2, 1), (3, 2)], 'placed': (3, 1), 'mover_color': <spaceState.WHITE: 2>}
+Turn 18, current spaceState.BLACK
+AI debug: choose_move selected (0, 1) with flips=4
+AI chose (0, 1)
+can True added 4
+play_turn returned {'flipped': [(1, 1), (2, 1), (3, 1), (1, 2)], 'placed': (0, 1), 'mover_color': <spaceState.BLACK: 1>}
+Turn 19, current spaceState.WHITE
+AI debug: choose_move selected (2, 0) with flips=2
+AI chose (2, 0)
+can True added 2
+play_turn returned {'flipped': [(1, 0), (1, 1)], 'placed': (2, 0), 'mover_color': <spaceState.WHITE: 2>}
+Turn 20, current spaceState.BLACK
+AI debug: choose_move selected (3, 6) with flips=4
+AI chose (3, 6)
+can True added 4
+play_turn returned {'flipped': [(3, 5), (3, 4), (3, 3), (3, 2)], 'placed': (3, 6), 'mover_color': <spaceState.BLACK: 1>}
+Turn 21, current spaceState.WHITE
+AI debug: choose_move selected (6, 5) with flips=4
+AI chose (6, 5)
+can True added 4
+play_turn returned {'flipped': [(5, 4), (4, 3), (3, 2), (2, 1)], 'placed': (6, 5), 'mover_color': <spaceState.WHITE: 2>}
+Turn 22, current spaceState.BLACK
+AI debug: choose_move selected (3, 0) with flips=1
+AI chose (3, 0)
+can True added 1
+play_turn returned {'flipped': [(2, 1)], 'placed': (3, 0), 'mover_color': <spaceState.BLACK: 1>}
+Turn 23, current spaceState.WHITE
+AI debug: choose_move selected (2, 4) with flips=5
+AI chose (2, 4)
+can True added 5
+play_turn returned {'flipped': [(3, 4), (4, 4), (2, 3), (2, 2), (2, 1)], 'placed': (2, 4), 'mover_color': <spaceState.WHITE: 2>}
+Turn 24, current spaceState.BLACK
+AI debug: choose_move selected (4, 5) with flips=4
+AI chose (4, 5)
+can True added 4
+play_turn returned {'flipped': [(4, 4), (4, 3), (3, 4), (2, 3)], 'placed': (4, 5), 'mover_color': <spaceState.BLACK: 1>}
+Turn 25, current spaceState.WHITE
+AI debug: choose_move selected (5, 1) with flips=4
+AI chose (5, 1)
+can True added 4
+play_turn returned {'flipped': [(4, 1), (3, 1), (4, 2), (3, 3)], 'placed': (5, 1), 'mover_color': <spaceState.WHITE: 2>}
+Turn 26, current spaceState.BLACK
+AI debug: choose_move selected (6, 1) with flips=5
+AI chose (6, 1)
+can True added 5
+play_turn returned {'flipped': [(5, 1), (4, 1), (3, 1), (2, 1), (1, 1)], 'placed': (6, 1), 'mover_color': <spaceState.BLACK: 1>}
+Turn 27, current spaceState.WHITE
+AI debug: choose_move selected (4, 6) with flips=4
+AI chose (4, 6)
+can True added 4
+play_turn returned {'flipped': [(4, 5), (4, 4), (4, 3), (3, 5)], 'placed': (4, 6), 'mover_color': <spaceState.WHITE: 2>}
+Turn 28, current spaceState.BLACK
+AI debug: choose_move selected (4, 7) with flips=5
+AI chose (4, 7)
+can True added 5
+play_turn returned {'flipped': [(4, 6), (4, 5), (4, 4), (4, 3), (4, 2)], 'placed': (4, 7), 'mover_color': <spaceState.BLACK: 1>}
+Turn 29, current spaceState.WHITE
+AI debug: choose_move selected (5, 3) with flips=4
+AI chose (5, 3)
+can True added 4
+play_turn returned {'flipped': [(4, 3), (4, 4), (4, 2), (3, 1)], 'placed': (5, 3), 'mover_color': <spaceState.WHITE: 2>}
+Turn 30, current spaceState.BLACK
+AI debug: choose_move selected (5, 5) with flips=5
+AI chose (5, 5)
+can True added 5
+play_turn returned {'flipped': [(5, 4), (5, 3), (4, 4), (3, 3), (2, 2)], 'placed': (5, 5), 'mover_color': <spaceState.BLACK: 1>}
+Turn 31, current spaceState.WHITE
+AI debug: choose_move selected (7, 1) with flips=6
+AI chose (7, 1)
+can True added 6
+play_turn returned {'flipped': [(6, 1), (5, 1), (4, 1), (6, 2), (5, 3), (4, 4)], 'placed': (7, 1), 'mover_color': <spaceState.WHITE: 2>}
+Turn 32, current spaceState.BLACK
+AI debug: choose_move selected (5, 0) with flips=4
+AI chose (5, 0)
+can True added 4
+play_turn returned {'flipped': [(5, 1), (6, 1), (4, 1), (3, 2)], 'placed': (5, 0), 'mover_color': <spaceState.BLACK: 1>}
+Turn 33, current spaceState.WHITE
+AI debug: choose_move selected (6, 0) with flips=5
+AI chose (6, 0)
+can True added 5
+play_turn returned {'flipped': [(5, 0), (4, 0), (3, 0), (6, 1), (5, 1)], 'placed': (6, 0), 'mover_color': <spaceState.WHITE: 2>}
+Turn 34, current spaceState.BLACK
+AI debug: choose_move selected (7, 0) with flips=2
+AI chose (7, 0)
+can True added 2
+play_turn returned {'flipped': [(7, 1), (6, 1)], 'placed': (7, 0), 'mover_color': <spaceState.BLACK: 1>}
+Turn 35, current spaceState.WHITE
+AI debug: choose_move selected (1, 3) with flips=5
+AI chose (1, 3)
+can True added 5
+play_turn returned {'flipped': [(2, 3), (3, 3), (1, 2), (1, 1), (2, 2)], 'placed': (1, 3), 'mover_color': <spaceState.WHITE: 2>}
+Turn 36, current spaceState.BLACK
+AI debug: choose_move selected (2, 5) with flips=4
+AI chose (2, 5)
+can True added 4
+play_turn returned {'flipped': [(3, 5), (2, 4), (2, 3), (2, 2)], 'placed': (2, 5), 'mover_color': <spaceState.BLACK: 1>}
+Turn 37, current spaceState.WHITE
+AI debug: choose_move selected (2, 6) with flips=6
+AI chose (2, 6)
+can True added 6
+play_turn returned {'flipped': [(2, 5), (2, 4), (2, 3), (2, 2), (2, 1), (3, 5)], 'placed': (2, 6), 'mover_color': <spaceState.WHITE: 2>}
+Turn 38, current spaceState.BLACK
+AI debug: choose_move selected (1, 7) with flips=5
+AI chose (1, 7)
+can True added 5
+play_turn returned {'flipped': [(2, 6), (3, 5), (4, 4), (5, 3), (6, 2)], 'placed': (1, 7), 'mover_color': <spaceState.BLACK: 1>}
+Turn 39, current spaceState.WHITE
+AI debug: choose_move selected (5, 6) with flips=6
+AI chose (5, 6)
+can True added 6
+play_turn returned {'flipped': [(5, 5), (5, 4), (5, 3), (5, 2), (4, 5), (3, 4)], 'placed': (5, 6), 'mover_color': <spaceState.WHITE: 2>}
+Turn 40, current spaceState.BLACK
+AI debug: choose_move selected (6, 7) with flips=5
+AI chose (6, 7)
+can True added 5
+play_turn returned {'flipped': [(5, 6), (4, 5), (3, 4), (2, 3), (1, 2)], 'placed': (6, 7), 'mover_color': <spaceState.BLACK: 1>}
+Turn 41, current spaceState.WHITE
+AI debug: choose_move selected (3, 7) with flips=4
+AI chose (3, 7)
+can True added 4
+play_turn returned {'flipped': [(3, 6), (3, 5), (3, 4), (4, 6)], 'placed': (3, 7), 'mover_color': <spaceState.WHITE: 2>}
+Turn 42, current spaceState.BLACK
+AI debug: choose_move selected (6, 3) with flips=5
+AI chose (6, 3)
+can True added 5
+play_turn returned {'flipped': [(5, 3), (4, 3), (3, 3), (5, 4), (5, 2)], 'placed': (6, 3), 'mover_color': <spaceState.BLACK: 1>}
+Turn 43, current spaceState.WHITE
+AI debug: choose_move selected (7, 3) with flips=6
+AI chose (7, 3)
+can True added 6
+play_turn returned {'flipped': [(6, 3), (5, 3), (4, 3), (3, 3), (2, 3), (6, 2)], 'placed': (7, 3), 'mover_color': <spaceState.WHITE: 2>}
+Turn 44, current spaceState.BLACK
+AI debug: choose_move selected (1, 4) with flips=6
+AI chose (1, 4)
+can True added 6
+play_turn returned {'flipped': [(2, 4), (3, 4), (1, 3), (2, 5), (3, 6), (2, 3)], 'placed': (1, 4), 'mover_color': <spaceState.BLACK: 1>}
+Turn 45, current spaceState.WHITE
+AI debug: choose_move selected (2, 7) with flips=7
+AI chose (2, 7)
+can True added 7
+play_turn returned {'flipped': [(2, 6), (2, 5), (2, 4), (2, 3), (3, 6), (4, 5), (5, 4)], 'placed': (2, 7), 'mover_color': <spaceState.WHITE: 2>}
+Turn 46, current spaceState.BLACK
+AI debug: choose_move selected (1, 6) with flips=4
+AI chose (1, 6)
+can True added 4
+play_turn returned {'flipped': [(2, 6), (3, 6), (4, 6), (2, 5)], 'placed': (1, 6), 'mover_color': <spaceState.BLACK: 1>}
+Turn 47, current spaceState.WHITE
+AI debug: choose_move selected (1, 5) with flips=5
+AI chose (1, 5)
+can True added 5
+play_turn returned {'flipped': [(2, 5), (1, 4), (1, 3), (1, 2), (2, 6)], 'placed': (1, 5), 'mover_color': <spaceState.WHITE: 2>}
+Turn 48, current spaceState.BLACK
+AI debug: choose_move selected (6, 4) with flips=4
+AI chose (6, 4)
+can True added 4
+play_turn returned {'flipped': [(5, 4), (6, 3), (6, 2), (5, 5)], 'placed': (6, 4), 'mover_color': <spaceState.BLACK: 1>}
+Turn 49, current spaceState.WHITE
+AI debug: choose_move selected (7, 4) with flips=7
+AI chose (7, 4)
+can True added 7
+play_turn returned {'flipped': [(6, 4), (5, 4), (4, 4), (3, 4), (6, 3), (5, 2), (4, 1)], 'placed': (7, 4), 'mover_color': <spaceState.WHITE: 2>}
+Turn 50, current spaceState.BLACK
+AI debug: choose_move selected (0, 5) with flips=6
+AI chose (0, 5)
+can True added 6
+play_turn returned {'flipped': [(1, 5), (2, 5), (3, 5), (4, 5), (1, 4), (2, 3)], 'placed': (0, 5), 'mover_color': <spaceState.BLACK: 1>}
+Turn 51, current spaceState.WHITE
+AI debug: choose_move selected (5, 7) with flips=5
+AI chose (5, 7)
+can True added 5
+play_turn returned {'flipped': [(4, 7), (5, 6), (5, 5), (4, 6), (3, 5)], 'placed': (5, 7), 'mover_color': <spaceState.WHITE: 2>}
+Turn 52, current spaceState.BLACK
+AI debug: choose_move selected (6, 6) with flips=5
+AI chose (6, 6)
+can True added 5
+play_turn returned {'flipped': [(5, 6), (4, 6), (6, 5), (6, 4), (6, 3)], 'placed': (6, 6), 'mover_color': <spaceState.BLACK: 1>}
+Turn 53, current spaceState.WHITE
+AI debug: choose_move selected (7, 6) with flips=5
+AI chose (7, 6)
+can True added 5
+play_turn returned {'flipped': [(6, 6), (5, 6), (4, 6), (3, 6), (6, 5)], 'placed': (7, 6), 'mover_color': <spaceState.WHITE: 2>}
+Turn 54, current spaceState.BLACK
+AI debug: choose_move selected (7, 5) with flips=4
+AI chose (7, 5)
+can True added 4
+play_turn returned {'flipped': [(6, 5), (5, 5), (7, 4), (7, 3)], 'placed': (7, 5), 'mover_color': <spaceState.BLACK: 1>}
+Turn 55, current spaceState.WHITE
+AI debug: choose_move selected (0, 7) with flips=3
+AI chose (0, 7)
+can True added 3
+play_turn returned {'flipped': [(1, 7), (1, 6), (2, 5)], 'placed': (0, 7), 'mover_color': <spaceState.WHITE: 2>}
+Turn 56, current spaceState.BLACK
+AI debug: choose_move selected (0, 3) with flips=2
+AI chose (0, 3)
+can True added 2
+play_turn returned {'flipped': [(1, 3), (0, 2)], 'placed': (0, 3), 'mover_color': <spaceState.BLACK: 1>}
+Turn 57, current spaceState.WHITE
+AI debug: choose_move selected (0, 4) with flips=6
+AI chose (0, 4)
+can True added 6
+play_turn returned {'flipped': [(1, 4), (0, 3), (0, 2), (0, 1), (1, 5), (1, 3)], 'placed': (0, 4), 'mover_color': <spaceState.WHITE: 2>}
+Turn 58, current spaceState.BLACK
+AI debug: choose_move selected (7, 7) with flips=2
+AI chose (7, 7)
+can True added 2
+play_turn returned {'flipped': [(7, 6), (6, 6)], 'placed': (7, 7), 'mover_color': <spaceState.BLACK: 1>}
+Turn 59, current spaceState.WHITE
+AI debug: choose_move selected (0, 6) with flips=1
+AI chose (0, 6)
+can True added 1
+Game over.
+play_turn returned {'flipped': [(0, 5)], 'placed': (0, 6), 'mover_color': <spaceState.WHITE: 2>}
+finished 60
+NO ERRORS

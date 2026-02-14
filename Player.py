@@ -1,4 +1,7 @@
 from Board import spaceState
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class Player:
@@ -19,6 +22,7 @@ class Player:
                 if board.is_empty(x, y):
                     if self.can_flip(x, y, board):
                         moves.append((x, y))
+        logger.debug('getPossibleMoves for %s -> %s', self.color, moves)
         return moves
 
     def can_flip(self, x, y, board):
@@ -29,7 +33,9 @@ class Player:
             for direction in [(1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (1, -1), (-1, 1), (-1, -1)]:
                 dx, dy = direction
                 if self.check_direction(x, y, dx, dy, self.opponent_color, board):
+                    logger.debug('can_flip(%s,%s) for %s -> True', x, y, self.color)
                     return True
+        logger.debug('can_flip(%s,%s) for %s -> False', x, y, self.color)
         return False
                 
     def check_direction(self, x, y, dx, dy, opponent_color, board):
@@ -68,7 +74,8 @@ class Player:
                     count += 1
                     x_temp += dx
                     y_temp += dy
-        return count
+                logger.debug('numberOfAddedPieces(%s,%s) for %s -> %s', x, y, self.color, count)
+                return count
     
     def calculateScore(self, board):
         # This function should calculate the player's score based on the current state of the board
@@ -82,18 +89,21 @@ class Player:
     
     def makeMove(self, x, y, board):
         # This function should place a piece at (x, y) and flip the opponent's pieces accordingly
+        flipped = []
         if board.is_empty(x, y) and self.can_flip(x, y, board):
             board.place_piece(x, y, self.color)
-            # Flip the opponent's pieces in all 8 directions
+            # Flip the opponent's pieces in all 8 directions and record flipped coords
             for direction in [(1, 0), (-1, 0), (0, 1), (0, -1), (1, 1), (1, -1), (-1, 1), (-1, -1)]:
                 dx, dy = direction
                 if self.check_direction(x, y, dx, dy, self.opponent_color, board):
-                    # Flip the pieces in this direction
                     x_temp = x + dx
                     y_temp = y + dy
                     while 0 <= x_temp < board.size and 0 <= y_temp < board.size and board.board[y_temp][x_temp] == self.opponent_color:
                         board.place_piece(x_temp, y_temp, self.color)
+                        flipped.append((x_temp, y_temp))
                         x_temp += dx
                         y_temp += dy
+        logger.debug('makeMove by %s placed (%s,%s) flipped=%s', self.color, x, y, flipped)
+        return flipped
 
     

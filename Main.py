@@ -1,4 +1,10 @@
 #Entry point for the Othello game. Initializes the board and starts the game loop.
+import logging
+
+# Default to DEBUG so interactive runs show module debug logs; change to INFO to reduce verbosity.
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s %(levelname)s %(name)s: %(message)s')
+logging.getLogger().debug('Logging initialized at DEBUG level')
+
 from Game import Game
 try:
     from UI import GameUI

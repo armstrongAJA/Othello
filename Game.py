@@ -1,6 +1,9 @@
 from Board import Board, spaceState
 from Player import Player
 from AI import AI
+import logging
+
+logger = logging.getLogger(__name__)
 
 
 class Game:
@@ -16,31 +19,37 @@ class Game:
             self.current_player = self.player2
         else:
             self.current_player = self.player1
+        logger.debug('Switched current_player to %s', getattr(self.current_player, 'color', None))
 
     def play_turn(self, x, y):
+        logger.debug('play_turn called with (%s,%s) by %s', x, y, getattr(self.current_player, 'color', None))
         if not self.board.is_empty(x, y):
-            print("Invalid move: Space is not empty.")
-            return
+            logger.info('Invalid move: Space is not empty at (%s,%s)', x, y)
+            return None
 
         if not self.current_player.can_flip(x, y, self.board):
-            print("Invalid move: No pieces would be flipped.")
-            return
+            logger.info('Invalid move: No pieces would be flipped at (%s,%s) for %s', x, y, getattr(self.current_player, 'color', None))
+            return None
 
         # Perform the move (Player.makeMove handles placement and flipping)
-        self.current_player.makeMove(x, y, self.board)
+        mover = self.current_player
+        flipped = mover.makeMove(x, y, self.board)
+        logger.debug('play_turn result flipped=%s', flipped)
 
         # After a successful move, switch to the other player
         self.switch_player()
 
         # If neither player has moves, the game is over
         if self.check_game_over():
-            print("Game over.")
-            return
+            logger.info('Game over detected')
+            return {'flipped': flipped, 'placed': (x, y), 'mover_color': mover.color}
 
         # If the next player has no moves, skip their turn back to the previous player
         if not self.current_player.getPossibleMoves(self.board):
-            print("No valid moves for the next player; skipping turn.")
+            logger.info('No valid moves for the next player; skipping turn.')
             self.switch_player()
+
+        return {'flipped': flipped, 'placed': (x, y), 'mover_color': mover.color}
             
     def check_game_over(self):
         # This function should check if the game is over, which happens when neither player has a valid move
