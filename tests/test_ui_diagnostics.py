@@ -6,7 +6,7 @@ import time
 # Ensure project root is importable when running tests directly
 sys.path.insert(0, os.path.dirname(os.path.dirname(__file__)))
 
-from UI import GameUI
+from pygame_ui import PygameUI as GameUI
 from Game import Game
 from Board import spaceState
 
